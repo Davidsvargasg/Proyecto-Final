@@ -1,0 +1,1206 @@
+Player,Age,Nat.,Club,Market value,minutes_played,goals,assists,position,foot,height_in_cm,overall,potential,total_gk,total_stats,pace,shooting,passing,dribbling,defending,physical,cost
+Jude Bellingham,21,England,Real Madrid,180.0,13820.0,47.0,38.0,Midfield,right,186.0,88.0,92.0,48.0,2295.0,80.0,83.0,81.0,87.0,78.0,83.0,128.5
+Florian Wirtz,21,Germany,Bayer 04 Leverkusen,130.0,10929.0,41.0,50.0,Midfield,right,177.0,87.0,92.0,57.0,2089.0,80.0,76.0,86.0,88.0,50.0,63.0,118.5
+Jamal Musiala,21,Germany,Bayern Munich,130.0,9175.0,43.0,31.0,Midfield,right,184.0,86.0,93.0,42.0,2090.0,85.0,75.0,76.0,91.0,63.0,61.0,134.5
+Eduardo Camavinga,21,France,Real Madrid,100.0,13733.0,4.0,13.0,Midfield,left,182.0,83.0,90.0,50.0,2197.0,80.0,67.0,81.0,84.0,78.0,80.0,71.5
+Xavi Simons,21,Netherlands,RB Leipzig,80.0,7397.0,32.0,27.0,Midfield,right,179.0,82.0,89.0,43.0,2139.0,87.0,77.0,78.0,85.0,61.0,74.0,60.5
+Rasmus Højlund,21,Denmark,Manchester United,65.0,5388.0,27.0,6.0,Attack,left,191.0,78.0,89.0,50.0,1869.0,84.0,77.0,58.0,74.0,33.0,83.0,31.0
+Warren Zaïre-Emery,18,France,Paris Saint-Germain,60.0,3956.0,5.0,6.0,Midfield,right,178.0,80.0,90.0,55.0,2113.0,79.0,68.0,76.0,79.0,75.0,78.0,43.5
+Kobbie Mainoo,19,England,Manchester United,55.0,2492.0,5.0,1.0,Midfield,right,180.0,72.0,87.0,49.0,1923.0,74.0,60.0,68.0,77.0,68.0,69.0,5.0
+Leny Yoro,18,France,Manchester United,50.0,3610.0,3.0,0.0,Defender,right,190.0,77.0,86.0,53.0,1740.0,73.0,41.0,58.0,61.0,78.0,73.0,20.0
+Bradley Barcola,21,France,Paris Saint-Germain,50.0,3908.0,10.0,20.0,Attack,right,182.0,80.0,87.0,43.0,1925.0,86.0,74.0,75.0,80.0,34.0,64.0,42.0
+Evan Ferguson,19,Ireland,Brighton & Hove Albion,50.0,3143.0,16.0,5.0,Attack,right,188.0,74.0,86.0,54.0,1729.0,72.0,74.0,62.0,70.0,21.0,70.0,10.0
+Levi Colwill,21,England,Chelsea FC,50.0,4049.0,1.0,3.0,Defender,left,187.0,76.0,83.0,61.0,1841.0,72.0,40.0,68.0,68.0,76.0,76.0,14.0
+Arda Güler,19,Türkiye,Real Madrid,45.0,2030.0,14.0,8.0,Attack,left,175.0,77.0,88.0,58.0,1964.0,72.0,70.0,80.0,82.0,52.0,50.0,22.0
+Giorgio Scalvini,20,Italy,Atalanta BC,45.0,6569.0,5.0,5.0,Defender,right,194.0,77.0,87.0,45.0,1672.0,64.0,35.0,57.0,61.0,78.0,74.0,21.0
+Pape Matar Sarr,21,Senegal,Tottenham Hotspur,45.0,6290.0,7.0,7.0,Midfield,right,184.0,78.0,84.0,52.0,2030.0,70.0,65.0,75.0,78.0,74.0,75.0,21.5
+Johan Bakayoko,21,Belgium,PSV Eindhoven,45.0,5718.0,21.0,19.0,Attack,left,179.0,78.0,88.0,43.0,1837.0,87.0,69.0,69.0,81.0,31.0,64.0,31.0
+Destiny Udogie,21,Italy,Tottenham Hotspur,45.0,8283.0,10.0,10.0,Defender,left,188.0,81.0,86.0,57.0,2104.0,88.0,65.0,73.0,79.0,76.0,80.0,35.5
+Ousmane Diomande,20,Cote d'Ivoire,Sporting CP,40.0,4222.0,5.0,1.0,Defender,right,190.0,78.0,86.0,41.0,1696.0,74.0,26.0,53.0,73.0,77.0,83.0,28.5
+Mathys Tel,19,France,Bayern Munich,40.0,2056.0,16.0,6.0,Attack,right,183.0,75.0,88.0,54.0,1830.0,82.0,78.0,64.0,77.0,28.0,60.0,13.0
+Castello Lukeba,21,France,RB Leipzig,40.0,8590.0,5.0,0.0,Defender,left,184.0,79.0,86.0,56.0,1889.0,74.0,43.0,68.0,72.0,80.0,77.0,32.0
+Rico Lewis,19,England,Manchester City,38.0,3036.0,3.0,4.0,Defender,right,169.0,75.0,86.0,55.0,1880.0,76.0,46.0,73.0,79.0,70.0,59.0,11.5
+Elye Wahi,21,France,Olympique Marseille,35.0,7163.0,44.0,13.0,Attack,right,181.0,77.0,84.0,51.0,1919.0,84.0,79.0,67.0,79.0,31.0,67.0,21.0
+Malo Gusto,21,France,Chelsea FC,35.0,6402.0,0.0,15.0,Defender,right,178.0,78.0,86.0,49.0,1984.0,87.0,49.0,72.0,77.0,71.0,75.0,29.5
+Harvey Elliott,21,England,Liverpool FC,35.0,5876.0,10.0,13.0,Midfield,left,170.0,77.0,85.0,47.0,1940.0,75.0,67.0,76.0,81.0,53.0,57.0,23.0
+Tino Livramento,21,England,Newcastle United,35.0,4333.0,2.0,3.0,Defender,right,182.0,77.0,85.0,56.0,1948.0,81.0,50.0,68.0,78.0,74.0,72.0,22.0
+Désiré Doué,19,France,Paris Saint-Germain,30.0,3297.0,8.0,6.0,Attack,both,181.0,74.0,85.0,46.0,1855.0,78.0,68.0,69.0,80.0,48.0,63.0,9.0
+Jorrel Hato,18,Netherlands,Ajax Amsterdam,30.0,4546.0,1.0,3.0,Defender,left,182.0,73.0,88.0,40.0,1820.0,85.0,39.0,66.0,71.0,73.0,69.0,6.5
+Kenan Yıldız,19,Türkiye,Juventus FC,30.0,1086.0,4.0,1.0,Attack,both,187.0,66.0,83.0,56.0,1675.0,75.0,58.0,65.0,72.0,28.0,61.0,2.2
+Aleksandar Pavlovic,20,Germany,Bayern Munich,30.0,1435.0,2.0,2.0,Midfield,both,188.0,70.0,84.0,46.0,1777.0,62.0,55.0,69.0,69.0,67.0,61.0,3.6
+Adam Wharton,20,England,Crystal Palace,30.0,1560.0,0.0,3.0,Midfield,left,182.0,76.0,85.0,47.0,2009.0,68.0,61.0,77.0,76.0,71.0,70.0,15.0
+Bilal El Khannouss,20,Morocco,KRC Genk,30.0,4915.0,4.0,9.0,Midfield,right,180.0,74.0,86.0,53.0,1764.0,71.0,60.0,75.0,80.0,37.0,54.0,10.0
+Maximilian Beier,21,Germany,Borussia Dortmund,30.0,2784.0,18.0,4.0,Attack,right,185.0,76.0,84.0,41.0,1813.0,91.0,76.0,63.0,78.0,25.0,58.0,16.5
+Hugo Larsson,20,Sweden,Eintracht Frankfurt,28.0,2063.0,2.0,2.0,Midfield,right,187.0,73.0,85.0,48.0,1896.0,76.0,62.0,66.0,73.0,64.0,75.0,7.0
+Arthur Vermeeren,19,Belgium,Atlético de Madrid,25.0,4511.0,2.0,7.0,Midfield,right,180.0,76.0,87.0,45.0,1952.0,75.0,55.0,75.0,77.0,71.0,69.0,15.0
+Michael Kayode,20,Italy,ACF Fiorentina,25.0,2489.0,1.0,2.0,Defender,right,179.0,66.0,82.0,53.0,1593.0,69.0,34.0,50.0,65.0,67.0,60.0,2.1
+Lesley Ugochukwu,20,France,Southampton FC,25.0,2947.0,1.0,1.0,Midfield,right,190.0,72.0,82.0,57.0,1917.0,65.0,57.0,69.0,71.0,72.0,75.0,5.0
+Matías Soulé,21,Argentina,AS Roma,25.0,3802.0,12.0,3.0,Attack,left,182.0,76.0,87.0,63.0,1869.0,76.0,69.0,74.0,81.0,36.0,50.0,16.5
+Oscar Bobb,21,Norway,Manchester City,25.0,819.0,2.0,2.0,Attack,left,175.0,68.0,82.0,55.0,1656.0,80.0,61.0,63.0,74.0,33.0,42.0,2.9
+Rayan Cherki,21,France,Olympique Lyon,25.0,5158.0,8.0,19.0,Midfield,both,180.0,74.0,84.0,43.0,1749.0,68.0,67.0,72.0,84.0,21.0,61.0,9.0
+Carlos Baleba,20,Cameroon,Brighton & Hove Albion,22.0,2015.0,0.0,2.0,Midfield,left,179.0,70.0,82.0,52.0,1839.0,77.0,51.0,63.0,72.0,65.0,70.0,3.6
+Lewis Miley,18,England,Newcastle United,22.0,1743.0,1.0,4.0,Midfield,right,189.0,70.0,85.0,45.0,1815.0,63.0,61.0,69.0,72.0,60.0,65.0,3.6
+Jarell Quansah,21,England,Liverpool FC,22.0,2494.0,3.0,3.0,Defender,right,190.0,72.0,82.0,44.0,1685.0,73.0,33.0,56.0,65.0,72.0,75.0,4.8
+Yunus Musah,21,United States,AC Milan,22.0,6229.0,3.0,5.0,Midfield,right,178.0,75.0,83.0,51.0,2095.0,88.0,69.0,71.0,80.0,71.0,84.0,12.5
+Youssoufa Moukoko,19,Germany,Borussia Dortmund,22.0,3162.0,18.0,8.0,Attack,left,179.0,77.0,87.0,60.0,1857.0,80.0,75.0,59.0,80.0,34.0,65.0,22.5
+Alex Scott,21,England,AFC Bournemouth,20.0,1384.0,2.0,4.0,Midfield,right,178.0,72.0,84.0,54.0,1962.0,74.0,62.0,72.0,77.0,63.0,68.0,5.5
+Milos Kerkez,20,Hungary,AFC Bournemouth,20.0,5706.0,3.0,5.0,Defender,left,180.0,75.0,85.0,57.0,1925.0,82.0,53.0,66.0,73.0,69.0,74.0,11.5
+Brajan Gruda,20,Germany,Brighton & Hove Albion,20.0,1742.0,4.0,3.0,Attack,left,178.0,70.0,86.0,50.0,1793.0,78.0,68.0,65.0,77.0,30.0,58.0,4.1
+Jhon Durán,20,Colombia,Aston Villa,20.0,786.0,6.0,0.0,Attack,left,185.0,72.0,82.0,36.0,1756.0,79.0,72.0,58.0,71.0,32.0,77.0,5.0
+Facundo Buonanotte,19,Argentina,Leicester City,18.0,2493.0,5.0,2.0,Midfield,left,174.0,71.0,82.0,47.0,1678.0,75.0,65.0,68.0,73.0,25.0,50.0,4.0
+Ernest Nuamah,20,Ghana,Olympique Lyon,18.0,4287.0,18.0,7.0,Attack,left,178.0,74.0,84.0,52.0,1745.0,85.0,67.0,63.0,79.0,24.0,62.0,9.0
+Guillaume Restes,19,France,FC Toulouse,18.0,3870.0,0.0,0.0,Goalkeeper,left,188.0,75.0,87.0,374.0,1100.0,76.0,72.0,75.0,78.0,36.0,73.0,11.5
+Habib Diarra,20,Senegal,RC Strasbourg Alsace,18.0,4048.0,6.0,4.0,Midfield,right,178.0,72.0,84.0,42.0,1909.0,69.0,63.0,69.0,73.0,68.0,71.0,5.5
+Farès Chaïbi,21,Algeria,Eintracht Frankfurt,18.0,4496.0,7.0,12.0,Midfield,right,183.0,76.0,86.0,58.0,2027.0,73.0,69.0,76.0,74.0,68.0,71.0,16.5
+Lewis Hall,19,England,Newcastle United,18.0,1790.0,2.0,0.0,Defender,left,179.0,68.0,83.0,53.0,1860.0,71.0,59.0,69.0,71.0,65.0,57.0,2.7
+James Trafford,21,England,Burnley FC,18.0,2520.0,0.0,0.0,Goalkeeper,right,197.0,71.0,84.0,351.0,1034.0,70.0,69.0,69.0,73.0,27.0,70.0,4.0
+Arsen Zakharyan,21,Russia,Real Sociedad,18.0,8702.0,20.0,27.0,Midfield,right,183.0,74.0,85.0,60.0,1938.0,79.0,70.0,74.0,72.0,53.0,60.0,9.5
+Zeno Debast,20,Belgium,Sporting CP,18.0,6073.0,0.0,1.0,Defender,right,191.0,73.0,84.0,38.0,1859.0,66.0,53.0,70.0,69.0,73.0,73.0,6.0
+Giovanni Reyna,21,United States,Borussia Dortmund,18.0,5363.0,17.0,18.0,Midfield,right,185.0,78.0,84.0,56.0,1934.0,77.0,73.0,74.0,82.0,37.0,69.0,22.0
+Yankuba Minteh,20,The Gambia,Brighton & Hove Albion,16.0,2627.0,13.0,9.0,Attack,left,180.0,72.0,86.0,43.0,1732.0,93.0,61.0,59.0,76.0,41.0,54.0,5.5
+Jack Hinshelwood,19,England,Brighton & Hove Albion,16.0,1218.0,3.0,0.0,Midfield,right,182.0,66.0,82.0,41.0,1842.0,63.0,62.0,66.0,67.0,63.0,64.0,2.1
+Wilfried Gnonto,20,Italy,Leeds United,16.0,1936.0,5.0,5.0,Attack,right,170.0,74.0,85.0,53.0,1836.0,87.0,72.0,65.0,79.0,30.0,66.0,9.0
+Eli Junior Kroupi,18,France,FC Lorient,15.0,1084.0,5.0,3.0,Attack,right,179.0,67.0,81.0,53.0,1735.0,71.0,61.0,65.0,72.0,45.0,53.0,2.3
+Antonio Nusa,19,Norway,RB Leipzig,15.0,1947.0,5.0,5.0,Attack,right,180.0,72.0,86.0,59.0,1848.0,88.0,64.0,65.0,79.0,41.0,59.0,5.5
+Eliesse Ben Seghir,19,Morocco,AS Monaco,15.0,1609.0,6.0,5.0,Midfield,right,178.0,73.0,85.0,39.0,1761.0,77.0,73.0,65.0,76.0,28.0,54.0,7.0
+Valentín Carboni,19,Argentina,Olympique Marseille,15.0,1213.0,2.0,4.0,Midfield,left,185.0,64.0,84.0,52.0,1669.0,67.0,51.0,65.0,66.0,45.0,53.0,1.6
+Carlos Alcaraz,21,Argentina,Southampton FC,15.0,1714.0,5.0,5.0,Midfield,right,183.0,73.0,84.0,48.0,1982.0,82.0,71.0,71.0,79.0,50.0,68.0,6.5
+Malick Fofana,19,Belgium,Olympique Lyon,15.0,2714.0,6.0,8.0,Attack,right,169.0,71.0,85.0,50.0,1700.0,87.0,60.0,64.0,78.0,35.0,43.0,4.4
+Chadi Riad,21,Morocco,Crystal Palace,15.0,2315.0,0.0,0.0,Defender,left,187.0,69.0,81.0,49.0,1540.0,53.0,32.0,54.0,53.0,70.0,61.0,3.2
+Carney Chukwuemeka,20,England,Chelsea FC,15.0,928.0,2.0,2.0,Midfield,right,187.0,69.0,82.0,54.0,1773.0,66.0,62.0,66.0,73.0,50.0,61.0,3.3
+Aaron Ramsey,21,England,Burnley FC,15.0,23507.0,64.0,62.0,Midfield,right,178.0,70.0,82.0,56.0,1799.0,73.0,63.0,67.0,72.0,50.0,60.0,3.8
+Tommaso Baldanzi,21,Italy,AS Roma,15.0,3216.0,6.0,0.0,Midfield,left,170.0,77.0,87.0,50.0,1890.0,78.0,72.0,74.0,81.0,41.0,50.0,23.0
+Giannis Konstantelias,21,Greece,PAOK Thessaloniki,15.0,4347.0,14.0,11.0,Midfield,both,178.0,73.0,83.0,43.0,1803.0,75.0,65.0,72.0,77.0,37.0,54.0,6.5
+Conor Bradley,21,Northern Ireland,Liverpool FC,15.0,1505.0,1.0,6.0,Defender,right,181.0,74.0,84.0,49.0,1904.0,82.0,59.0,66.0,72.0,68.0,72.0,8.5
+Fabio Miretti,21,Italy,Juventus FC,15.0,3103.0,2.0,5.0,Midfield,right,180.0,75.0,88.0,52.0,2033.0,77.0,60.0,75.0,78.0,66.0,72.0,13.5
+Elliot Anderson,21,Scotland,Nottingham Forest,15.0,1763.0,0.0,3.0,Midfield,right,179.0,74.0,82.0,40.0,2016.0,73.0,66.0,71.0,78.0,67.0,76.0,9.0
+Victor Kristiansen,21,Denmark,Leicester City,15.0,7686.0,1.0,10.0,Defender,left,181.0,74.0,80.0,46.0,1912.0,74.0,55.0,64.0,72.0,71.0,75.0,6.0
+Giovanni Fabbian,21,Italy,Bologna FC 1909,14.0,1263.0,5.0,2.0,Midfield,right,186.0,72.0,83.0,38.0,1942.0,71.0,73.0,70.0,73.0,60.0,63.0,5.0
+Valentín Barco,20,Argentina,Brighton & Hove Albion,13.0,318.0,0.0,0.0,Defender,left,170.0,72.0,84.0,49.0,1887.0,76.0,47.0,73.0,77.0,66.0,58.0,5.0
+Samuel Iling-Junior,20,England,Aston Villa,13.0,1545.0,2.0,4.0,Attack,left,182.0,73.0,87.0,45.0,1797.0,83.0,61.0,69.0,78.0,37.0,56.0,7.0
+Ibrahim Osman,19,Ghana,Feyenoord Rotterdam,12.0,2025.0,5.0,5.0,Attack,right,179.0,66.0,84.0,49.0,1608.0,84.0,58.0,57.0,72.0,27.0,54.0,2.2
+Abakar Sylla,21,Cote d'Ivoire,RC Strasbourg Alsace,12.0,3569.0,3.0,0.0,Defender,left,188.0,72.0,82.0,55.0,1699.0,71.0,30.0,56.0,68.0,70.0,77.0,4.8
+Patrick Dorgu,19,Denmark,US Lecce,12.0,1639.0,2.0,1.0,Defender,left,185.0,65.0,83.0,43.0,1673.0,80.0,50.0,54.0,67.0,57.0,53.0,1.7
+Semih Kılıçsoy,19,Türkiye,Besiktas JK,12.0,1806.0,12.0,3.0,Attack,right,178.0,68.0,84.0,36.0,1676.0,78.0,69.0,54.0,70.0,31.0,70.0,3.0
+Santiago Castro,19,Argentina,Bologna FC 1909,12.0,237.0,1.0,1.0,Attack,right,179.0,71.0,81.0,59.0,1809.0,82.0,71.0,56.0,71.0,37.0,68.0,4.0
+El Chadaille Bitshiabu,19,France,RB Leipzig,12.0,656.0,0.0,0.0,Defender,left,196.0,68.0,83.0,55.0,1504.0,37.0,36.0,55.0,51.0,67.0,77.0,2.6
+David Datro Fofana,21,Cote d'Ivoire,Chelsea FC,12.0,2499.0,8.0,3.0,Attack,right,180.0,72.0,83.0,54.0,1745.0,86.0,66.0,58.0,76.0,22.0,72.0,5.0
+Ricardo Pepi,21,United States,PSV Eindhoven,12.0,3895.0,22.0,6.0,Attack,right,185.0,73.0,83.0,54.0,1792.0,71.0,74.0,57.0,69.0,41.0,71.0,6.5
+James McAtee,21,England,Manchester City,12.0,1945.0,5.0,4.0,Midfield,left,180.0,70.0,80.0,45.0,1721.0,72.0,63.0,66.0,73.0,41.0,60.0,3.5
+Emanuel Emegha,21,Netherlands,RC Strasbourg Alsace,12.0,3525.0,11.0,2.0,Attack,right,195.0,72.0,82.0,49.0,1724.0,81.0,71.0,54.0,69.0,30.0,74.0,5.0
+Aster Vranckx,21,Belgium,VfL Wolfsburg,12.0,5348.0,7.0,5.0,Midfield,right,183.0,74.0,81.0,55.0,1993.0,61.0,66.0,71.0,77.0,69.0,76.0,8.5
+George Ilenikhena,18,France,AS Monaco,10.0,1115.0,9.0,1.0,Attack,left,185.0,70.0,86.0,38.0,1671.0,81.0,71.0,56.0,69.0,26.0,61.0,4.0
+Gianluca Prestianni,18,Argentina,SL Benfica,10.0,3.0,0.0,0.0,Attack,right,166.0,68.0,82.0,52.0,1675.0,87.0,60.0,57.0,76.0,35.0,46.0,2.8
+Jeanuël Belocian,19,France,Bayer 04 Leverkusen,10.0,2451.0,0.0,1.0,Defender,left,182.0,70.0,82.0,63.0,1786.0,69.0,41.0,64.0,65.0,70.0,69.0,3.5
+Lamine Camara,20,Senegal,AS Monaco,10.0,2266.0,1.0,4.0,Midfield,right,173.0,71.0,83.0,61.0,1861.0,79.0,62.0,71.0,73.0,54.0,57.0,4.4
+Dean Huijsen,19,Spain,AFC Bournemouth,10.0,614.0,2.0,1.0,Defender,both,197.0,68.0,85.0,55.0,1696.0,64.0,46.0,60.0,62.0,68.0,66.0,2.9
+Simone Pafundi,18,Italy,FC Lausanne-Sport,10.0,137.0,0.0,0.0,Midfield,left,166.0,68.0,86.0,43.0,1837.0,77.0,65.0,66.0,74.0,46.0,53.0,3.0
+Matteo Prati,20,Italy,Cagliari Calcio,10.0,1973.0,1.0,1.0,Midfield,right,185.0,73.0,85.0,55.0,1977.0,65.0,65.0,73.0,72.0,69.0,70.0,7.0
+Ismaël Doukouré,21,France,RC Strasbourg Alsace,10.0,3977.0,1.0,1.0,Defender,right,183.0,72.0,81.0,60.0,1736.0,67.0,42.0,60.0,64.0,72.0,71.0,4.8
+Shea Charles,20,Northern Ireland,Southampton FC,10.0,27.0,0.0,0.0,Midfield,right,189.0,67.0,79.0,40.0,1703.0,61.0,47.0,65.0,61.0,65.0,69.0,2.3
+Wilson Odobert,19,France,Tottenham Hotspur,10.0,4050.0,8.0,5.0,Attack,right,182.0,71.0,84.0,45.0,1669.0,86.0,64.0,62.0,75.0,30.0,47.0,4.4
+Ben Doak,18,Scotland,Liverpool FC,10.0,307.0,0.0,0.0,Attack,right,173.0,64.0,85.0,46.0,1521.0,82.0,52.0,51.0,71.0,28.0,52.0,1.8
+Mohamed-Ali Cho,20,France,OGC Nice,10.0,4272.0,7.0,7.0,Attack,left,182.0,74.0,83.0,35.0,1683.0,80.0,69.0,64.0,76.0,26.0,56.0,9.0
+Andreas Schjelderup,20,Norway,SL Benfica,10.0,4476.0,19.0,8.0,Attack,right,176.0,72.0,84.0,59.0,1779.0,78.0,66.0,65.0,76.0,35.0,54.0,5.5
+Ahmetcan Kaplan,21,Türkiye,Ajax Amsterdam,10.0,1828.0,0.0,2.0,Defender,left,189.0,68.0,81.0,61.0,1518.0,64.0,30.0,48.0,53.0,69.0,70.0,2.7
+Cesare Casadei,21,Italy,Chelsea FC,10.0,308.0,1.0,2.0,Midfield,right,185.0,68.0,82.0,49.0,1904.0,70.0,67.0,67.0,68.0,62.0,70.0,2.9
+Mario Stroeykens,19,Belgium,RSC Anderlecht,10.0,3056.0,8.0,6.0,Midfield,right,177.0,71.0,83.0,47.0,1808.0,74.0,69.0,67.0,72.0,42.0,64.0,4.4
+Devyne Rensch,21,Netherlands,Ajax Amsterdam,10.0,8308.0,9.0,11.0,Defender,both,181.0,74.0,82.0,47.0,1870.0,75.0,56.0,66.0,71.0,73.0,68.0,9.0
+Dilane Bakwa,21,France,RC Strasbourg Alsace,10.0,2275.0,3.0,6.0,Attack,left,180.0,75.0,82.0,45.0,1786.0,86.0,68.0,68.0,78.0,30.0,62.0,11.0
+Luca Netz,21,Germany,Borussia Mönchengladbach,10.0,5149.0,3.0,14.0,Defender,left,184.0,75.0,80.0,52.0,1874.0,79.0,48.0,69.0,72.0,71.0,65.0,8.0
+Joe Scally,21,United States,Borussia Mönchengladbach,10.0,7051.0,3.0,6.0,Defender,right,184.0,74.0,80.0,49.0,1830.0,81.0,49.0,63.0,71.0,71.0,72.0,6.0
+Christian Mawissa,19,France,AS Monaco,9.0,1399.0,2.0,0.0,Defender,left,180.0,71.0,85.0,51.0,1598.0,66.0,31.0,53.0,60.0,71.0,72.0,4.1
+Alejo Veliz,20,Argentina,RCD Espanyol Barcelona,9.0,76.0,1.0,0.0,Attack,right,186.0,75.0,85.0,37.0,1746.0,71.0,74.0,54.0,70.0,25.0,73.0,12.0
+Roony Bardghji,18,Sweden,FC Copenhagen,9.0,2085.0,12.0,0.0,Attack,left,173.0,70.0,85.0,63.0,1728.0,75.0,68.0,63.0,74.0,30.0,53.0,3.6
+Andy Diouf,21,France,RC Lens,9.0,1458.0,1.0,0.0,Midfield,left,187.0,74.0,82.0,57.0,2016.0,76.0,68.0,71.0,75.0,67.0,75.0,9.0
+Máximo Perrone,21,Argentina,Manchester City,9.0,1712.0,0.0,0.0,Midfield,left,177.0,71.0,83.0,56.0,1843.0,68.0,54.0,66.0,74.0,68.0,69.0,4.5
+Hákon Arnar Haraldsson,21,Iceland,LOSC Lille,9.0,1564.0,3.0,0.0,Attack,right,180.0,73.0,83.0,51.0,1934.0,76.0,64.0,70.0,75.0,57.0,68.0,6.5
+Lucas Gourna-Douath,21,France,Red Bull Salzburg,9.0,3122.0,1.0,0.0,Midfield,right,185.0,73.0,83.0,46.0,1870.0,76.0,52.0,65.0,71.0,70.0,76.0,6.0
+Arne Engels,20,Belgium,FC Augsburg,9.0,2930.0,3.0,9.0,Midfield,right,185.0,72.0,83.0,56.0,1965.0,68.0,64.0,73.0,74.0,63.0,71.0,5.0
+Julien Duranville,18,Belgium,Borussia Dortmund,8.5,279.0,1.0,0.0,Attack,right,173.0,66.0,87.0,51.0,1601.0,84.0,60.0,58.0,75.0,23.0,48.0,2.7
+Diego Gómez,21,Paraguay,Inter Miami CF,8.0,25.0,0.0,0.0,Midfield,right,164.0,68.0,78.0,35.0,1831.0,75.0,63.0,65.0,69.0,59.0,72.0,2.6
+Kassoum Ouattara,19,France,AS Monaco,8.0,634.0,1.0,0.0,Defender,left,176.0,69.0,83.0,43.0,1700.0,77.0,41.0,60.0,68.0,63.0,68.0,3.1
+Paul Wanner,18,Germany,1.FC Heidenheim 1846,8.0,92.0,0.0,0.0,Midfield,left,185.0,66.0,86.0,56.0,1643.0,68.0,52.0,64.0,72.0,44.0,45.0,2.3
+Ethan Nwaneri,17,England,Arsenal FC U21,8.0,14.0,0.0,0.0,Midfield,left,176.0,61.0,86.0,54.0,1597.0,68.0,59.0,59.0,63.0,39.0,50.0,1.0
+Tom Rothe,19,Germany,1.FC Union Berlin,8.0,177.0,1.0,1.0,Defender,left,193.0,70.0,83.0,47.0,1745.0,67.0,45.0,65.0,66.0,66.0,75.0,3.5
+Soungoutou Magassa,20,France,AS Monaco,8.0,1423.0,0.0,0.0,Defender,right,188.0,72.0,82.0,50.0,1750.0,58.0,48.0,64.0,62.0,71.0,71.0,4.7
+Samuel Edozie,21,England,Southampton FC,8.0,855.0,0.0,0.0,Attack,right,181.0,67.0,80.0,50.0,1583.0,81.0,56.0,58.0,71.0,28.0,51.0,2.5
+Konstantinos Koulierakis,20,Greece,PAOK Thessaloniki,8.0,3953.0,3.0,1.0,Defender,left,188.0,72.0,81.0,50.0,1730.0,69.0,43.0,56.0,63.0,71.0,71.0,4.7
+Liam Delap,21,England,Ipswich Town,8.0,120.0,0.0,0.0,Attack,right,186.0,71.0,82.0,48.0,1735.0,76.0,70.0,58.0,70.0,29.0,74.0,4.1
+Loum Tchaouna,20,France,SS Lazio,8.0,2312.0,6.0,4.0,Attack,left,180.0,67.0,79.0,63.0,1784.0,79.0,69.0,62.0,71.0,37.0,61.0,2.4
+Jean-Mattéo Bahoya,19,France,Eintracht Frankfurt,7.5,434.0,0.0,0.0,Attack,right,180.0,66.0,80.0,56.0,1681.0,71.0,65.0,60.0,71.0,40.0,54.0,2.0
+Ismaël Gharbi,20,Spain,Paris Saint-Germain,7.5,63.0,0.0,0.0,Midfield,right,173.0,68.0,78.0,52.0,1683.0,73.0,57.0,63.0,74.0,40.0,46.0,2.6
+Kevin Paredes,21,United States,VfL Wolfsburg,7.5,1993.0,4.0,3.0,Midfield,left,175.0,72.0,82.0,51.0,1754.0,80.0,58.0,65.0,76.0,55.0,47.0,5.0
+Junior Mwanga,21,France,RC Strasbourg Alsace,7.0,1456.0,1.0,1.0,Midfield,both,184.0,72.0,81.0,47.0,1785.0,68.0,50.0,62.0,68.0,71.0,72.0,4.8
+Saël Kumbedi,19,France,Olympique Lyon,7.0,2233.0,0.0,4.0,Defender,right,175.0,71.0,82.0,37.0,1753.0,82.0,42.0,62.0,72.0,65.0,62.0,3.8
+Darío Osorio,20,Chile,FC Midtjylland,7.0,659.0,5.0,0.0,Attack,left,184.0,66.0,78.0,49.0,1671.0,77.0,63.0,63.0,68.0,31.0,59.0,2.0
+Adamo Nagalo,21,Burkina Faso,FC Nordsjaelland,7.0,5814.0,4.0,2.0,Defender,right,185.0,71.0,82.0,55.0,1625.0,70.0,29.0,55.0,62.0,70.0,77.0,3.8
+Omari Hutchinson,20,Jamaica,Ipswich Town,7.0,49.0,0.0,0.0,Midfield,left,174.0,68.0,83.0,39.0,1749.0,76.0,63.0,64.0,71.0,46.0,55.0,2.9
+Guéla Doué,21,Cote d'Ivoire,RC Strasbourg Alsace,7.0,1542.0,0.0,4.0,Defender,right,187.0,70.0,81.0,59.0,1739.0,71.0,39.0,59.0,69.0,69.0,71.0,3.3
+Isaak Touré,21,France,FC Lorient,7.0,3707.0,2.0,1.0,Defender,left,206.0,72.0,83.0,45.0,1581.0,66.0,30.0,51.0,56.0,69.0,83.0,4.8
+Kristian Hlynsson,20,Iceland,Ajax Amsterdam,7.0,2099.0,7.0,3.0,Midfield,right,179.0,69.0,83.0,49.0,1702.0,67.0,63.0,63.0,72.0,41.0,48.0,3.3
+Matías Arezo,21,Uruguay,Grêmio Foot-Ball Porto Alegrense,7.0,515.0,0.0,0.0,Attack,right,177.0,71.0,81.0,45.0,1841.0,68.0,74.0,61.0,71.0,42.0,64.0,4.1
+Ryan Flamingo,21,Netherlands,PSV Eindhoven,7.0,5745.0,5.0,2.0,Defender,right,183.0,70.0,80.0,51.0,1863.0,65.0,61.0,62.0,64.0,69.0,75.0,3.3
+Umut Tohumcu,20,Germany,TSG 1899 Hoffenheim,7.0,1359.0,0.0,2.0,Midfield,both,175.0,69.0,84.0,42.0,1691.0,66.0,62.0,67.0,71.0,42.0,50.0,3.2
+Mika Biereth,21,Denmark,SK Sturm Graz,7.0,1380.0,8.0,5.0,Attack,right,187.0,65.0,77.0,52.0,1608.0,79.0,64.0,49.0,62.0,30.0,71.0,1.7
+Alan Minda,21,Ecuador,Cercle Brugge,6.0,1513.0,7.0,6.0,Attack,right,171.0,67.0,77.0,53.0,1715.0,84.0,60.0,60.0,69.0,50.0,53.0,2.2
+Oumar Diakité,20,Cote d'Ivoire,Stade Reims,6.0,1587.0,5.0,1.0,Attack,right,182.0,72.0,82.0,57.0,1715.0,79.0,71.0,57.0,70.0,21.0,69.0,5.0
+Isaac Babadi,19,Netherlands,PSV Eindhoven,6.0,508.0,2.0,0.0,Midfield,right,179.0,66.0,83.0,48.0,1612.0,76.0,51.0,59.0,73.0,43.0,45.0,2.2
+Max Finkgräfe,20,Germany,1.FC Köln,6.0,1757.0,1.0,0.0,Defender,left,183.0,68.0,79.0,47.0,1721.0,72.0,42.0,59.0,71.0,64.0,63.0,2.5
+Zeno Van Den Bosch,21,Belgium,Royal Antwerp FC,6.0,1750.0,0.0,1.0,Defender,right,191.0,71.0,81.0,47.0,1569.0,60.0,27.0,64.0,51.0,72.0,70.0,3.8
+Jacopo Fazzini,21,Italy,FC Empoli,6.0,2082.0,1.0,2.0,Midfield,right,178.0,67.0,81.0,51.0,1831.0,72.0,51.0,67.0,70.0,59.0,65.0,2.4
+Antoni Milambo,19,Netherlands,Feyenoord Rotterdam,6.0,307.0,1.0,1.0,Midfield,right,179.0,64.0,81.0,43.0,1657.0,68.0,54.0,63.0,69.0,44.0,55.0,1.5
+Diego Coppola,20,Italy,Hellas Verona,6.0,3327.0,2.0,0.0,Defender,right,193.0,71.0,80.0,44.0,1586.0,60.0,40.0,55.0,51.0,72.0,69.0,3.8
+Matthis Abline,21,France,FC Nantes,6.0,2082.0,9.0,3.0,Attack,right,182.0,69.0,76.0,60.0,1671.0,77.0,71.0,55.0,71.0,24.0,55.0,2.8
+Warren Bondo,20,France,AC Monza,6.0,1561.0,1.0,1.0,Midfield,right,177.0,63.0,79.0,49.0,1765.0,77.0,55.0,58.0,72.0,58.0,64.0,1.2
+Johann Lepenant,21,France,FC Nantes,6.0,2184.0,1.0,2.0,Midfield,right,176.0,73.0,79.0,46.0,1860.0,70.0,56.0,67.0,71.0,69.0,69.0,4.3
+Elias Jelert,21,Denmark,Galatasaray,5.5,2905.0,0.0,1.0,Defender,right,178.0,71.0,81.0,48.0,1917.0,85.0,57.0,64.0,73.0,63.0,73.0,3.9
+Matte Smets,20,Belgium,KRC Genk,5.0,3769.0,0.0,0.0,Defender,right,184.0,71.0,83.0,45.0,1693.0,67.0,33.0,63.0,65.0,72.0,70.0,4.2
+Nathan Zézé,19,France,FC Nantes,5.0,1082.0,0.0,0.0,Defender,left,190.0,67.0,83.0,53.0,1479.0,66.0,31.0,44.0,48.0,70.0,63.0,2.4
+Ibrahim Maza,18,Germany,Hertha BSC,5.0,70.0,1.0,0.0,Attack,right,180.0,64.0,81.0,55.0,1656.0,70.0,60.0,60.0,71.0,38.0,54.0,1.5
+Senny Mayulu,18,France,Paris Saint-Germain,5.0,323.0,0.0,1.0,Midfield,both,183.0,64.0,83.0,37.0,1698.0,73.0,60.0,62.0,70.0,48.0,53.0,1.5
+Diego Luna,20,United States,Real Salt Lake City,5.0,1406.0,0.0,0.0,Defender,right,186.0,64.0,81.0,54.0,1700.0,77.0,58.0,57.0,72.0,38.0,68.0,1.5
+Nelson Weiper,19,Germany,1.FSV Mainz 05,5.0,215.0,2.0,0.0,Attack,right,192.0,66.0,86.0,47.0,1556.0,66.0,65.0,46.0,65.0,25.0,67.0,2.4
+Alfie Gilchrist,20,England,Sheffield United,5.0,431.0,1.0,0.0,Defender,right,183.0,63.0,80.0,37.0,1501.0,61.0,34.0,50.0,50.0,64.0,66.0,1.2
+Khalil Fayad,20,Morocco,Montpellier HSC,5.0,1725.0,3.0,2.0,Midfield,right,172.0,67.0,80.0,53.0,1693.0,65.0,57.0,66.0,73.0,54.0,39.0,2.4
+Luka Romero,19,Argentina,Deportivo Alavés,5.0,890.0,4.0,0.0,Attack,left,169.0,72.0,84.0,57.0,1868.0,79.0,65.0,66.0,75.0,53.0,57.0,5.5
+Williot Swedberg,20,Sweden,Celta de Vigo,5.0,991.0,5.0,1.0,Midfield,right,187.0,70.0,82.0,48.0,1850.0,71.0,68.0,66.0,71.0,59.0,60.0,3.8
+Jorne Spileers,19,Belgium,Club Brugge KV,5.0,3236.0,1.0,1.0,Defender,right,188.0,70.0,84.0,52.0,1617.0,73.0,31.0,58.0,57.0,70.0,70.0,3.5
+Ruben van Bommel,20,Netherlands,AZ Alkmaar,5.0,1958.0,9.0,1.0,Attack,right,192.0,68.0,83.0,44.0,1618.0,85.0,65.0,59.0,70.0,25.0,61.0,2.8
+Noah Sadiki,19,DR Congo,Union Saint-Gilloise,5.0,1930.0,0.0,2.0,Midfield,right,183.0,65.0,79.0,56.0,1651.0,73.0,38.0,58.0,67.0,62.0,66.0,1.6
+Mathias Delorge,20,Belgium,KAA Gent,5.0,2668.0,1.0,3.0,Midfield,left,189.0,71.0,82.0,59.0,1812.0,63.0,59.0,71.0,68.0,61.0,68.0,3.9
+Leo Sauer,18,Slovakia,NAC Breda,5.0,288.0,2.0,4.0,Attack,right,184.0,66.0,83.0,49.0,1644.0,81.0,58.0,61.0,70.0,39.0,50.0,2.1
+Badredine Bouanani,19,Algeria,OGC Nice,5.0,1457.0,1.0,4.0,Attack,left,177.0,69.0,79.0,55.0,1684.0,71.0,64.0,68.0,71.0,31.0,50.0,2.9
+Kamory Doumbia,21,Mali,Stade Reims,5.0,2370.0,10.0,8.0,Midfield,right,170.0,73.0,80.0,52.0,1894.0,70.0,67.0,70.0,75.0,57.0,59.0,6.0
+Orri Óskarsson,19,Iceland,FC Copenhagen,5.0,1411.0,8.0,7.0,Attack,right,186.0,65.0,80.0,62.0,1679.0,70.0,64.0,57.0,65.0,30.0,68.0,1.7
+Félix Lemaréchal,21,France,RC Strasbourg Alsace,5.0,1851.0,0.0,3.0,Midfield,right,180.0,69.0,80.0,56.0,1796.0,64.0,54.0,69.0,68.0,61.0,68.0,3.0
+Serdar Saatçı,21,Türkiye,SC Braga,5.0,3113.0,1.0,3.0,Defender,right,190.0,73.0,80.0,51.0,1584.0,69.0,30.0,49.0,61.0,73.0,75.0,5.5
+Wouter Goes,20,Netherlands,AZ Alkmaar,5.0,2005.0,1.0,1.0,Defender,right,187.0,67.0,82.0,44.0,1566.0,67.0,31.0,51.0,60.0,68.0,64.0,2.3
+Bashir Humphreys,21,England,Burnley FC,4.8,392.0,0.0,0.0,Defender,left,186.0,67.0,80.0,59.0,1576.0,65.0,31.0,51.0,55.0,67.0,67.0,2.3
+Yasin Özcan,18,Türkiye,Kasimpasa,4.5,4231.0,4.0,2.0,Defender,left,185.0,63.0,77.0,45.0,1509.0,65.0,36.0,45.0,55.0,64.0,67.0,1.0
+Antonio Raimondo,20,Italy,Venezia FC,4.5,14.0,0.0,0.0,Attack,left,185.0,65.0,80.0,37.0,1630.0,67.0,63.0,61.0,68.0,28.0,59.0,1.7
+Paxten Aaronson,20,United States,FC Utrecht,4.5,1609.0,4.0,3.0,Midfield,right,175.0,68.0,79.0,51.0,1667.0,77.0,58.0,63.0,71.0,40.0,48.0,2.6
+Cristian Volpato,20,Italy,US Sassuolo,4.5,1221.0,2.0,2.0,Midfield,left,187.0,69.0,85.0,48.0,1718.0,67.0,64.0,67.0,71.0,39.0,62.0,3.6
+Kyriani Sabbe,19,Belgium,Club Brugge KV,4.5,741.0,0.0,3.0,Defender,right,176.0,67.0,83.0,54.0,1729.0,76.0,49.0,64.0,68.0,61.0,57.0,2.5
+Yasin Ayari,20,Sweden,Brighton & Hove Albion,4.5,513.0,1.0,0.0,Midfield,right,172.0,66.0,78.0,49.0,1700.0,64.0,51.0,66.0,69.0,52.0,58.0,2.0
+Filippo Terracciano,21,Italy,AC Milan,4.5,2316.0,0.0,2.0,Defender,right,186.0,71.0,82.0,56.0,1954.0,81.0,60.0,71.0,71.0,67.0,69.0,4.1
+Enso González,19,Paraguay,Wolverhampton Wanderers,4.0,1.0,0.0,0.0,Attack,left,169.0,63.0,83.0,54.0,1528.0,81.0,48.0,58.0,70.0,35.0,41.0,1.3
+Ibrahim Sulemana,21,Ghana,Atalanta BC,4.0,2231.0,2.0,0.0,Midfield,right,180.0,70.0,81.0,52.0,1928.0,75.0,61.0,64.0,68.0,68.0,75.0,3.3
+Momodou Lamin Sonko,19,Sweden,KAA Gent,4.0,664.0,3.0,1.0,Attack,right,176.0,63.0,84.0,46.0,1516.0,80.0,61.0,50.0,69.0,17.0,51.0,1.5
+Alan Matturro,19,Uruguay,Genoa CFC,4.0,284.0,0.0,0.0,Defender,left,189.0,65.0,82.0,51.0,1522.0,68.0,30.0,50.0,53.0,66.0,65.0,1.7
+Bénie Traoré,21,Cote d'Ivoire,FC Basel 1893,4.0,929.0,0.0,1.0,Attack,right,172.0,68.0,77.0,48.0,1701.0,86.0,65.0,54.0,75.0,32.0,63.0,2.7
+Ayman Kari,19,France,Paris Saint-Germain,4.0,993.0,1.0,1.0,Midfield,right,176.0,68.0,82.0,62.0,1805.0,70.0,53.0,66.0,73.0,59.0,65.0,2.8
+Mika Godts,19,Belgium,Ajax Amsterdam,4.0,641.0,0.0,3.0,Attack,right,176.0,66.0,84.0,53.0,1677.0,77.0,58.0,61.0,74.0,39.0,54.0,2.2
+Nazar Voloshyn,21,Ukraine,Dynamo Kyiv,4.0,3559.0,16.0,8.0,Attack,right,175.0,66.0,80.0,56.0,1559.0,68.0,60.0,61.0,66.0,28.0,50.0,2.1
+Tim Iroegbunam,21,England,Everton FC,4.0,258.0,0.0,0.0,Midfield,right,183.0,69.0,81.0,49.0,1819.0,66.0,58.0,64.0,68.0,66.0,71.0,3.2
+Tim Oermann,20,Germany,VfL Bochum,4.0,901.0,0.0,0.0,Defender,right,189.0,68.0,77.0,44.0,1567.0,67.0,34.0,54.0,58.0,68.0,68.0,2.4
+Dorgeles Nene,21,Mali,Red Bull Salzburg,4.0,1484.0,8.0,4.0,Attack,right,174.0,67.0,76.0,35.0,1763.0,85.0,70.0,61.0,72.0,37.0,54.0,2.3
+Tom Cannon,21,Ireland,Leicester City,4.0,300.0,1.0,1.0,Attack,right,180.0,69.0,77.0,45.0,1691.0,79.0,69.0,56.0,72.0,27.0,59.0,3.1
+Jacob Ondrejka,21,Sweden,Royal Antwerp FC,4.0,839.0,5.0,2.0,Attack,right,180.0,70.0,79.0,55.0,1845.0,79.0,64.0,68.0,72.0,46.0,60.0,3.5
+Gabriel Slonina,20,United States,Barnsley FC,4.0,2520.0,0.0,0.0,Goalkeeper,right,193.0,68.0,81.0,330.0,1105.0,69.0,64.0,63.0,69.0,45.0,65.0,2.5
+Emin Bayram,21,Türkiye,KVC Westerlo,4.0,2643.0,1.0,2.0,Defender,right,192.0,67.0,78.0,50.0,1605.0,63.0,31.0,55.0,63.0,68.0,69.0,2.1
+Cher Ndour,20,Italy,Besiktas JK,4.0,310.0,1.0,0.0,Midfield,both,190.0,68.0,82.0,54.0,1774.0,55.0,61.0,68.0,68.0,57.0,70.0,2.8
+Rav van den Berg,20,Netherlands,Middlesbrough FC,4.0,583.0,1.0,0.0,Defender,right,191.0,67.0,84.0,50.0,1536.0,66.0,32.0,50.0,59.0,67.0,68.0,2.4
+Shola Shoretire,20,England,PAOK Thessaloniki,4.0,61.0,0.0,0.0,Midfield,both,171.0,62.0,79.0,36.0,1609.0,73.0,54.0,57.0,67.0,37.0,54.0,1.0
+Calvin Ramsay,21,Scotland,Wigan Athletic,4.0,2427.0,1.0,9.0,Defender,right,177.0,65.0,79.0,47.0,1695.0,76.0,43.0,60.0,66.0,56.0,66.0,1.6
+Gaetano Oristanio,21,Italy,Venezia FC,4.0,3225.0,3.0,4.0,Midfield,left,174.0,71.0,84.0,41.0,1896.0,87.0,66.0,69.0,76.0,49.0,60.0,4.5
+Mattia Zanotti,21,Italy,FC Lugano,4.0,26.0,0.0,0.0,Defender,right,177.0,71.0,82.0,46.0,1942.0,78.0,59.0,69.0,70.0,68.0,70.0,3.9
+Armindo Sieb,21,Germany,1.FSV Mainz 05,4.0,26.0,0.0,0.0,Attack,both,175.0,69.0,79.0,56.0,1689.0,87.0,65.0,55.0,74.0,26.0,64.0,3.1
+Christopher Bonsu Baah,19,Ghana,KRC Genk,3.5,1308.0,1.0,1.0,Attack,left,172.0,69.0,81.0,38.0,1670.0,85.0,63.0,59.0,77.0,29.0,57.0,3.2
+Óscar Cortés,20,Colombia,Rangers FC,3.5,419.0,2.0,3.0,Attack,right,178.0,69.0,80.0,43.0,1780.0,78.0,66.0,65.0,71.0,48.0,53.0,3.0
+Tom Bischof,19,Germany,TSG 1899 Hoffenheim,3.5,531.0,0.0,2.0,Midfield,left,176.0,67.0,86.0,53.0,1651.0,61.0,55.0,65.0,72.0,43.0,50.0,2.6
+Cihan Çanak,19,Türkiye,Trabzonspor,3.5,1470.0,1.0,5.0,Attack,left,175.0,66.0,81.0,46.0,1690.0,80.0,58.0,64.0,75.0,39.0,50.0,2.0
+Joel Mvuka,21,Norway,FC Lorient,3.5,279.0,0.0,0.0,Attack,right,176.0,69.0,78.0,56.0,1697.0,89.0,57.0,59.0,74.0,41.0,46.0,3.1
+Jay Stansfield,21,England,Fulham FC,3.5,585.0,1.0,2.0,Attack,right,187.0,67.0,79.0,43.0,1689.0,79.0,69.0,59.0,68.0,26.0,64.0,2.5
+Alan Virginius,21,France,BSC Young Boys,3.5,1261.0,1.0,3.0,Attack,right,180.0,68.0,80.0,59.0,1586.0,90.0,59.0,59.0,71.0,27.0,40.0,2.9
+Samuele Vignato,20,Italy,AC Monza,3.5,487.0,1.0,1.0,Midfield,right,172.0,65.0,81.0,48.0,1606.0,72.0,59.0,60.0,74.0,34.0,42.0,1.9
+Myron van Brederode,21,Netherlands,AZ Alkmaar,3.5,2943.0,7.0,5.0,Attack,right,174.0,69.0,79.0,53.0,1642.0,68.0,58.0,60.0,79.0,32.0,54.0,3.0
+Adam Obert,21,Slovakia,Cagliari Calcio,3.5,1677.0,0.0,1.0,Defender,left,188.0,68.0,78.0,50.0,1719.0,68.0,41.0,60.0,64.0,69.0,67.0,2.5
+Youri Regeer,21,Netherlands,Twente Enschede FC,3.5,2017.0,2.0,2.0,Midfield,right,177.0,70.0,81.0,57.0,1865.0,75.0,57.0,68.0,71.0,66.0,67.0,3.3
+Nathan Ngoy,21,Belgium,Standard Liège,3.5,2100.0,1.0,0.0,Defender,right,183.0,66.0,77.0,54.0,1621.0,78.0,44.0,49.0,61.0,65.0,71.0,1.8
+Paul Nebel,21,Germany,1.FSV Mainz 05,3.5,319.0,0.0,2.0,Attack,both,169.0,71.0,80.0,45.0,1702.0,74.0,62.0,66.0,76.0,30.0,58.0,4.1
+Mahamadou Diawara,19,France,Olympique Lyon,3.0,355.0,0.0,0.0,Midfield,left,187.0,67.0,81.0,37.0,1752.0,69.0,55.0,65.0,67.0,61.0,69.0,2.4
+Ngal'ayel Mukau,19,DR Congo,LOSC Lille,3.0,1326.0,0.0,0.0,Midfield,left,188.0,66.0,80.0,52.0,1641.0,64.0,40.0,55.0,64.0,66.0,64.0,1.9
+Gustavo Puerta,21,Colombia,Bayer 04 Leverkusen,3.0,229.0,0.0,0.0,Midfield,right,173.0,65.0,79.0,54.0,1706.0,65.0,58.0,62.0,64.0,59.0,60.0,1.7
+Lovro Zvonarek,19,Croatia,SK Sturm Graz,3.0,161.0,1.0,0.0,Midfield,right,180.0,64.0,78.0,51.0,1600.0,69.0,57.0,62.0,68.0,34.0,52.0,1.4
+Matija Frigan,21,Croatia,KVC Westerlo,3.0,1006.0,4.0,1.0,Attack,left,185.0,69.0,79.0,43.0,1791.0,79.0,68.0,59.0,68.0,36.0,74.0,3.1
+Gino Infantino,21,Argentina,ACF Fiorentina,3.0,185.0,0.0,0.0,Midfield,left,178.0,67.0,79.0,44.0,1751.0,75.0,61.0,64.0,71.0,48.0,59.0,2.5
+Tygo Land,18,Netherlands,PSV Eindhoven,3.0,19.0,0.0,1.0,Midfield,right,178.0,62.0,84.0,57.0,1691.0,74.0,50.0,64.0,71.0,52.0,43.0,1.2
+Mayckel Lahdo,21,Sweden,AZ Alkmaar,3.0,1829.0,10.0,7.0,Attack,right,171.0,68.0,79.0,56.0,1619.0,82.0,64.0,59.0,73.0,27.0,54.0,2.6
+Tom Louchet,21,France,OGC Nice,3.0,399.0,1.0,2.0,Midfield,both,178.0,66.0,77.0,51.0,1794.0,70.0,60.0,64.0,69.0,60.0,61.0,1.9
+Joseph Nonge,19,Belgium,Juventus Next Gen,3.0,49.0,0.0,0.0,Midfield,left,184.0,64.0,81.0,46.0,1768.0,68.0,49.0,64.0,66.0,64.0,60.0,1.5
+Lucas Noubi,19,Belgium,Standard Liège,3.0,1391.0,0.0,0.0,Defender,right,184.0,66.0,81.0,52.0,1532.0,75.0,21.0,52.0,64.0,63.0,74.0,1.9
+Emirhan İlkhan,20,Türkiye,Torino FC,3.0,1864.0,2.0,2.0,Midfield,right,175.0,64.0,79.0,55.0,1686.0,66.0,58.0,63.0,70.0,50.0,48.0,1.4
+Jhon Solís,19,Colombia,Girona FC,3.0,690.0,0.0,1.0,Midfield,right,186.0,69.0,80.0,52.0,1819.0,64.0,61.0,63.0,65.0,66.0,74.0,2.9
+Giuliano Simeone,21,Argentina,Atlético de Madrid,3.0,719.0,1.0,2.0,Attack,right,173.0,72.0,82.0,55.0,1796.0,82.0,69.0,58.0,70.0,26.0,79.0,5.0
+Lucas Hey,21,Denmark,FC Nordsjaelland,3.0,2504.0,0.0,0.0,Defender,right,189.0,65.0,79.0,46.0,1610.0,62.0,41.0,55.0,60.0,65.0,65.0,1.6
+Andrew Moran,20,Ireland,Stoke City,3.0,505.0,2.0,3.0,Midfield,right,177.0,67.0,80.0,69.0,1739.0,76.0,58.0,66.0,71.0,39.0,55.0,2.4
+Matias Fernandez-Pardo,19,Belgium,KAA Gent,3.0,260.0,1.0,0.0,Attack,right,183.0,62.0,78.0,50.0,1560.0,75.0,58.0,59.0,67.0,28.0,51.0,1.0
+Dexter Lembikisa,20,Jamaica,Wolverhampton Wanderers U21,3.0,1176.0,1.0,0.0,Defender,right,180.0,64.0,73.0,45.0,1614.0,83.0,43.0,54.0,60.0,59.0,59.0,1.2
+Anton Gaaei,21,Denmark,Ajax Amsterdam,3.0,4030.0,2.0,9.0,Defender,right,183.0,67.0,78.0,50.0,1724.0,84.0,48.0,57.0,65.0,59.0,67.0,2.1
+Aljoscha Kemlein,20,Germany,1.FC Union Berlin,3.0,108.0,0.0,0.0,Midfield,right,185.0,66.0,78.0,53.0,1738.0,60.0,57.0,63.0,65.0,62.0,63.0,1.9
+Robert Wagner,21,Germany,FC St. Pauli,3.0,124.0,0.0,0.0,Midfield,right,181.0,69.0,82.0,57.0,1730.0,68.0,45.0,66.0,69.0,60.0,70.0,3.3
+Jude Bellingham,21,England,Real Madrid,180.0,13820.0,47.0,38.0,Midfield,right,186.0,88.0,92.0,48.0,2295.0,80.0,83.0,81.0,87.0,78.0,83.0,128.5
+Florian Wirtz,21,Germany,Bayer 04 Leverkusen,130.0,10929.0,41.0,50.0,Midfield,right,177.0,87.0,92.0,57.0,2089.0,80.0,76.0,86.0,88.0,50.0,63.0,118.5
+Jamal Musiala,21,Germany,Bayern Munich,130.0,9175.0,43.0,31.0,Midfield,right,184.0,86.0,93.0,42.0,2090.0,85.0,75.0,76.0,91.0,63.0,61.0,134.5
+Eduardo Camavinga,21,France,Real Madrid,100.0,13733.0,4.0,13.0,Midfield,left,182.0,83.0,90.0,50.0,2197.0,80.0,67.0,81.0,84.0,78.0,80.0,71.5
+Xavi Simons,21,Netherlands,RB Leipzig,80.0,7397.0,32.0,27.0,Midfield,right,179.0,82.0,89.0,43.0,2139.0,87.0,77.0,78.0,85.0,61.0,74.0,60.5
+Rasmus Højlund,21,Denmark,Manchester United,65.0,5388.0,27.0,6.0,Attack,left,191.0,78.0,89.0,50.0,1869.0,84.0,77.0,58.0,74.0,33.0,83.0,31.0
+Warren Zaïre-Emery,18,France,Paris Saint-Germain,60.0,3956.0,5.0,6.0,Midfield,right,178.0,80.0,90.0,55.0,2113.0,79.0,68.0,76.0,79.0,75.0,78.0,43.5
+Kobbie Mainoo,19,England,Manchester United,55.0,2492.0,5.0,1.0,Midfield,right,180.0,72.0,87.0,49.0,1923.0,74.0,60.0,68.0,77.0,68.0,69.0,5.0
+Leny Yoro,18,France,Manchester United,50.0,3610.0,3.0,0.0,Defender,right,190.0,77.0,86.0,53.0,1740.0,73.0,41.0,58.0,61.0,78.0,73.0,20.0
+Bradley Barcola,21,France,Paris Saint-Germain,50.0,3908.0,10.0,20.0,Attack,right,182.0,80.0,87.0,43.0,1925.0,86.0,74.0,75.0,80.0,34.0,64.0,42.0
+Evan Ferguson,19,Ireland,Brighton & Hove Albion,50.0,3143.0,16.0,5.0,Attack,right,188.0,74.0,86.0,54.0,1729.0,72.0,74.0,62.0,70.0,21.0,70.0,10.0
+Levi Colwill,21,England,Chelsea FC,50.0,4049.0,1.0,3.0,Defender,left,187.0,76.0,83.0,61.0,1841.0,72.0,40.0,68.0,68.0,76.0,76.0,14.0
+Arda Güler,19,Türkiye,Real Madrid,45.0,2030.0,14.0,8.0,Attack,left,175.0,77.0,88.0,58.0,1964.0,72.0,70.0,80.0,82.0,52.0,50.0,22.0
+Giorgio Scalvini,20,Italy,Atalanta BC,45.0,6569.0,5.0,5.0,Defender,right,194.0,77.0,87.0,45.0,1672.0,64.0,35.0,57.0,61.0,78.0,74.0,21.0
+Pape Matar Sarr,21,Senegal,Tottenham Hotspur,45.0,6290.0,7.0,7.0,Midfield,right,184.0,78.0,84.0,52.0,2030.0,70.0,65.0,75.0,78.0,74.0,75.0,21.5
+Johan Bakayoko,21,Belgium,PSV Eindhoven,45.0,5718.0,21.0,19.0,Attack,left,179.0,78.0,88.0,43.0,1837.0,87.0,69.0,69.0,81.0,31.0,64.0,31.0
+Destiny Udogie,21,Italy,Tottenham Hotspur,45.0,8283.0,10.0,10.0,Defender,left,188.0,81.0,86.0,57.0,2104.0,88.0,65.0,73.0,79.0,76.0,80.0,35.5
+Ousmane Diomande,20,Cote d'Ivoire,Sporting CP,40.0,4222.0,5.0,1.0,Defender,right,190.0,78.0,86.0,41.0,1696.0,74.0,26.0,53.0,73.0,77.0,83.0,28.5
+Mathys Tel,19,France,Bayern Munich,40.0,2056.0,16.0,6.0,Attack,right,183.0,75.0,88.0,54.0,1830.0,82.0,78.0,64.0,77.0,28.0,60.0,13.0
+Castello Lukeba,21,France,RB Leipzig,40.0,8590.0,5.0,0.0,Defender,left,184.0,79.0,86.0,56.0,1889.0,74.0,43.0,68.0,72.0,80.0,77.0,32.0
+Rico Lewis,19,England,Manchester City,38.0,3036.0,3.0,4.0,Defender,right,169.0,75.0,86.0,55.0,1880.0,76.0,46.0,73.0,79.0,70.0,59.0,11.5
+Elye Wahi,21,France,Olympique Marseille,35.0,7163.0,44.0,13.0,Attack,right,181.0,77.0,84.0,51.0,1919.0,84.0,79.0,67.0,79.0,31.0,67.0,21.0
+Malo Gusto,21,France,Chelsea FC,35.0,6402.0,0.0,15.0,Defender,right,178.0,78.0,86.0,49.0,1984.0,87.0,49.0,72.0,77.0,71.0,75.0,29.5
+Harvey Elliott,21,England,Liverpool FC,35.0,5876.0,10.0,13.0,Midfield,left,170.0,77.0,85.0,47.0,1940.0,75.0,67.0,76.0,81.0,53.0,57.0,23.0
+Tino Livramento,21,England,Newcastle United,35.0,4333.0,2.0,3.0,Defender,right,182.0,77.0,85.0,56.0,1948.0,81.0,50.0,68.0,78.0,74.0,72.0,22.0
+Désiré Doué,19,France,Paris Saint-Germain,30.0,3297.0,8.0,6.0,Attack,both,181.0,74.0,85.0,46.0,1855.0,78.0,68.0,69.0,80.0,48.0,63.0,9.0
+Jorrel Hato,18,Netherlands,Ajax Amsterdam,30.0,4546.0,1.0,3.0,Defender,left,182.0,73.0,88.0,40.0,1820.0,85.0,39.0,66.0,71.0,73.0,69.0,6.5
+Kenan Yıldız,19,Türkiye,Juventus FC,30.0,1086.0,4.0,1.0,Attack,both,187.0,66.0,83.0,56.0,1675.0,75.0,58.0,65.0,72.0,28.0,61.0,2.2
+Aleksandar Pavlovic,20,Germany,Bayern Munich,30.0,1435.0,2.0,2.0,Midfield,both,188.0,70.0,84.0,46.0,1777.0,62.0,55.0,69.0,69.0,67.0,61.0,3.6
+Adam Wharton,20,England,Crystal Palace,30.0,1560.0,0.0,3.0,Midfield,left,182.0,76.0,85.0,47.0,2009.0,68.0,61.0,77.0,76.0,71.0,70.0,15.0
+Bilal El Khannouss,20,Morocco,KRC Genk,30.0,4915.0,4.0,9.0,Midfield,right,180.0,74.0,86.0,53.0,1764.0,71.0,60.0,75.0,80.0,37.0,54.0,10.0
+Maximilian Beier,21,Germany,Borussia Dortmund,30.0,2784.0,18.0,4.0,Attack,right,185.0,76.0,84.0,41.0,1813.0,91.0,76.0,63.0,78.0,25.0,58.0,16.5
+Hugo Larsson,20,Sweden,Eintracht Frankfurt,28.0,2063.0,2.0,2.0,Midfield,right,187.0,73.0,85.0,48.0,1896.0,76.0,62.0,66.0,73.0,64.0,75.0,7.0
+Arthur Vermeeren,19,Belgium,Atlético de Madrid,25.0,4511.0,2.0,7.0,Midfield,right,180.0,76.0,87.0,45.0,1952.0,75.0,55.0,75.0,77.0,71.0,69.0,15.0
+Michael Kayode,20,Italy,ACF Fiorentina,25.0,2489.0,1.0,2.0,Defender,right,179.0,66.0,82.0,53.0,1593.0,69.0,34.0,50.0,65.0,67.0,60.0,2.1
+Lesley Ugochukwu,20,France,Southampton FC,25.0,2947.0,1.0,1.0,Midfield,right,190.0,72.0,82.0,57.0,1917.0,65.0,57.0,69.0,71.0,72.0,75.0,5.0
+Matías Soulé,21,Argentina,AS Roma,25.0,3802.0,12.0,3.0,Attack,left,182.0,76.0,87.0,63.0,1869.0,76.0,69.0,74.0,81.0,36.0,50.0,16.5
+Oscar Bobb,21,Norway,Manchester City,25.0,819.0,2.0,2.0,Attack,left,175.0,68.0,82.0,55.0,1656.0,80.0,61.0,63.0,74.0,33.0,42.0,2.9
+Rayan Cherki,21,France,Olympique Lyon,25.0,5158.0,8.0,19.0,Midfield,both,180.0,74.0,84.0,43.0,1749.0,68.0,67.0,72.0,84.0,21.0,61.0,9.0
+Carlos Baleba,20,Cameroon,Brighton & Hove Albion,22.0,2015.0,0.0,2.0,Midfield,left,179.0,70.0,82.0,52.0,1839.0,77.0,51.0,63.0,72.0,65.0,70.0,3.6
+Lewis Miley,18,England,Newcastle United,22.0,1743.0,1.0,4.0,Midfield,right,189.0,70.0,85.0,45.0,1815.0,63.0,61.0,69.0,72.0,60.0,65.0,3.6
+Jarell Quansah,21,England,Liverpool FC,22.0,2494.0,3.0,3.0,Defender,right,190.0,72.0,82.0,44.0,1685.0,73.0,33.0,56.0,65.0,72.0,75.0,4.8
+Yunus Musah,21,United States,AC Milan,22.0,6229.0,3.0,5.0,Midfield,right,178.0,75.0,83.0,51.0,2095.0,88.0,69.0,71.0,80.0,71.0,84.0,12.5
+Youssoufa Moukoko,19,Germany,Borussia Dortmund,22.0,3162.0,18.0,8.0,Attack,left,179.0,77.0,87.0,60.0,1857.0,80.0,75.0,59.0,80.0,34.0,65.0,22.5
+Alex Scott,21,England,AFC Bournemouth,20.0,1384.0,2.0,4.0,Midfield,right,178.0,72.0,84.0,54.0,1962.0,74.0,62.0,72.0,77.0,63.0,68.0,5.5
+Milos Kerkez,20,Hungary,AFC Bournemouth,20.0,5706.0,3.0,5.0,Defender,left,180.0,75.0,85.0,57.0,1925.0,82.0,53.0,66.0,73.0,69.0,74.0,11.5
+Brajan Gruda,20,Germany,Brighton & Hove Albion,20.0,1742.0,4.0,3.0,Attack,left,178.0,70.0,86.0,50.0,1793.0,78.0,68.0,65.0,77.0,30.0,58.0,4.1
+Jhon Durán,20,Colombia,Aston Villa,20.0,786.0,6.0,0.0,Attack,left,185.0,72.0,82.0,36.0,1756.0,79.0,72.0,58.0,71.0,32.0,77.0,5.0
+Facundo Buonanotte,19,Argentina,Leicester City,18.0,2493.0,5.0,2.0,Midfield,left,174.0,71.0,82.0,47.0,1678.0,75.0,65.0,68.0,73.0,25.0,50.0,4.0
+Ernest Nuamah,20,Ghana,Olympique Lyon,18.0,4287.0,18.0,7.0,Attack,left,178.0,74.0,84.0,52.0,1745.0,85.0,67.0,63.0,79.0,24.0,62.0,9.0
+Guillaume Restes,19,France,FC Toulouse,18.0,3870.0,0.0,0.0,Goalkeeper,left,188.0,75.0,87.0,374.0,1100.0,76.0,72.0,75.0,78.0,36.0,73.0,11.5
+Habib Diarra,20,Senegal,RC Strasbourg Alsace,18.0,4048.0,6.0,4.0,Midfield,right,178.0,72.0,84.0,42.0,1909.0,69.0,63.0,69.0,73.0,68.0,71.0,5.5
+Farès Chaïbi,21,Algeria,Eintracht Frankfurt,18.0,4496.0,7.0,12.0,Midfield,right,183.0,76.0,86.0,58.0,2027.0,73.0,69.0,76.0,74.0,68.0,71.0,16.5
+Lewis Hall,19,England,Newcastle United,18.0,1790.0,2.0,0.0,Defender,left,179.0,68.0,83.0,53.0,1860.0,71.0,59.0,69.0,71.0,65.0,57.0,2.7
+James Trafford,21,England,Burnley FC,18.0,2520.0,0.0,0.0,Goalkeeper,right,197.0,71.0,84.0,351.0,1034.0,70.0,69.0,69.0,73.0,27.0,70.0,4.0
+Arsen Zakharyan,21,Russia,Real Sociedad,18.0,8702.0,20.0,27.0,Midfield,right,183.0,74.0,85.0,60.0,1938.0,79.0,70.0,74.0,72.0,53.0,60.0,9.5
+Zeno Debast,20,Belgium,Sporting CP,18.0,6073.0,0.0,1.0,Defender,right,191.0,73.0,84.0,38.0,1859.0,66.0,53.0,70.0,69.0,73.0,73.0,6.0
+Giovanni Reyna,21,United States,Borussia Dortmund,18.0,5363.0,17.0,18.0,Midfield,right,185.0,78.0,84.0,56.0,1934.0,77.0,73.0,74.0,82.0,37.0,69.0,22.0
+Yankuba Minteh,20,The Gambia,Brighton & Hove Albion,16.0,2627.0,13.0,9.0,Attack,left,180.0,72.0,86.0,43.0,1732.0,93.0,61.0,59.0,76.0,41.0,54.0,5.5
+Jack Hinshelwood,19,England,Brighton & Hove Albion,16.0,1218.0,3.0,0.0,Midfield,right,182.0,66.0,82.0,41.0,1842.0,63.0,62.0,66.0,67.0,63.0,64.0,2.1
+Wilfried Gnonto,20,Italy,Leeds United,16.0,1936.0,5.0,5.0,Attack,right,170.0,74.0,85.0,53.0,1836.0,87.0,72.0,65.0,79.0,30.0,66.0,9.0
+Eli Junior Kroupi,18,France,FC Lorient,15.0,1084.0,5.0,3.0,Attack,right,179.0,67.0,81.0,53.0,1735.0,71.0,61.0,65.0,72.0,45.0,53.0,2.3
+Antonio Nusa,19,Norway,RB Leipzig,15.0,1947.0,5.0,5.0,Attack,right,180.0,72.0,86.0,59.0,1848.0,88.0,64.0,65.0,79.0,41.0,59.0,5.5
+Eliesse Ben Seghir,19,Morocco,AS Monaco,15.0,1609.0,6.0,5.0,Midfield,right,178.0,73.0,85.0,39.0,1761.0,77.0,73.0,65.0,76.0,28.0,54.0,7.0
+Valentín Carboni,19,Argentina,Olympique Marseille,15.0,1213.0,2.0,4.0,Midfield,left,185.0,64.0,84.0,52.0,1669.0,67.0,51.0,65.0,66.0,45.0,53.0,1.6
+Carlos Alcaraz,21,Argentina,Southampton FC,15.0,1714.0,5.0,5.0,Midfield,right,183.0,73.0,84.0,48.0,1982.0,82.0,71.0,71.0,79.0,50.0,68.0,6.5
+Malick Fofana,19,Belgium,Olympique Lyon,15.0,2714.0,6.0,8.0,Attack,right,169.0,71.0,85.0,50.0,1700.0,87.0,60.0,64.0,78.0,35.0,43.0,4.4
+Chadi Riad,21,Morocco,Crystal Palace,15.0,2315.0,0.0,0.0,Defender,left,187.0,69.0,81.0,49.0,1540.0,53.0,32.0,54.0,53.0,70.0,61.0,3.2
+Carney Chukwuemeka,20,England,Chelsea FC,15.0,928.0,2.0,2.0,Midfield,right,187.0,69.0,82.0,54.0,1773.0,66.0,62.0,66.0,73.0,50.0,61.0,3.3
+Aaron Ramsey,21,England,Burnley FC,15.0,23507.0,64.0,62.0,Midfield,right,178.0,70.0,82.0,56.0,1799.0,73.0,63.0,67.0,72.0,50.0,60.0,3.8
+Tommaso Baldanzi,21,Italy,AS Roma,15.0,3216.0,6.0,0.0,Midfield,left,170.0,77.0,87.0,50.0,1890.0,78.0,72.0,74.0,81.0,41.0,50.0,23.0
+Giannis Konstantelias,21,Greece,PAOK Thessaloniki,15.0,4347.0,14.0,11.0,Midfield,both,178.0,73.0,83.0,43.0,1803.0,75.0,65.0,72.0,77.0,37.0,54.0,6.5
+Conor Bradley,21,Northern Ireland,Liverpool FC,15.0,1505.0,1.0,6.0,Defender,right,181.0,74.0,84.0,49.0,1904.0,82.0,59.0,66.0,72.0,68.0,72.0,8.5
+Fabio Miretti,21,Italy,Juventus FC,15.0,3103.0,2.0,5.0,Midfield,right,180.0,75.0,88.0,52.0,2033.0,77.0,60.0,75.0,78.0,66.0,72.0,13.5
+Elliot Anderson,21,Scotland,Nottingham Forest,15.0,1763.0,0.0,3.0,Midfield,right,179.0,74.0,82.0,40.0,2016.0,73.0,66.0,71.0,78.0,67.0,76.0,9.0
+Victor Kristiansen,21,Denmark,Leicester City,15.0,7686.0,1.0,10.0,Defender,left,181.0,74.0,80.0,46.0,1912.0,74.0,55.0,64.0,72.0,71.0,75.0,6.0
+Giovanni Fabbian,21,Italy,Bologna FC 1909,14.0,1263.0,5.0,2.0,Midfield,right,186.0,72.0,83.0,38.0,1942.0,71.0,73.0,70.0,73.0,60.0,63.0,5.0
+Valentín Barco,20,Argentina,Brighton & Hove Albion,13.0,318.0,0.0,0.0,Defender,left,170.0,72.0,84.0,49.0,1887.0,76.0,47.0,73.0,77.0,66.0,58.0,5.0
+Samuel Iling-Junior,20,England,Aston Villa,13.0,1545.0,2.0,4.0,Attack,left,182.0,73.0,87.0,45.0,1797.0,83.0,61.0,69.0,78.0,37.0,56.0,7.0
+Ibrahim Osman,19,Ghana,Feyenoord Rotterdam,12.0,2025.0,5.0,5.0,Attack,right,179.0,66.0,84.0,49.0,1608.0,84.0,58.0,57.0,72.0,27.0,54.0,2.2
+Abakar Sylla,21,Cote d'Ivoire,RC Strasbourg Alsace,12.0,3569.0,3.0,0.0,Defender,left,188.0,72.0,82.0,55.0,1699.0,71.0,30.0,56.0,68.0,70.0,77.0,4.8
+Patrick Dorgu,19,Denmark,US Lecce,12.0,1639.0,2.0,1.0,Defender,left,185.0,65.0,83.0,43.0,1673.0,80.0,50.0,54.0,67.0,57.0,53.0,1.7
+Semih Kılıçsoy,19,Türkiye,Besiktas JK,12.0,1806.0,12.0,3.0,Attack,right,178.0,68.0,84.0,36.0,1676.0,78.0,69.0,54.0,70.0,31.0,70.0,3.0
+Santiago Castro,19,Argentina,Bologna FC 1909,12.0,237.0,1.0,1.0,Attack,right,179.0,71.0,81.0,59.0,1809.0,82.0,71.0,56.0,71.0,37.0,68.0,4.0
+El Chadaille Bitshiabu,19,France,RB Leipzig,12.0,656.0,0.0,0.0,Defender,left,196.0,68.0,83.0,55.0,1504.0,37.0,36.0,55.0,51.0,67.0,77.0,2.6
+David Datro Fofana,21,Cote d'Ivoire,Chelsea FC,12.0,2499.0,8.0,3.0,Attack,right,180.0,72.0,83.0,54.0,1745.0,86.0,66.0,58.0,76.0,22.0,72.0,5.0
+Ricardo Pepi,21,United States,PSV Eindhoven,12.0,3895.0,22.0,6.0,Attack,right,185.0,73.0,83.0,54.0,1792.0,71.0,74.0,57.0,69.0,41.0,71.0,6.5
+James McAtee,21,England,Manchester City,12.0,1945.0,5.0,4.0,Midfield,left,180.0,70.0,80.0,45.0,1721.0,72.0,63.0,66.0,73.0,41.0,60.0,3.5
+Emanuel Emegha,21,Netherlands,RC Strasbourg Alsace,12.0,3525.0,11.0,2.0,Attack,right,195.0,72.0,82.0,49.0,1724.0,81.0,71.0,54.0,69.0,30.0,74.0,5.0
+Aster Vranckx,21,Belgium,VfL Wolfsburg,12.0,5348.0,7.0,5.0,Midfield,right,183.0,74.0,81.0,55.0,1993.0,61.0,66.0,71.0,77.0,69.0,76.0,8.5
+George Ilenikhena,18,France,AS Monaco,10.0,1115.0,9.0,1.0,Attack,left,185.0,70.0,86.0,38.0,1671.0,81.0,71.0,56.0,69.0,26.0,61.0,4.0
+Gianluca Prestianni,18,Argentina,SL Benfica,10.0,3.0,0.0,0.0,Attack,right,166.0,68.0,82.0,52.0,1675.0,87.0,60.0,57.0,76.0,35.0,46.0,2.8
+Jeanuël Belocian,19,France,Bayer 04 Leverkusen,10.0,2451.0,0.0,1.0,Defender,left,182.0,70.0,82.0,63.0,1786.0,69.0,41.0,64.0,65.0,70.0,69.0,3.5
+Lamine Camara,20,Senegal,AS Monaco,10.0,2266.0,1.0,4.0,Midfield,right,173.0,71.0,83.0,61.0,1861.0,79.0,62.0,71.0,73.0,54.0,57.0,4.4
+Dean Huijsen,19,Spain,AFC Bournemouth,10.0,614.0,2.0,1.0,Defender,both,197.0,68.0,85.0,55.0,1696.0,64.0,46.0,60.0,62.0,68.0,66.0,2.9
+Simone Pafundi,18,Italy,FC Lausanne-Sport,10.0,137.0,0.0,0.0,Midfield,left,166.0,68.0,86.0,43.0,1837.0,77.0,65.0,66.0,74.0,46.0,53.0,3.0
+Matteo Prati,20,Italy,Cagliari Calcio,10.0,1973.0,1.0,1.0,Midfield,right,185.0,73.0,85.0,55.0,1977.0,65.0,65.0,73.0,72.0,69.0,70.0,7.0
+Ismaël Doukouré,21,France,RC Strasbourg Alsace,10.0,3977.0,1.0,1.0,Defender,right,183.0,72.0,81.0,60.0,1736.0,67.0,42.0,60.0,64.0,72.0,71.0,4.8
+Shea Charles,20,Northern Ireland,Southampton FC,10.0,27.0,0.0,0.0,Midfield,right,189.0,67.0,79.0,40.0,1703.0,61.0,47.0,65.0,61.0,65.0,69.0,2.3
+Wilson Odobert,19,France,Tottenham Hotspur,10.0,4050.0,8.0,5.0,Attack,right,182.0,71.0,84.0,45.0,1669.0,86.0,64.0,62.0,75.0,30.0,47.0,4.4
+Ben Doak,18,Scotland,Liverpool FC,10.0,307.0,0.0,0.0,Attack,right,173.0,64.0,85.0,46.0,1521.0,82.0,52.0,51.0,71.0,28.0,52.0,1.8
+Mohamed-Ali Cho,20,France,OGC Nice,10.0,4272.0,7.0,7.0,Attack,left,182.0,74.0,83.0,35.0,1683.0,80.0,69.0,64.0,76.0,26.0,56.0,9.0
+Andreas Schjelderup,20,Norway,SL Benfica,10.0,4476.0,19.0,8.0,Attack,right,176.0,72.0,84.0,59.0,1779.0,78.0,66.0,65.0,76.0,35.0,54.0,5.5
+Ahmetcan Kaplan,21,Türkiye,Ajax Amsterdam,10.0,1828.0,0.0,2.0,Defender,left,189.0,68.0,81.0,61.0,1518.0,64.0,30.0,48.0,53.0,69.0,70.0,2.7
+Cesare Casadei,21,Italy,Chelsea FC,10.0,308.0,1.0,2.0,Midfield,right,185.0,68.0,82.0,49.0,1904.0,70.0,67.0,67.0,68.0,62.0,70.0,2.9
+Mario Stroeykens,19,Belgium,RSC Anderlecht,10.0,3056.0,8.0,6.0,Midfield,right,177.0,71.0,83.0,47.0,1808.0,74.0,69.0,67.0,72.0,42.0,64.0,4.4
+Devyne Rensch,21,Netherlands,Ajax Amsterdam,10.0,8308.0,9.0,11.0,Defender,both,181.0,74.0,82.0,47.0,1870.0,75.0,56.0,66.0,71.0,73.0,68.0,9.0
+Dilane Bakwa,21,France,RC Strasbourg Alsace,10.0,2275.0,3.0,6.0,Attack,left,180.0,75.0,82.0,45.0,1786.0,86.0,68.0,68.0,78.0,30.0,62.0,11.0
+Luca Netz,21,Germany,Borussia Mönchengladbach,10.0,5149.0,3.0,14.0,Defender,left,184.0,75.0,80.0,52.0,1874.0,79.0,48.0,69.0,72.0,71.0,65.0,8.0
+Joe Scally,21,United States,Borussia Mönchengladbach,10.0,7051.0,3.0,6.0,Defender,right,184.0,74.0,80.0,49.0,1830.0,81.0,49.0,63.0,71.0,71.0,72.0,6.0
+Christian Mawissa,19,France,AS Monaco,9.0,1399.0,2.0,0.0,Defender,left,180.0,71.0,85.0,51.0,1598.0,66.0,31.0,53.0,60.0,71.0,72.0,4.1
+Alejo Veliz,20,Argentina,RCD Espanyol Barcelona,9.0,76.0,1.0,0.0,Attack,right,186.0,75.0,85.0,37.0,1746.0,71.0,74.0,54.0,70.0,25.0,73.0,12.0
+Roony Bardghji,18,Sweden,FC Copenhagen,9.0,2085.0,12.0,0.0,Attack,left,173.0,70.0,85.0,63.0,1728.0,75.0,68.0,63.0,74.0,30.0,53.0,3.6
+Andy Diouf,21,France,RC Lens,9.0,1458.0,1.0,0.0,Midfield,left,187.0,74.0,82.0,57.0,2016.0,76.0,68.0,71.0,75.0,67.0,75.0,9.0
+Máximo Perrone,21,Argentina,Manchester City,9.0,1712.0,0.0,0.0,Midfield,left,177.0,71.0,83.0,56.0,1843.0,68.0,54.0,66.0,74.0,68.0,69.0,4.5
+Hákon Arnar Haraldsson,21,Iceland,LOSC Lille,9.0,1564.0,3.0,0.0,Attack,right,180.0,73.0,83.0,51.0,1934.0,76.0,64.0,70.0,75.0,57.0,68.0,6.5
+Lucas Gourna-Douath,21,France,Red Bull Salzburg,9.0,3122.0,1.0,0.0,Midfield,right,185.0,73.0,83.0,46.0,1870.0,76.0,52.0,65.0,71.0,70.0,76.0,6.0
+Arne Engels,20,Belgium,FC Augsburg,9.0,2930.0,3.0,9.0,Midfield,right,185.0,72.0,83.0,56.0,1965.0,68.0,64.0,73.0,74.0,63.0,71.0,5.0
+Julien Duranville,18,Belgium,Borussia Dortmund,8.5,279.0,1.0,0.0,Attack,right,173.0,66.0,87.0,51.0,1601.0,84.0,60.0,58.0,75.0,23.0,48.0,2.7
+Diego Gómez,21,Paraguay,Inter Miami CF,8.0,25.0,0.0,0.0,Midfield,right,164.0,68.0,78.0,35.0,1831.0,75.0,63.0,65.0,69.0,59.0,72.0,2.6
+Kassoum Ouattara,19,France,AS Monaco,8.0,634.0,1.0,0.0,Defender,left,176.0,69.0,83.0,43.0,1700.0,77.0,41.0,60.0,68.0,63.0,68.0,3.1
+Paul Wanner,18,Germany,1.FC Heidenheim 1846,8.0,92.0,0.0,0.0,Midfield,left,185.0,66.0,86.0,56.0,1643.0,68.0,52.0,64.0,72.0,44.0,45.0,2.3
+Ethan Nwaneri,17,England,Arsenal FC U21,8.0,14.0,0.0,0.0,Midfield,left,176.0,61.0,86.0,54.0,1597.0,68.0,59.0,59.0,63.0,39.0,50.0,1.0
+Tom Rothe,19,Germany,1.FC Union Berlin,8.0,177.0,1.0,1.0,Defender,left,193.0,70.0,83.0,47.0,1745.0,67.0,45.0,65.0,66.0,66.0,75.0,3.5
+Soungoutou Magassa,20,France,AS Monaco,8.0,1423.0,0.0,0.0,Defender,right,188.0,72.0,82.0,50.0,1750.0,58.0,48.0,64.0,62.0,71.0,71.0,4.7
+Samuel Edozie,21,England,Southampton FC,8.0,855.0,0.0,0.0,Attack,right,181.0,67.0,80.0,50.0,1583.0,81.0,56.0,58.0,71.0,28.0,51.0,2.5
+Konstantinos Koulierakis,20,Greece,PAOK Thessaloniki,8.0,3953.0,3.0,1.0,Defender,left,188.0,72.0,81.0,50.0,1730.0,69.0,43.0,56.0,63.0,71.0,71.0,4.7
+Liam Delap,21,England,Ipswich Town,8.0,120.0,0.0,0.0,Attack,right,186.0,71.0,82.0,48.0,1735.0,76.0,70.0,58.0,70.0,29.0,74.0,4.1
+Loum Tchaouna,20,France,SS Lazio,8.0,2312.0,6.0,4.0,Attack,left,180.0,67.0,79.0,63.0,1784.0,79.0,69.0,62.0,71.0,37.0,61.0,2.4
+Jean-Mattéo Bahoya,19,France,Eintracht Frankfurt,7.5,434.0,0.0,0.0,Attack,right,180.0,66.0,80.0,56.0,1681.0,71.0,65.0,60.0,71.0,40.0,54.0,2.0
+Ismaël Gharbi,20,Spain,Paris Saint-Germain,7.5,63.0,0.0,0.0,Midfield,right,173.0,68.0,78.0,52.0,1683.0,73.0,57.0,63.0,74.0,40.0,46.0,2.6
+Kevin Paredes,21,United States,VfL Wolfsburg,7.5,1993.0,4.0,3.0,Midfield,left,175.0,72.0,82.0,51.0,1754.0,80.0,58.0,65.0,76.0,55.0,47.0,5.0
+Junior Mwanga,21,France,RC Strasbourg Alsace,7.0,1456.0,1.0,1.0,Midfield,both,184.0,72.0,81.0,47.0,1785.0,68.0,50.0,62.0,68.0,71.0,72.0,4.8
+Saël Kumbedi,19,France,Olympique Lyon,7.0,2233.0,0.0,4.0,Defender,right,175.0,71.0,82.0,37.0,1753.0,82.0,42.0,62.0,72.0,65.0,62.0,3.8
+Darío Osorio,20,Chile,FC Midtjylland,7.0,659.0,5.0,0.0,Attack,left,184.0,66.0,78.0,49.0,1671.0,77.0,63.0,63.0,68.0,31.0,59.0,2.0
+Adamo Nagalo,21,Burkina Faso,FC Nordsjaelland,7.0,5814.0,4.0,2.0,Defender,right,185.0,71.0,82.0,55.0,1625.0,70.0,29.0,55.0,62.0,70.0,77.0,3.8
+Omari Hutchinson,20,Jamaica,Ipswich Town,7.0,49.0,0.0,0.0,Midfield,left,174.0,68.0,83.0,39.0,1749.0,76.0,63.0,64.0,71.0,46.0,55.0,2.9
+Guéla Doué,21,Cote d'Ivoire,RC Strasbourg Alsace,7.0,1542.0,0.0,4.0,Defender,right,187.0,70.0,81.0,59.0,1739.0,71.0,39.0,59.0,69.0,69.0,71.0,3.3
+Isaak Touré,21,France,FC Lorient,7.0,3707.0,2.0,1.0,Defender,left,206.0,72.0,83.0,45.0,1581.0,66.0,30.0,51.0,56.0,69.0,83.0,4.8
+Kristian Hlynsson,20,Iceland,Ajax Amsterdam,7.0,2099.0,7.0,3.0,Midfield,right,179.0,69.0,83.0,49.0,1702.0,67.0,63.0,63.0,72.0,41.0,48.0,3.3
+Matías Arezo,21,Uruguay,Grêmio Foot-Ball Porto Alegrense,7.0,515.0,0.0,0.0,Attack,right,177.0,71.0,81.0,45.0,1841.0,68.0,74.0,61.0,71.0,42.0,64.0,4.1
+Ryan Flamingo,21,Netherlands,PSV Eindhoven,7.0,5745.0,5.0,2.0,Defender,right,183.0,70.0,80.0,51.0,1863.0,65.0,61.0,62.0,64.0,69.0,75.0,3.3
+Umut Tohumcu,20,Germany,TSG 1899 Hoffenheim,7.0,1359.0,0.0,2.0,Midfield,both,175.0,69.0,84.0,42.0,1691.0,66.0,62.0,67.0,71.0,42.0,50.0,3.2
+Mika Biereth,21,Denmark,SK Sturm Graz,7.0,1380.0,8.0,5.0,Attack,right,187.0,65.0,77.0,52.0,1608.0,79.0,64.0,49.0,62.0,30.0,71.0,1.7
+Alan Minda,21,Ecuador,Cercle Brugge,6.0,1513.0,7.0,6.0,Attack,right,171.0,67.0,77.0,53.0,1715.0,84.0,60.0,60.0,69.0,50.0,53.0,2.2
+Oumar Diakité,20,Cote d'Ivoire,Stade Reims,6.0,1587.0,5.0,1.0,Attack,right,182.0,72.0,82.0,57.0,1715.0,79.0,71.0,57.0,70.0,21.0,69.0,5.0
+Isaac Babadi,19,Netherlands,PSV Eindhoven,6.0,508.0,2.0,0.0,Midfield,right,179.0,66.0,83.0,48.0,1612.0,76.0,51.0,59.0,73.0,43.0,45.0,2.2
+Max Finkgräfe,20,Germany,1.FC Köln,6.0,1757.0,1.0,0.0,Defender,left,183.0,68.0,79.0,47.0,1721.0,72.0,42.0,59.0,71.0,64.0,63.0,2.5
+Zeno Van Den Bosch,21,Belgium,Royal Antwerp FC,6.0,1750.0,0.0,1.0,Defender,right,191.0,71.0,81.0,47.0,1569.0,60.0,27.0,64.0,51.0,72.0,70.0,3.8
+Jacopo Fazzini,21,Italy,FC Empoli,6.0,2082.0,1.0,2.0,Midfield,right,178.0,67.0,81.0,51.0,1831.0,72.0,51.0,67.0,70.0,59.0,65.0,2.4
+Antoni Milambo,19,Netherlands,Feyenoord Rotterdam,6.0,307.0,1.0,1.0,Midfield,right,179.0,64.0,81.0,43.0,1657.0,68.0,54.0,63.0,69.0,44.0,55.0,1.5
+Diego Coppola,20,Italy,Hellas Verona,6.0,3327.0,2.0,0.0,Defender,right,193.0,71.0,80.0,44.0,1586.0,60.0,40.0,55.0,51.0,72.0,69.0,3.8
+Matthis Abline,21,France,FC Nantes,6.0,2082.0,9.0,3.0,Attack,right,182.0,69.0,76.0,60.0,1671.0,77.0,71.0,55.0,71.0,24.0,55.0,2.8
+Warren Bondo,20,France,AC Monza,6.0,1561.0,1.0,1.0,Midfield,right,177.0,63.0,79.0,49.0,1765.0,77.0,55.0,58.0,72.0,58.0,64.0,1.2
+Johann Lepenant,21,France,FC Nantes,6.0,2184.0,1.0,2.0,Midfield,right,176.0,73.0,79.0,46.0,1860.0,70.0,56.0,67.0,71.0,69.0,69.0,4.3
+Elias Jelert,21,Denmark,Galatasaray,5.5,2905.0,0.0,1.0,Defender,right,178.0,71.0,81.0,48.0,1917.0,85.0,57.0,64.0,73.0,63.0,73.0,3.9
+Matte Smets,20,Belgium,KRC Genk,5.0,3769.0,0.0,0.0,Defender,right,184.0,71.0,83.0,45.0,1693.0,67.0,33.0,63.0,65.0,72.0,70.0,4.2
+Nathan Zézé,19,France,FC Nantes,5.0,1082.0,0.0,0.0,Defender,left,190.0,67.0,83.0,53.0,1479.0,66.0,31.0,44.0,48.0,70.0,63.0,2.4
+Ibrahim Maza,18,Germany,Hertha BSC,5.0,70.0,1.0,0.0,Attack,right,180.0,64.0,81.0,55.0,1656.0,70.0,60.0,60.0,71.0,38.0,54.0,1.5
+Senny Mayulu,18,France,Paris Saint-Germain,5.0,323.0,0.0,1.0,Midfield,both,183.0,64.0,83.0,37.0,1698.0,73.0,60.0,62.0,70.0,48.0,53.0,1.5
+Diego Luna,20,United States,Real Salt Lake City,5.0,1406.0,0.0,0.0,Defender,right,186.0,64.0,81.0,54.0,1700.0,77.0,58.0,57.0,72.0,38.0,68.0,1.5
+Nelson Weiper,19,Germany,1.FSV Mainz 05,5.0,215.0,2.0,0.0,Attack,right,192.0,66.0,86.0,47.0,1556.0,66.0,65.0,46.0,65.0,25.0,67.0,2.4
+Alfie Gilchrist,20,England,Sheffield United,5.0,431.0,1.0,0.0,Defender,right,183.0,63.0,80.0,37.0,1501.0,61.0,34.0,50.0,50.0,64.0,66.0,1.2
+Khalil Fayad,20,Morocco,Montpellier HSC,5.0,1725.0,3.0,2.0,Midfield,right,172.0,67.0,80.0,53.0,1693.0,65.0,57.0,66.0,73.0,54.0,39.0,2.4
+Luka Romero,19,Argentina,Deportivo Alavés,5.0,890.0,4.0,0.0,Attack,left,169.0,72.0,84.0,57.0,1868.0,79.0,65.0,66.0,75.0,53.0,57.0,5.5
+Williot Swedberg,20,Sweden,Celta de Vigo,5.0,991.0,5.0,1.0,Midfield,right,187.0,70.0,82.0,48.0,1850.0,71.0,68.0,66.0,71.0,59.0,60.0,3.8
+Jorne Spileers,19,Belgium,Club Brugge KV,5.0,3236.0,1.0,1.0,Defender,right,188.0,70.0,84.0,52.0,1617.0,73.0,31.0,58.0,57.0,70.0,70.0,3.5
+Ruben van Bommel,20,Netherlands,AZ Alkmaar,5.0,1958.0,9.0,1.0,Attack,right,192.0,68.0,83.0,44.0,1618.0,85.0,65.0,59.0,70.0,25.0,61.0,2.8
+Noah Sadiki,19,DR Congo,Union Saint-Gilloise,5.0,1930.0,0.0,2.0,Midfield,right,183.0,65.0,79.0,56.0,1651.0,73.0,38.0,58.0,67.0,62.0,66.0,1.6
+Mathias Delorge,20,Belgium,KAA Gent,5.0,2668.0,1.0,3.0,Midfield,left,189.0,71.0,82.0,59.0,1812.0,63.0,59.0,71.0,68.0,61.0,68.0,3.9
+Leo Sauer,18,Slovakia,NAC Breda,5.0,288.0,2.0,4.0,Attack,right,184.0,66.0,83.0,49.0,1644.0,81.0,58.0,61.0,70.0,39.0,50.0,2.1
+Badredine Bouanani,19,Algeria,OGC Nice,5.0,1457.0,1.0,4.0,Attack,left,177.0,69.0,79.0,55.0,1684.0,71.0,64.0,68.0,71.0,31.0,50.0,2.9
+Kamory Doumbia,21,Mali,Stade Reims,5.0,2370.0,10.0,8.0,Midfield,right,170.0,73.0,80.0,52.0,1894.0,70.0,67.0,70.0,75.0,57.0,59.0,6.0
+Orri Óskarsson,19,Iceland,FC Copenhagen,5.0,1411.0,8.0,7.0,Attack,right,186.0,65.0,80.0,62.0,1679.0,70.0,64.0,57.0,65.0,30.0,68.0,1.7
+Félix Lemaréchal,21,France,RC Strasbourg Alsace,5.0,1851.0,0.0,3.0,Midfield,right,180.0,69.0,80.0,56.0,1796.0,64.0,54.0,69.0,68.0,61.0,68.0,3.0
+Serdar Saatçı,21,Türkiye,SC Braga,5.0,3113.0,1.0,3.0,Defender,right,190.0,73.0,80.0,51.0,1584.0,69.0,30.0,49.0,61.0,73.0,75.0,5.5
+Wouter Goes,20,Netherlands,AZ Alkmaar,5.0,2005.0,1.0,1.0,Defender,right,187.0,67.0,82.0,44.0,1566.0,67.0,31.0,51.0,60.0,68.0,64.0,2.3
+Bashir Humphreys,21,England,Burnley FC,4.8,392.0,0.0,0.0,Defender,left,186.0,67.0,80.0,59.0,1576.0,65.0,31.0,51.0,55.0,67.0,67.0,2.3
+Yasin Özcan,18,Türkiye,Kasimpasa,4.5,4231.0,4.0,2.0,Defender,left,185.0,63.0,77.0,45.0,1509.0,65.0,36.0,45.0,55.0,64.0,67.0,1.0
+Antonio Raimondo,20,Italy,Venezia FC,4.5,14.0,0.0,0.0,Attack,left,185.0,65.0,80.0,37.0,1630.0,67.0,63.0,61.0,68.0,28.0,59.0,1.7
+Paxten Aaronson,20,United States,FC Utrecht,4.5,1609.0,4.0,3.0,Midfield,right,175.0,68.0,79.0,51.0,1667.0,77.0,58.0,63.0,71.0,40.0,48.0,2.6
+Cristian Volpato,20,Italy,US Sassuolo,4.5,1221.0,2.0,2.0,Midfield,left,187.0,69.0,85.0,48.0,1718.0,67.0,64.0,67.0,71.0,39.0,62.0,3.6
+Kyriani Sabbe,19,Belgium,Club Brugge KV,4.5,741.0,0.0,3.0,Defender,right,176.0,67.0,83.0,54.0,1729.0,76.0,49.0,64.0,68.0,61.0,57.0,2.5
+Yasin Ayari,20,Sweden,Brighton & Hove Albion,4.5,513.0,1.0,0.0,Midfield,right,172.0,66.0,78.0,49.0,1700.0,64.0,51.0,66.0,69.0,52.0,58.0,2.0
+Filippo Terracciano,21,Italy,AC Milan,4.5,2316.0,0.0,2.0,Defender,right,186.0,71.0,82.0,56.0,1954.0,81.0,60.0,71.0,71.0,67.0,69.0,4.1
+Enso González,19,Paraguay,Wolverhampton Wanderers,4.0,1.0,0.0,0.0,Attack,left,169.0,63.0,83.0,54.0,1528.0,81.0,48.0,58.0,70.0,35.0,41.0,1.3
+Ibrahim Sulemana,21,Ghana,Atalanta BC,4.0,2231.0,2.0,0.0,Midfield,right,180.0,70.0,81.0,52.0,1928.0,75.0,61.0,64.0,68.0,68.0,75.0,3.3
+Momodou Lamin Sonko,19,Sweden,KAA Gent,4.0,664.0,3.0,1.0,Attack,right,176.0,63.0,84.0,46.0,1516.0,80.0,61.0,50.0,69.0,17.0,51.0,1.5
+Alan Matturro,19,Uruguay,Genoa CFC,4.0,284.0,0.0,0.0,Defender,left,189.0,65.0,82.0,51.0,1522.0,68.0,30.0,50.0,53.0,66.0,65.0,1.7
+Bénie Traoré,21,Cote d'Ivoire,FC Basel 1893,4.0,929.0,0.0,1.0,Attack,right,172.0,68.0,77.0,48.0,1701.0,86.0,65.0,54.0,75.0,32.0,63.0,2.7
+Ayman Kari,19,France,Paris Saint-Germain,4.0,993.0,1.0,1.0,Midfield,right,176.0,68.0,82.0,62.0,1805.0,70.0,53.0,66.0,73.0,59.0,65.0,2.8
+Mika Godts,19,Belgium,Ajax Amsterdam,4.0,641.0,0.0,3.0,Attack,right,176.0,66.0,84.0,53.0,1677.0,77.0,58.0,61.0,74.0,39.0,54.0,2.2
+Nazar Voloshyn,21,Ukraine,Dynamo Kyiv,4.0,3559.0,16.0,8.0,Attack,right,175.0,66.0,80.0,56.0,1559.0,68.0,60.0,61.0,66.0,28.0,50.0,2.1
+Tim Iroegbunam,21,England,Everton FC,4.0,258.0,0.0,0.0,Midfield,right,183.0,69.0,81.0,49.0,1819.0,66.0,58.0,64.0,68.0,66.0,71.0,3.2
+Tim Oermann,20,Germany,VfL Bochum,4.0,901.0,0.0,0.0,Defender,right,189.0,68.0,77.0,44.0,1567.0,67.0,34.0,54.0,58.0,68.0,68.0,2.4
+Dorgeles Nene,21,Mali,Red Bull Salzburg,4.0,1484.0,8.0,4.0,Attack,right,174.0,67.0,76.0,35.0,1763.0,85.0,70.0,61.0,72.0,37.0,54.0,2.3
+Tom Cannon,21,Ireland,Leicester City,4.0,300.0,1.0,1.0,Attack,right,180.0,69.0,77.0,45.0,1691.0,79.0,69.0,56.0,72.0,27.0,59.0,3.1
+Jacob Ondrejka,21,Sweden,Royal Antwerp FC,4.0,839.0,5.0,2.0,Attack,right,180.0,70.0,79.0,55.0,1845.0,79.0,64.0,68.0,72.0,46.0,60.0,3.5
+Gabriel Slonina,20,United States,Barnsley FC,4.0,2520.0,0.0,0.0,Goalkeeper,right,193.0,68.0,81.0,330.0,1105.0,69.0,64.0,63.0,69.0,45.0,65.0,2.5
+Emin Bayram,21,Türkiye,KVC Westerlo,4.0,2643.0,1.0,2.0,Defender,right,192.0,67.0,78.0,50.0,1605.0,63.0,31.0,55.0,63.0,68.0,69.0,2.1
+Cher Ndour,20,Italy,Besiktas JK,4.0,310.0,1.0,0.0,Midfield,both,190.0,68.0,82.0,54.0,1774.0,55.0,61.0,68.0,68.0,57.0,70.0,2.8
+Rav van den Berg,20,Netherlands,Middlesbrough FC,4.0,583.0,1.0,0.0,Defender,right,191.0,67.0,84.0,50.0,1536.0,66.0,32.0,50.0,59.0,67.0,68.0,2.4
+Shola Shoretire,20,England,PAOK Thessaloniki,4.0,61.0,0.0,0.0,Midfield,both,171.0,62.0,79.0,36.0,1609.0,73.0,54.0,57.0,67.0,37.0,54.0,1.0
+Calvin Ramsay,21,Scotland,Wigan Athletic,4.0,2427.0,1.0,9.0,Defender,right,177.0,65.0,79.0,47.0,1695.0,76.0,43.0,60.0,66.0,56.0,66.0,1.6
+Gaetano Oristanio,21,Italy,Venezia FC,4.0,3225.0,3.0,4.0,Midfield,left,174.0,71.0,84.0,41.0,1896.0,87.0,66.0,69.0,76.0,49.0,60.0,4.5
+Mattia Zanotti,21,Italy,FC Lugano,4.0,26.0,0.0,0.0,Defender,right,177.0,71.0,82.0,46.0,1942.0,78.0,59.0,69.0,70.0,68.0,70.0,3.9
+Armindo Sieb,21,Germany,1.FSV Mainz 05,4.0,26.0,0.0,0.0,Attack,both,175.0,69.0,79.0,56.0,1689.0,87.0,65.0,55.0,74.0,26.0,64.0,3.1
+Christopher Bonsu Baah,19,Ghana,KRC Genk,3.5,1308.0,1.0,1.0,Attack,left,172.0,69.0,81.0,38.0,1670.0,85.0,63.0,59.0,77.0,29.0,57.0,3.2
+Óscar Cortés,20,Colombia,Rangers FC,3.5,419.0,2.0,3.0,Attack,right,178.0,69.0,80.0,43.0,1780.0,78.0,66.0,65.0,71.0,48.0,53.0,3.0
+Tom Bischof,19,Germany,TSG 1899 Hoffenheim,3.5,531.0,0.0,2.0,Midfield,left,176.0,67.0,86.0,53.0,1651.0,61.0,55.0,65.0,72.0,43.0,50.0,2.6
+Cihan Çanak,19,Türkiye,Trabzonspor,3.5,1470.0,1.0,5.0,Attack,left,175.0,66.0,81.0,46.0,1690.0,80.0,58.0,64.0,75.0,39.0,50.0,2.0
+Joel Mvuka,21,Norway,FC Lorient,3.5,279.0,0.0,0.0,Attack,right,176.0,69.0,78.0,56.0,1697.0,89.0,57.0,59.0,74.0,41.0,46.0,3.1
+Jay Stansfield,21,England,Fulham FC,3.5,585.0,1.0,2.0,Attack,right,187.0,67.0,79.0,43.0,1689.0,79.0,69.0,59.0,68.0,26.0,64.0,2.5
+Alan Virginius,21,France,BSC Young Boys,3.5,1261.0,1.0,3.0,Attack,right,180.0,68.0,80.0,59.0,1586.0,90.0,59.0,59.0,71.0,27.0,40.0,2.9
+Samuele Vignato,20,Italy,AC Monza,3.5,487.0,1.0,1.0,Midfield,right,172.0,65.0,81.0,48.0,1606.0,72.0,59.0,60.0,74.0,34.0,42.0,1.9
+Myron van Brederode,21,Netherlands,AZ Alkmaar,3.5,2943.0,7.0,5.0,Attack,right,174.0,69.0,79.0,53.0,1642.0,68.0,58.0,60.0,79.0,32.0,54.0,3.0
+Adam Obert,21,Slovakia,Cagliari Calcio,3.5,1677.0,0.0,1.0,Defender,left,188.0,68.0,78.0,50.0,1719.0,68.0,41.0,60.0,64.0,69.0,67.0,2.5
+Youri Regeer,21,Netherlands,Twente Enschede FC,3.5,2017.0,2.0,2.0,Midfield,right,177.0,70.0,81.0,57.0,1865.0,75.0,57.0,68.0,71.0,66.0,67.0,3.3
+Nathan Ngoy,21,Belgium,Standard Liège,3.5,2100.0,1.0,0.0,Defender,right,183.0,66.0,77.0,54.0,1621.0,78.0,44.0,49.0,61.0,65.0,71.0,1.8
+Paul Nebel,21,Germany,1.FSV Mainz 05,3.5,319.0,0.0,2.0,Attack,both,169.0,71.0,80.0,45.0,1702.0,74.0,62.0,66.0,76.0,30.0,58.0,4.1
+Mahamadou Diawara,19,France,Olympique Lyon,3.0,355.0,0.0,0.0,Midfield,left,187.0,67.0,81.0,37.0,1752.0,69.0,55.0,65.0,67.0,61.0,69.0,2.4
+Ngal'ayel Mukau,19,DR Congo,LOSC Lille,3.0,1326.0,0.0,0.0,Midfield,left,188.0,66.0,80.0,52.0,1641.0,64.0,40.0,55.0,64.0,66.0,64.0,1.9
+Gustavo Puerta,21,Colombia,Bayer 04 Leverkusen,3.0,229.0,0.0,0.0,Midfield,right,173.0,65.0,79.0,54.0,1706.0,65.0,58.0,62.0,64.0,59.0,60.0,1.7
+Lovro Zvonarek,19,Croatia,SK Sturm Graz,3.0,161.0,1.0,0.0,Midfield,right,180.0,64.0,78.0,51.0,1600.0,69.0,57.0,62.0,68.0,34.0,52.0,1.4
+Matija Frigan,21,Croatia,KVC Westerlo,3.0,1006.0,4.0,1.0,Attack,left,185.0,69.0,79.0,43.0,1791.0,79.0,68.0,59.0,68.0,36.0,74.0,3.1
+Gino Infantino,21,Argentina,ACF Fiorentina,3.0,185.0,0.0,0.0,Midfield,left,178.0,67.0,79.0,44.0,1751.0,75.0,61.0,64.0,71.0,48.0,59.0,2.5
+Tygo Land,18,Netherlands,PSV Eindhoven,3.0,19.0,0.0,1.0,Midfield,right,178.0,62.0,84.0,57.0,1691.0,74.0,50.0,64.0,71.0,52.0,43.0,1.2
+Mayckel Lahdo,21,Sweden,AZ Alkmaar,3.0,1829.0,10.0,7.0,Attack,right,171.0,68.0,79.0,56.0,1619.0,82.0,64.0,59.0,73.0,27.0,54.0,2.6
+Tom Louchet,21,France,OGC Nice,3.0,399.0,1.0,2.0,Midfield,both,178.0,66.0,77.0,51.0,1794.0,70.0,60.0,64.0,69.0,60.0,61.0,1.9
+Joseph Nonge,19,Belgium,Juventus Next Gen,3.0,49.0,0.0,0.0,Midfield,left,184.0,64.0,81.0,46.0,1768.0,68.0,49.0,64.0,66.0,64.0,60.0,1.5
+Lucas Noubi,19,Belgium,Standard Liège,3.0,1391.0,0.0,0.0,Defender,right,184.0,66.0,81.0,52.0,1532.0,75.0,21.0,52.0,64.0,63.0,74.0,1.9
+Emirhan İlkhan,20,Türkiye,Torino FC,3.0,1864.0,2.0,2.0,Midfield,right,175.0,64.0,79.0,55.0,1686.0,66.0,58.0,63.0,70.0,50.0,48.0,1.4
+Jhon Solís,19,Colombia,Girona FC,3.0,690.0,0.0,1.0,Midfield,right,186.0,69.0,80.0,52.0,1819.0,64.0,61.0,63.0,65.0,66.0,74.0,2.9
+Giuliano Simeone,21,Argentina,Atlético de Madrid,3.0,719.0,1.0,2.0,Attack,right,173.0,72.0,82.0,55.0,1796.0,82.0,69.0,58.0,70.0,26.0,79.0,5.0
+Lucas Hey,21,Denmark,FC Nordsjaelland,3.0,2504.0,0.0,0.0,Defender,right,189.0,65.0,79.0,46.0,1610.0,62.0,41.0,55.0,60.0,65.0,65.0,1.6
+Andrew Moran,20,Ireland,Stoke City,3.0,505.0,2.0,3.0,Midfield,right,177.0,67.0,80.0,69.0,1739.0,76.0,58.0,66.0,71.0,39.0,55.0,2.4
+Matias Fernandez-Pardo,19,Belgium,KAA Gent,3.0,260.0,1.0,0.0,Attack,right,183.0,62.0,78.0,50.0,1560.0,75.0,58.0,59.0,67.0,28.0,51.0,1.0
+Dexter Lembikisa,20,Jamaica,Wolverhampton Wanderers U21,3.0,1176.0,1.0,0.0,Defender,right,180.0,64.0,73.0,45.0,1614.0,83.0,43.0,54.0,60.0,59.0,59.0,1.2
+Anton Gaaei,21,Denmark,Ajax Amsterdam,3.0,4030.0,2.0,9.0,Defender,right,183.0,67.0,78.0,50.0,1724.0,84.0,48.0,57.0,65.0,59.0,67.0,2.1
+Aljoscha Kemlein,20,Germany,1.FC Union Berlin,3.0,108.0,0.0,0.0,Midfield,right,185.0,66.0,78.0,53.0,1738.0,60.0,57.0,63.0,65.0,62.0,63.0,1.9
+Robert Wagner,21,Germany,FC St. Pauli,3.0,124.0,0.0,0.0,Midfield,right,181.0,69.0,82.0,57.0,1730.0,68.0,45.0,66.0,69.0,60.0,70.0,3.3
+Jude Bellingham,21,England,Real Madrid,180.0,13820.0,47.0,38.0,Midfield,right,186.0,88.0,92.0,48.0,2295.0,80.0,83.0,81.0,87.0,78.0,83.0,128.5
+Florian Wirtz,21,Germany,Bayer 04 Leverkusen,130.0,10929.0,41.0,50.0,Midfield,right,177.0,87.0,92.0,57.0,2089.0,80.0,76.0,86.0,88.0,50.0,63.0,118.5
+Jamal Musiala,21,Germany,Bayern Munich,130.0,9175.0,43.0,31.0,Midfield,right,184.0,86.0,93.0,42.0,2090.0,85.0,75.0,76.0,91.0,63.0,61.0,134.5
+Eduardo Camavinga,21,France,Real Madrid,100.0,13733.0,4.0,13.0,Midfield,left,182.0,83.0,90.0,50.0,2197.0,80.0,67.0,81.0,84.0,78.0,80.0,71.5
+Xavi Simons,21,Netherlands,RB Leipzig,80.0,7397.0,32.0,27.0,Midfield,right,179.0,82.0,89.0,43.0,2139.0,87.0,77.0,78.0,85.0,61.0,74.0,60.5
+Rasmus Højlund,21,Denmark,Manchester United,65.0,5388.0,27.0,6.0,Attack,left,191.0,78.0,89.0,50.0,1869.0,84.0,77.0,58.0,74.0,33.0,83.0,31.0
+Warren Zaïre-Emery,18,France,Paris Saint-Germain,60.0,3956.0,5.0,6.0,Midfield,right,178.0,80.0,90.0,55.0,2113.0,79.0,68.0,76.0,79.0,75.0,78.0,43.5
+Kobbie Mainoo,19,England,Manchester United,55.0,2492.0,5.0,1.0,Midfield,right,180.0,72.0,87.0,49.0,1923.0,74.0,60.0,68.0,77.0,68.0,69.0,5.0
+Leny Yoro,18,France,Manchester United,50.0,3610.0,3.0,0.0,Defender,right,190.0,77.0,86.0,53.0,1740.0,73.0,41.0,58.0,61.0,78.0,73.0,20.0
+Bradley Barcola,21,France,Paris Saint-Germain,50.0,3908.0,10.0,20.0,Attack,right,182.0,80.0,87.0,43.0,1925.0,86.0,74.0,75.0,80.0,34.0,64.0,42.0
+Evan Ferguson,19,Ireland,Brighton & Hove Albion,50.0,3143.0,16.0,5.0,Attack,right,188.0,74.0,86.0,54.0,1729.0,72.0,74.0,62.0,70.0,21.0,70.0,10.0
+Levi Colwill,21,England,Chelsea FC,50.0,4049.0,1.0,3.0,Defender,left,187.0,76.0,83.0,61.0,1841.0,72.0,40.0,68.0,68.0,76.0,76.0,14.0
+Arda Güler,19,Türkiye,Real Madrid,45.0,2030.0,14.0,8.0,Attack,left,175.0,77.0,88.0,58.0,1964.0,72.0,70.0,80.0,82.0,52.0,50.0,22.0
+Giorgio Scalvini,20,Italy,Atalanta BC,45.0,6569.0,5.0,5.0,Defender,right,194.0,77.0,87.0,45.0,1672.0,64.0,35.0,57.0,61.0,78.0,74.0,21.0
+Pape Matar Sarr,21,Senegal,Tottenham Hotspur,45.0,6290.0,7.0,7.0,Midfield,right,184.0,78.0,84.0,52.0,2030.0,70.0,65.0,75.0,78.0,74.0,75.0,21.5
+Johan Bakayoko,21,Belgium,PSV Eindhoven,45.0,5718.0,21.0,19.0,Attack,left,179.0,78.0,88.0,43.0,1837.0,87.0,69.0,69.0,81.0,31.0,64.0,31.0
+Destiny Udogie,21,Italy,Tottenham Hotspur,45.0,8283.0,10.0,10.0,Defender,left,188.0,81.0,86.0,57.0,2104.0,88.0,65.0,73.0,79.0,76.0,80.0,35.5
+Ousmane Diomande,20,Cote d'Ivoire,Sporting CP,40.0,4222.0,5.0,1.0,Defender,right,190.0,78.0,86.0,41.0,1696.0,74.0,26.0,53.0,73.0,77.0,83.0,28.5
+Mathys Tel,19,France,Bayern Munich,40.0,2056.0,16.0,6.0,Attack,right,183.0,75.0,88.0,54.0,1830.0,82.0,78.0,64.0,77.0,28.0,60.0,13.0
+Castello Lukeba,21,France,RB Leipzig,40.0,8590.0,5.0,0.0,Defender,left,184.0,79.0,86.0,56.0,1889.0,74.0,43.0,68.0,72.0,80.0,77.0,32.0
+Rico Lewis,19,England,Manchester City,38.0,3036.0,3.0,4.0,Defender,right,169.0,75.0,86.0,55.0,1880.0,76.0,46.0,73.0,79.0,70.0,59.0,11.5
+Elye Wahi,21,France,Olympique Marseille,35.0,7163.0,44.0,13.0,Attack,right,181.0,77.0,84.0,51.0,1919.0,84.0,79.0,67.0,79.0,31.0,67.0,21.0
+Malo Gusto,21,France,Chelsea FC,35.0,6402.0,0.0,15.0,Defender,right,178.0,78.0,86.0,49.0,1984.0,87.0,49.0,72.0,77.0,71.0,75.0,29.5
+Harvey Elliott,21,England,Liverpool FC,35.0,5876.0,10.0,13.0,Midfield,left,170.0,77.0,85.0,47.0,1940.0,75.0,67.0,76.0,81.0,53.0,57.0,23.0
+Tino Livramento,21,England,Newcastle United,35.0,4333.0,2.0,3.0,Defender,right,182.0,77.0,85.0,56.0,1948.0,81.0,50.0,68.0,78.0,74.0,72.0,22.0
+Désiré Doué,19,France,Paris Saint-Germain,30.0,3297.0,8.0,6.0,Attack,both,181.0,74.0,85.0,46.0,1855.0,78.0,68.0,69.0,80.0,48.0,63.0,9.0
+Jorrel Hato,18,Netherlands,Ajax Amsterdam,30.0,4546.0,1.0,3.0,Defender,left,182.0,73.0,88.0,40.0,1820.0,85.0,39.0,66.0,71.0,73.0,69.0,6.5
+Kenan Yıldız,19,Türkiye,Juventus FC,30.0,1086.0,4.0,1.0,Attack,both,187.0,66.0,83.0,56.0,1675.0,75.0,58.0,65.0,72.0,28.0,61.0,2.2
+Aleksandar Pavlovic,20,Germany,Bayern Munich,30.0,1435.0,2.0,2.0,Midfield,both,188.0,70.0,84.0,46.0,1777.0,62.0,55.0,69.0,69.0,67.0,61.0,3.6
+Adam Wharton,20,England,Crystal Palace,30.0,1560.0,0.0,3.0,Midfield,left,182.0,76.0,85.0,47.0,2009.0,68.0,61.0,77.0,76.0,71.0,70.0,15.0
+Bilal El Khannouss,20,Morocco,KRC Genk,30.0,4915.0,4.0,9.0,Midfield,right,180.0,74.0,86.0,53.0,1764.0,71.0,60.0,75.0,80.0,37.0,54.0,10.0
+Maximilian Beier,21,Germany,Borussia Dortmund,30.0,2784.0,18.0,4.0,Attack,right,185.0,76.0,84.0,41.0,1813.0,91.0,76.0,63.0,78.0,25.0,58.0,16.5
+Hugo Larsson,20,Sweden,Eintracht Frankfurt,28.0,2063.0,2.0,2.0,Midfield,right,187.0,73.0,85.0,48.0,1896.0,76.0,62.0,66.0,73.0,64.0,75.0,7.0
+Arthur Vermeeren,19,Belgium,Atlético de Madrid,25.0,4511.0,2.0,7.0,Midfield,right,180.0,76.0,87.0,45.0,1952.0,75.0,55.0,75.0,77.0,71.0,69.0,15.0
+Michael Kayode,20,Italy,ACF Fiorentina,25.0,2489.0,1.0,2.0,Defender,right,179.0,66.0,82.0,53.0,1593.0,69.0,34.0,50.0,65.0,67.0,60.0,2.1
+Lesley Ugochukwu,20,France,Southampton FC,25.0,2947.0,1.0,1.0,Midfield,right,190.0,72.0,82.0,57.0,1917.0,65.0,57.0,69.0,71.0,72.0,75.0,5.0
+Matías Soulé,21,Argentina,AS Roma,25.0,3802.0,12.0,3.0,Attack,left,182.0,76.0,87.0,63.0,1869.0,76.0,69.0,74.0,81.0,36.0,50.0,16.5
+Oscar Bobb,21,Norway,Manchester City,25.0,819.0,2.0,2.0,Attack,left,175.0,68.0,82.0,55.0,1656.0,80.0,61.0,63.0,74.0,33.0,42.0,2.9
+Rayan Cherki,21,France,Olympique Lyon,25.0,5158.0,8.0,19.0,Midfield,both,180.0,74.0,84.0,43.0,1749.0,68.0,67.0,72.0,84.0,21.0,61.0,9.0
+Carlos Baleba,20,Cameroon,Brighton & Hove Albion,22.0,2015.0,0.0,2.0,Midfield,left,179.0,70.0,82.0,52.0,1839.0,77.0,51.0,63.0,72.0,65.0,70.0,3.6
+Lewis Miley,18,England,Newcastle United,22.0,1743.0,1.0,4.0,Midfield,right,189.0,70.0,85.0,45.0,1815.0,63.0,61.0,69.0,72.0,60.0,65.0,3.6
+Jarell Quansah,21,England,Liverpool FC,22.0,2494.0,3.0,3.0,Defender,right,190.0,72.0,82.0,44.0,1685.0,73.0,33.0,56.0,65.0,72.0,75.0,4.8
+Yunus Musah,21,United States,AC Milan,22.0,6229.0,3.0,5.0,Midfield,right,178.0,75.0,83.0,51.0,2095.0,88.0,69.0,71.0,80.0,71.0,84.0,12.5
+Youssoufa Moukoko,19,Germany,Borussia Dortmund,22.0,3162.0,18.0,8.0,Attack,left,179.0,77.0,87.0,60.0,1857.0,80.0,75.0,59.0,80.0,34.0,65.0,22.5
+Alex Scott,21,England,AFC Bournemouth,20.0,1384.0,2.0,4.0,Midfield,right,178.0,72.0,84.0,54.0,1962.0,74.0,62.0,72.0,77.0,63.0,68.0,5.5
+Milos Kerkez,20,Hungary,AFC Bournemouth,20.0,5706.0,3.0,5.0,Defender,left,180.0,75.0,85.0,57.0,1925.0,82.0,53.0,66.0,73.0,69.0,74.0,11.5
+Brajan Gruda,20,Germany,Brighton & Hove Albion,20.0,1742.0,4.0,3.0,Attack,left,178.0,70.0,86.0,50.0,1793.0,78.0,68.0,65.0,77.0,30.0,58.0,4.1
+Jhon Durán,20,Colombia,Aston Villa,20.0,786.0,6.0,0.0,Attack,left,185.0,72.0,82.0,36.0,1756.0,79.0,72.0,58.0,71.0,32.0,77.0,5.0
+Facundo Buonanotte,19,Argentina,Leicester City,18.0,2493.0,5.0,2.0,Midfield,left,174.0,71.0,82.0,47.0,1678.0,75.0,65.0,68.0,73.0,25.0,50.0,4.0
+Ernest Nuamah,20,Ghana,Olympique Lyon,18.0,4287.0,18.0,7.0,Attack,left,178.0,74.0,84.0,52.0,1745.0,85.0,67.0,63.0,79.0,24.0,62.0,9.0
+Guillaume Restes,19,France,FC Toulouse,18.0,3870.0,0.0,0.0,Goalkeeper,left,188.0,75.0,87.0,374.0,1100.0,76.0,72.0,75.0,78.0,36.0,73.0,11.5
+Habib Diarra,20,Senegal,RC Strasbourg Alsace,18.0,4048.0,6.0,4.0,Midfield,right,178.0,72.0,84.0,42.0,1909.0,69.0,63.0,69.0,73.0,68.0,71.0,5.5
+Farès Chaïbi,21,Algeria,Eintracht Frankfurt,18.0,4496.0,7.0,12.0,Midfield,right,183.0,76.0,86.0,58.0,2027.0,73.0,69.0,76.0,74.0,68.0,71.0,16.5
+Lewis Hall,19,England,Newcastle United,18.0,1790.0,2.0,0.0,Defender,left,179.0,68.0,83.0,53.0,1860.0,71.0,59.0,69.0,71.0,65.0,57.0,2.7
+James Trafford,21,England,Burnley FC,18.0,2520.0,0.0,0.0,Goalkeeper,right,197.0,71.0,84.0,351.0,1034.0,70.0,69.0,69.0,73.0,27.0,70.0,4.0
+Arsen Zakharyan,21,Russia,Real Sociedad,18.0,8702.0,20.0,27.0,Midfield,right,183.0,74.0,85.0,60.0,1938.0,79.0,70.0,74.0,72.0,53.0,60.0,9.5
+Zeno Debast,20,Belgium,Sporting CP,18.0,6073.0,0.0,1.0,Defender,right,191.0,73.0,84.0,38.0,1859.0,66.0,53.0,70.0,69.0,73.0,73.0,6.0
+Giovanni Reyna,21,United States,Borussia Dortmund,18.0,5363.0,17.0,18.0,Midfield,right,185.0,78.0,84.0,56.0,1934.0,77.0,73.0,74.0,82.0,37.0,69.0,22.0
+Yankuba Minteh,20,The Gambia,Brighton & Hove Albion,16.0,2627.0,13.0,9.0,Attack,left,180.0,72.0,86.0,43.0,1732.0,93.0,61.0,59.0,76.0,41.0,54.0,5.5
+Jack Hinshelwood,19,England,Brighton & Hove Albion,16.0,1218.0,3.0,0.0,Midfield,right,182.0,66.0,82.0,41.0,1842.0,63.0,62.0,66.0,67.0,63.0,64.0,2.1
+Wilfried Gnonto,20,Italy,Leeds United,16.0,1936.0,5.0,5.0,Attack,right,170.0,74.0,85.0,53.0,1836.0,87.0,72.0,65.0,79.0,30.0,66.0,9.0
+Eli Junior Kroupi,18,France,FC Lorient,15.0,1084.0,5.0,3.0,Attack,right,179.0,67.0,81.0,53.0,1735.0,71.0,61.0,65.0,72.0,45.0,53.0,2.3
+Antonio Nusa,19,Norway,RB Leipzig,15.0,1947.0,5.0,5.0,Attack,right,180.0,72.0,86.0,59.0,1848.0,88.0,64.0,65.0,79.0,41.0,59.0,5.5
+Eliesse Ben Seghir,19,Morocco,AS Monaco,15.0,1609.0,6.0,5.0,Midfield,right,178.0,73.0,85.0,39.0,1761.0,77.0,73.0,65.0,76.0,28.0,54.0,7.0
+Valentín Carboni,19,Argentina,Olympique Marseille,15.0,1213.0,2.0,4.0,Midfield,left,185.0,64.0,84.0,52.0,1669.0,67.0,51.0,65.0,66.0,45.0,53.0,1.6
+Carlos Alcaraz,21,Argentina,Southampton FC,15.0,1714.0,5.0,5.0,Midfield,right,183.0,73.0,84.0,48.0,1982.0,82.0,71.0,71.0,79.0,50.0,68.0,6.5
+Malick Fofana,19,Belgium,Olympique Lyon,15.0,2714.0,6.0,8.0,Attack,right,169.0,71.0,85.0,50.0,1700.0,87.0,60.0,64.0,78.0,35.0,43.0,4.4
+Chadi Riad,21,Morocco,Crystal Palace,15.0,2315.0,0.0,0.0,Defender,left,187.0,69.0,81.0,49.0,1540.0,53.0,32.0,54.0,53.0,70.0,61.0,3.2
+Carney Chukwuemeka,20,England,Chelsea FC,15.0,928.0,2.0,2.0,Midfield,right,187.0,69.0,82.0,54.0,1773.0,66.0,62.0,66.0,73.0,50.0,61.0,3.3
+Aaron Ramsey,21,England,Burnley FC,15.0,23507.0,64.0,62.0,Midfield,right,178.0,70.0,82.0,56.0,1799.0,73.0,63.0,67.0,72.0,50.0,60.0,3.8
+Tommaso Baldanzi,21,Italy,AS Roma,15.0,3216.0,6.0,0.0,Midfield,left,170.0,77.0,87.0,50.0,1890.0,78.0,72.0,74.0,81.0,41.0,50.0,23.0
+Giannis Konstantelias,21,Greece,PAOK Thessaloniki,15.0,4347.0,14.0,11.0,Midfield,both,178.0,73.0,83.0,43.0,1803.0,75.0,65.0,72.0,77.0,37.0,54.0,6.5
+Conor Bradley,21,Northern Ireland,Liverpool FC,15.0,1505.0,1.0,6.0,Defender,right,181.0,74.0,84.0,49.0,1904.0,82.0,59.0,66.0,72.0,68.0,72.0,8.5
+Fabio Miretti,21,Italy,Juventus FC,15.0,3103.0,2.0,5.0,Midfield,right,180.0,75.0,88.0,52.0,2033.0,77.0,60.0,75.0,78.0,66.0,72.0,13.5
+Elliot Anderson,21,Scotland,Nottingham Forest,15.0,1763.0,0.0,3.0,Midfield,right,179.0,74.0,82.0,40.0,2016.0,73.0,66.0,71.0,78.0,67.0,76.0,9.0
+Victor Kristiansen,21,Denmark,Leicester City,15.0,7686.0,1.0,10.0,Defender,left,181.0,74.0,80.0,46.0,1912.0,74.0,55.0,64.0,72.0,71.0,75.0,6.0
+Giovanni Fabbian,21,Italy,Bologna FC 1909,14.0,1263.0,5.0,2.0,Midfield,right,186.0,72.0,83.0,38.0,1942.0,71.0,73.0,70.0,73.0,60.0,63.0,5.0
+Valentín Barco,20,Argentina,Brighton & Hove Albion,13.0,318.0,0.0,0.0,Defender,left,170.0,72.0,84.0,49.0,1887.0,76.0,47.0,73.0,77.0,66.0,58.0,5.0
+Samuel Iling-Junior,20,England,Aston Villa,13.0,1545.0,2.0,4.0,Attack,left,182.0,73.0,87.0,45.0,1797.0,83.0,61.0,69.0,78.0,37.0,56.0,7.0
+Ibrahim Osman,19,Ghana,Feyenoord Rotterdam,12.0,2025.0,5.0,5.0,Attack,right,179.0,66.0,84.0,49.0,1608.0,84.0,58.0,57.0,72.0,27.0,54.0,2.2
+Abakar Sylla,21,Cote d'Ivoire,RC Strasbourg Alsace,12.0,3569.0,3.0,0.0,Defender,left,188.0,72.0,82.0,55.0,1699.0,71.0,30.0,56.0,68.0,70.0,77.0,4.8
+Patrick Dorgu,19,Denmark,US Lecce,12.0,1639.0,2.0,1.0,Defender,left,185.0,65.0,83.0,43.0,1673.0,80.0,50.0,54.0,67.0,57.0,53.0,1.7
+Semih Kılıçsoy,19,Türkiye,Besiktas JK,12.0,1806.0,12.0,3.0,Attack,right,178.0,68.0,84.0,36.0,1676.0,78.0,69.0,54.0,70.0,31.0,70.0,3.0
+Santiago Castro,19,Argentina,Bologna FC 1909,12.0,237.0,1.0,1.0,Attack,right,179.0,71.0,81.0,59.0,1809.0,82.0,71.0,56.0,71.0,37.0,68.0,4.0
+El Chadaille Bitshiabu,19,France,RB Leipzig,12.0,656.0,0.0,0.0,Defender,left,196.0,68.0,83.0,55.0,1504.0,37.0,36.0,55.0,51.0,67.0,77.0,2.6
+David Datro Fofana,21,Cote d'Ivoire,Chelsea FC,12.0,2499.0,8.0,3.0,Attack,right,180.0,72.0,83.0,54.0,1745.0,86.0,66.0,58.0,76.0,22.0,72.0,5.0
+Ricardo Pepi,21,United States,PSV Eindhoven,12.0,3895.0,22.0,6.0,Attack,right,185.0,73.0,83.0,54.0,1792.0,71.0,74.0,57.0,69.0,41.0,71.0,6.5
+James McAtee,21,England,Manchester City,12.0,1945.0,5.0,4.0,Midfield,left,180.0,70.0,80.0,45.0,1721.0,72.0,63.0,66.0,73.0,41.0,60.0,3.5
+Emanuel Emegha,21,Netherlands,RC Strasbourg Alsace,12.0,3525.0,11.0,2.0,Attack,right,195.0,72.0,82.0,49.0,1724.0,81.0,71.0,54.0,69.0,30.0,74.0,5.0
+Aster Vranckx,21,Belgium,VfL Wolfsburg,12.0,5348.0,7.0,5.0,Midfield,right,183.0,74.0,81.0,55.0,1993.0,61.0,66.0,71.0,77.0,69.0,76.0,8.5
+George Ilenikhena,18,France,AS Monaco,10.0,1115.0,9.0,1.0,Attack,left,185.0,70.0,86.0,38.0,1671.0,81.0,71.0,56.0,69.0,26.0,61.0,4.0
+Gianluca Prestianni,18,Argentina,SL Benfica,10.0,3.0,0.0,0.0,Attack,right,166.0,68.0,82.0,52.0,1675.0,87.0,60.0,57.0,76.0,35.0,46.0,2.8
+Jeanuël Belocian,19,France,Bayer 04 Leverkusen,10.0,2451.0,0.0,1.0,Defender,left,182.0,70.0,82.0,63.0,1786.0,69.0,41.0,64.0,65.0,70.0,69.0,3.5
+Lamine Camara,20,Senegal,AS Monaco,10.0,2266.0,1.0,4.0,Midfield,right,173.0,71.0,83.0,61.0,1861.0,79.0,62.0,71.0,73.0,54.0,57.0,4.4
+Dean Huijsen,19,Spain,AFC Bournemouth,10.0,614.0,2.0,1.0,Defender,both,197.0,68.0,85.0,55.0,1696.0,64.0,46.0,60.0,62.0,68.0,66.0,2.9
+Simone Pafundi,18,Italy,FC Lausanne-Sport,10.0,137.0,0.0,0.0,Midfield,left,166.0,68.0,86.0,43.0,1837.0,77.0,65.0,66.0,74.0,46.0,53.0,3.0
+Matteo Prati,20,Italy,Cagliari Calcio,10.0,1973.0,1.0,1.0,Midfield,right,185.0,73.0,85.0,55.0,1977.0,65.0,65.0,73.0,72.0,69.0,70.0,7.0
+Ismaël Doukouré,21,France,RC Strasbourg Alsace,10.0,3977.0,1.0,1.0,Defender,right,183.0,72.0,81.0,60.0,1736.0,67.0,42.0,60.0,64.0,72.0,71.0,4.8
+Shea Charles,20,Northern Ireland,Southampton FC,10.0,27.0,0.0,0.0,Midfield,right,189.0,67.0,79.0,40.0,1703.0,61.0,47.0,65.0,61.0,65.0,69.0,2.3
+Wilson Odobert,19,France,Tottenham Hotspur,10.0,4050.0,8.0,5.0,Attack,right,182.0,71.0,84.0,45.0,1669.0,86.0,64.0,62.0,75.0,30.0,47.0,4.4
+Ben Doak,18,Scotland,Liverpool FC,10.0,307.0,0.0,0.0,Attack,right,173.0,64.0,85.0,46.0,1521.0,82.0,52.0,51.0,71.0,28.0,52.0,1.8
+Mohamed-Ali Cho,20,France,OGC Nice,10.0,4272.0,7.0,7.0,Attack,left,182.0,74.0,83.0,35.0,1683.0,80.0,69.0,64.0,76.0,26.0,56.0,9.0
+Andreas Schjelderup,20,Norway,SL Benfica,10.0,4476.0,19.0,8.0,Attack,right,176.0,72.0,84.0,59.0,1779.0,78.0,66.0,65.0,76.0,35.0,54.0,5.5
+Ahmetcan Kaplan,21,Türkiye,Ajax Amsterdam,10.0,1828.0,0.0,2.0,Defender,left,189.0,68.0,81.0,61.0,1518.0,64.0,30.0,48.0,53.0,69.0,70.0,2.7
+Cesare Casadei,21,Italy,Chelsea FC,10.0,308.0,1.0,2.0,Midfield,right,185.0,68.0,82.0,49.0,1904.0,70.0,67.0,67.0,68.0,62.0,70.0,2.9
+Mario Stroeykens,19,Belgium,RSC Anderlecht,10.0,3056.0,8.0,6.0,Midfield,right,177.0,71.0,83.0,47.0,1808.0,74.0,69.0,67.0,72.0,42.0,64.0,4.4
+Devyne Rensch,21,Netherlands,Ajax Amsterdam,10.0,8308.0,9.0,11.0,Defender,both,181.0,74.0,82.0,47.0,1870.0,75.0,56.0,66.0,71.0,73.0,68.0,9.0
+Dilane Bakwa,21,France,RC Strasbourg Alsace,10.0,2275.0,3.0,6.0,Attack,left,180.0,75.0,82.0,45.0,1786.0,86.0,68.0,68.0,78.0,30.0,62.0,11.0
+Luca Netz,21,Germany,Borussia Mönchengladbach,10.0,5149.0,3.0,14.0,Defender,left,184.0,75.0,80.0,52.0,1874.0,79.0,48.0,69.0,72.0,71.0,65.0,8.0
+Joe Scally,21,United States,Borussia Mönchengladbach,10.0,7051.0,3.0,6.0,Defender,right,184.0,74.0,80.0,49.0,1830.0,81.0,49.0,63.0,71.0,71.0,72.0,6.0
+Christian Mawissa,19,France,AS Monaco,9.0,1399.0,2.0,0.0,Defender,left,180.0,71.0,85.0,51.0,1598.0,66.0,31.0,53.0,60.0,71.0,72.0,4.1
+Alejo Veliz,20,Argentina,RCD Espanyol Barcelona,9.0,76.0,1.0,0.0,Attack,right,186.0,75.0,85.0,37.0,1746.0,71.0,74.0,54.0,70.0,25.0,73.0,12.0
+Roony Bardghji,18,Sweden,FC Copenhagen,9.0,2085.0,12.0,0.0,Attack,left,173.0,70.0,85.0,63.0,1728.0,75.0,68.0,63.0,74.0,30.0,53.0,3.6
+Andy Diouf,21,France,RC Lens,9.0,1458.0,1.0,0.0,Midfield,left,187.0,74.0,82.0,57.0,2016.0,76.0,68.0,71.0,75.0,67.0,75.0,9.0
+Máximo Perrone,21,Argentina,Manchester City,9.0,1712.0,0.0,0.0,Midfield,left,177.0,71.0,83.0,56.0,1843.0,68.0,54.0,66.0,74.0,68.0,69.0,4.5
+Hákon Arnar Haraldsson,21,Iceland,LOSC Lille,9.0,1564.0,3.0,0.0,Attack,right,180.0,73.0,83.0,51.0,1934.0,76.0,64.0,70.0,75.0,57.0,68.0,6.5
+Lucas Gourna-Douath,21,France,Red Bull Salzburg,9.0,3122.0,1.0,0.0,Midfield,right,185.0,73.0,83.0,46.0,1870.0,76.0,52.0,65.0,71.0,70.0,76.0,6.0
+Arne Engels,20,Belgium,FC Augsburg,9.0,2930.0,3.0,9.0,Midfield,right,185.0,72.0,83.0,56.0,1965.0,68.0,64.0,73.0,74.0,63.0,71.0,5.0
+Julien Duranville,18,Belgium,Borussia Dortmund,8.5,279.0,1.0,0.0,Attack,right,173.0,66.0,87.0,51.0,1601.0,84.0,60.0,58.0,75.0,23.0,48.0,2.7
+Diego Gómez,21,Paraguay,Inter Miami CF,8.0,25.0,0.0,0.0,Midfield,right,164.0,68.0,78.0,35.0,1831.0,75.0,63.0,65.0,69.0,59.0,72.0,2.6
+Kassoum Ouattara,19,France,AS Monaco,8.0,634.0,1.0,0.0,Defender,left,176.0,69.0,83.0,43.0,1700.0,77.0,41.0,60.0,68.0,63.0,68.0,3.1
+Paul Wanner,18,Germany,1.FC Heidenheim 1846,8.0,92.0,0.0,0.0,Midfield,left,185.0,66.0,86.0,56.0,1643.0,68.0,52.0,64.0,72.0,44.0,45.0,2.3
+Ethan Nwaneri,17,England,Arsenal FC U21,8.0,14.0,0.0,0.0,Midfield,left,176.0,61.0,86.0,54.0,1597.0,68.0,59.0,59.0,63.0,39.0,50.0,1.0
+Tom Rothe,19,Germany,1.FC Union Berlin,8.0,177.0,1.0,1.0,Defender,left,193.0,70.0,83.0,47.0,1745.0,67.0,45.0,65.0,66.0,66.0,75.0,3.5
+Soungoutou Magassa,20,France,AS Monaco,8.0,1423.0,0.0,0.0,Defender,right,188.0,72.0,82.0,50.0,1750.0,58.0,48.0,64.0,62.0,71.0,71.0,4.7
+Samuel Edozie,21,England,Southampton FC,8.0,855.0,0.0,0.0,Attack,right,181.0,67.0,80.0,50.0,1583.0,81.0,56.0,58.0,71.0,28.0,51.0,2.5
+Konstantinos Koulierakis,20,Greece,PAOK Thessaloniki,8.0,3953.0,3.0,1.0,Defender,left,188.0,72.0,81.0,50.0,1730.0,69.0,43.0,56.0,63.0,71.0,71.0,4.7
+Liam Delap,21,England,Ipswich Town,8.0,120.0,0.0,0.0,Attack,right,186.0,71.0,82.0,48.0,1735.0,76.0,70.0,58.0,70.0,29.0,74.0,4.1
+Loum Tchaouna,20,France,SS Lazio,8.0,2312.0,6.0,4.0,Attack,left,180.0,67.0,79.0,63.0,1784.0,79.0,69.0,62.0,71.0,37.0,61.0,2.4
+Jean-Mattéo Bahoya,19,France,Eintracht Frankfurt,7.5,434.0,0.0,0.0,Attack,right,180.0,66.0,80.0,56.0,1681.0,71.0,65.0,60.0,71.0,40.0,54.0,2.0
+Ismaël Gharbi,20,Spain,Paris Saint-Germain,7.5,63.0,0.0,0.0,Midfield,right,173.0,68.0,78.0,52.0,1683.0,73.0,57.0,63.0,74.0,40.0,46.0,2.6
+Kevin Paredes,21,United States,VfL Wolfsburg,7.5,1993.0,4.0,3.0,Midfield,left,175.0,72.0,82.0,51.0,1754.0,80.0,58.0,65.0,76.0,55.0,47.0,5.0
+Junior Mwanga,21,France,RC Strasbourg Alsace,7.0,1456.0,1.0,1.0,Midfield,both,184.0,72.0,81.0,47.0,1785.0,68.0,50.0,62.0,68.0,71.0,72.0,4.8
+Saël Kumbedi,19,France,Olympique Lyon,7.0,2233.0,0.0,4.0,Defender,right,175.0,71.0,82.0,37.0,1753.0,82.0,42.0,62.0,72.0,65.0,62.0,3.8
+Darío Osorio,20,Chile,FC Midtjylland,7.0,659.0,5.0,0.0,Attack,left,184.0,66.0,78.0,49.0,1671.0,77.0,63.0,63.0,68.0,31.0,59.0,2.0
+Adamo Nagalo,21,Burkina Faso,FC Nordsjaelland,7.0,5814.0,4.0,2.0,Defender,right,185.0,71.0,82.0,55.0,1625.0,70.0,29.0,55.0,62.0,70.0,77.0,3.8
+Omari Hutchinson,20,Jamaica,Ipswich Town,7.0,49.0,0.0,0.0,Midfield,left,174.0,68.0,83.0,39.0,1749.0,76.0,63.0,64.0,71.0,46.0,55.0,2.9
+Guéla Doué,21,Cote d'Ivoire,RC Strasbourg Alsace,7.0,1542.0,0.0,4.0,Defender,right,187.0,70.0,81.0,59.0,1739.0,71.0,39.0,59.0,69.0,69.0,71.0,3.3
+Isaak Touré,21,France,FC Lorient,7.0,3707.0,2.0,1.0,Defender,left,206.0,72.0,83.0,45.0,1581.0,66.0,30.0,51.0,56.0,69.0,83.0,4.8
+Kristian Hlynsson,20,Iceland,Ajax Amsterdam,7.0,2099.0,7.0,3.0,Midfield,right,179.0,69.0,83.0,49.0,1702.0,67.0,63.0,63.0,72.0,41.0,48.0,3.3
+Matías Arezo,21,Uruguay,Grêmio Foot-Ball Porto Alegrense,7.0,515.0,0.0,0.0,Attack,right,177.0,71.0,81.0,45.0,1841.0,68.0,74.0,61.0,71.0,42.0,64.0,4.1
+Ryan Flamingo,21,Netherlands,PSV Eindhoven,7.0,5745.0,5.0,2.0,Defender,right,183.0,70.0,80.0,51.0,1863.0,65.0,61.0,62.0,64.0,69.0,75.0,3.3
+Umut Tohumcu,20,Germany,TSG 1899 Hoffenheim,7.0,1359.0,0.0,2.0,Midfield,both,175.0,69.0,84.0,42.0,1691.0,66.0,62.0,67.0,71.0,42.0,50.0,3.2
+Mika Biereth,21,Denmark,SK Sturm Graz,7.0,1380.0,8.0,5.0,Attack,right,187.0,65.0,77.0,52.0,1608.0,79.0,64.0,49.0,62.0,30.0,71.0,1.7
+Alan Minda,21,Ecuador,Cercle Brugge,6.0,1513.0,7.0,6.0,Attack,right,171.0,67.0,77.0,53.0,1715.0,84.0,60.0,60.0,69.0,50.0,53.0,2.2
+Oumar Diakité,20,Cote d'Ivoire,Stade Reims,6.0,1587.0,5.0,1.0,Attack,right,182.0,72.0,82.0,57.0,1715.0,79.0,71.0,57.0,70.0,21.0,69.0,5.0
+Isaac Babadi,19,Netherlands,PSV Eindhoven,6.0,508.0,2.0,0.0,Midfield,right,179.0,66.0,83.0,48.0,1612.0,76.0,51.0,59.0,73.0,43.0,45.0,2.2
+Max Finkgräfe,20,Germany,1.FC Köln,6.0,1757.0,1.0,0.0,Defender,left,183.0,68.0,79.0,47.0,1721.0,72.0,42.0,59.0,71.0,64.0,63.0,2.5
+Zeno Van Den Bosch,21,Belgium,Royal Antwerp FC,6.0,1750.0,0.0,1.0,Defender,right,191.0,71.0,81.0,47.0,1569.0,60.0,27.0,64.0,51.0,72.0,70.0,3.8
+Jacopo Fazzini,21,Italy,FC Empoli,6.0,2082.0,1.0,2.0,Midfield,right,178.0,67.0,81.0,51.0,1831.0,72.0,51.0,67.0,70.0,59.0,65.0,2.4
+Antoni Milambo,19,Netherlands,Feyenoord Rotterdam,6.0,307.0,1.0,1.0,Midfield,right,179.0,64.0,81.0,43.0,1657.0,68.0,54.0,63.0,69.0,44.0,55.0,1.5
+Diego Coppola,20,Italy,Hellas Verona,6.0,3327.0,2.0,0.0,Defender,right,193.0,71.0,80.0,44.0,1586.0,60.0,40.0,55.0,51.0,72.0,69.0,3.8
+Matthis Abline,21,France,FC Nantes,6.0,2082.0,9.0,3.0,Attack,right,182.0,69.0,76.0,60.0,1671.0,77.0,71.0,55.0,71.0,24.0,55.0,2.8
+Warren Bondo,20,France,AC Monza,6.0,1561.0,1.0,1.0,Midfield,right,177.0,63.0,79.0,49.0,1765.0,77.0,55.0,58.0,72.0,58.0,64.0,1.2
+Johann Lepenant,21,France,FC Nantes,6.0,2184.0,1.0,2.0,Midfield,right,176.0,73.0,79.0,46.0,1860.0,70.0,56.0,67.0,71.0,69.0,69.0,4.3
+Elias Jelert,21,Denmark,Galatasaray,5.5,2905.0,0.0,1.0,Defender,right,178.0,71.0,81.0,48.0,1917.0,85.0,57.0,64.0,73.0,63.0,73.0,3.9
+Matte Smets,20,Belgium,KRC Genk,5.0,3769.0,0.0,0.0,Defender,right,184.0,71.0,83.0,45.0,1693.0,67.0,33.0,63.0,65.0,72.0,70.0,4.2
+Nathan Zézé,19,France,FC Nantes,5.0,1082.0,0.0,0.0,Defender,left,190.0,67.0,83.0,53.0,1479.0,66.0,31.0,44.0,48.0,70.0,63.0,2.4
+Ibrahim Maza,18,Germany,Hertha BSC,5.0,70.0,1.0,0.0,Attack,right,180.0,64.0,81.0,55.0,1656.0,70.0,60.0,60.0,71.0,38.0,54.0,1.5
+Senny Mayulu,18,France,Paris Saint-Germain,5.0,323.0,0.0,1.0,Midfield,both,183.0,64.0,83.0,37.0,1698.0,73.0,60.0,62.0,70.0,48.0,53.0,1.5
+Diego Luna,20,United States,Real Salt Lake City,5.0,1406.0,0.0,0.0,Defender,right,186.0,64.0,81.0,54.0,1700.0,77.0,58.0,57.0,72.0,38.0,68.0,1.5
+Nelson Weiper,19,Germany,1.FSV Mainz 05,5.0,215.0,2.0,0.0,Attack,right,192.0,66.0,86.0,47.0,1556.0,66.0,65.0,46.0,65.0,25.0,67.0,2.4
+Alfie Gilchrist,20,England,Sheffield United,5.0,431.0,1.0,0.0,Defender,right,183.0,63.0,80.0,37.0,1501.0,61.0,34.0,50.0,50.0,64.0,66.0,1.2
+Khalil Fayad,20,Morocco,Montpellier HSC,5.0,1725.0,3.0,2.0,Midfield,right,172.0,67.0,80.0,53.0,1693.0,65.0,57.0,66.0,73.0,54.0,39.0,2.4
+Luka Romero,19,Argentina,Deportivo Alavés,5.0,890.0,4.0,0.0,Attack,left,169.0,72.0,84.0,57.0,1868.0,79.0,65.0,66.0,75.0,53.0,57.0,5.5
+Williot Swedberg,20,Sweden,Celta de Vigo,5.0,991.0,5.0,1.0,Midfield,right,187.0,70.0,82.0,48.0,1850.0,71.0,68.0,66.0,71.0,59.0,60.0,3.8
+Jorne Spileers,19,Belgium,Club Brugge KV,5.0,3236.0,1.0,1.0,Defender,right,188.0,70.0,84.0,52.0,1617.0,73.0,31.0,58.0,57.0,70.0,70.0,3.5
+Ruben van Bommel,20,Netherlands,AZ Alkmaar,5.0,1958.0,9.0,1.0,Attack,right,192.0,68.0,83.0,44.0,1618.0,85.0,65.0,59.0,70.0,25.0,61.0,2.8
+Noah Sadiki,19,DR Congo,Union Saint-Gilloise,5.0,1930.0,0.0,2.0,Midfield,right,183.0,65.0,79.0,56.0,1651.0,73.0,38.0,58.0,67.0,62.0,66.0,1.6
+Mathias Delorge,20,Belgium,KAA Gent,5.0,2668.0,1.0,3.0,Midfield,left,189.0,71.0,82.0,59.0,1812.0,63.0,59.0,71.0,68.0,61.0,68.0,3.9
+Leo Sauer,18,Slovakia,NAC Breda,5.0,288.0,2.0,4.0,Attack,right,184.0,66.0,83.0,49.0,1644.0,81.0,58.0,61.0,70.0,39.0,50.0,2.1
+Badredine Bouanani,19,Algeria,OGC Nice,5.0,1457.0,1.0,4.0,Attack,left,177.0,69.0,79.0,55.0,1684.0,71.0,64.0,68.0,71.0,31.0,50.0,2.9
+Kamory Doumbia,21,Mali,Stade Reims,5.0,2370.0,10.0,8.0,Midfield,right,170.0,73.0,80.0,52.0,1894.0,70.0,67.0,70.0,75.0,57.0,59.0,6.0
+Orri Óskarsson,19,Iceland,FC Copenhagen,5.0,1411.0,8.0,7.0,Attack,right,186.0,65.0,80.0,62.0,1679.0,70.0,64.0,57.0,65.0,30.0,68.0,1.7
+Félix Lemaréchal,21,France,RC Strasbourg Alsace,5.0,1851.0,0.0,3.0,Midfield,right,180.0,69.0,80.0,56.0,1796.0,64.0,54.0,69.0,68.0,61.0,68.0,3.0
+Serdar Saatçı,21,Türkiye,SC Braga,5.0,3113.0,1.0,3.0,Defender,right,190.0,73.0,80.0,51.0,1584.0,69.0,30.0,49.0,61.0,73.0,75.0,5.5
+Wouter Goes,20,Netherlands,AZ Alkmaar,5.0,2005.0,1.0,1.0,Defender,right,187.0,67.0,82.0,44.0,1566.0,67.0,31.0,51.0,60.0,68.0,64.0,2.3
+Bashir Humphreys,21,England,Burnley FC,4.8,392.0,0.0,0.0,Defender,left,186.0,67.0,80.0,59.0,1576.0,65.0,31.0,51.0,55.0,67.0,67.0,2.3
+Yasin Özcan,18,Türkiye,Kasimpasa,4.5,4231.0,4.0,2.0,Defender,left,185.0,63.0,77.0,45.0,1509.0,65.0,36.0,45.0,55.0,64.0,67.0,1.0
+Antonio Raimondo,20,Italy,Venezia FC,4.5,14.0,0.0,0.0,Attack,left,185.0,65.0,80.0,37.0,1630.0,67.0,63.0,61.0,68.0,28.0,59.0,1.7
+Paxten Aaronson,20,United States,FC Utrecht,4.5,1609.0,4.0,3.0,Midfield,right,175.0,68.0,79.0,51.0,1667.0,77.0,58.0,63.0,71.0,40.0,48.0,2.6
+Cristian Volpato,20,Italy,US Sassuolo,4.5,1221.0,2.0,2.0,Midfield,left,187.0,69.0,85.0,48.0,1718.0,67.0,64.0,67.0,71.0,39.0,62.0,3.6
+Kyriani Sabbe,19,Belgium,Club Brugge KV,4.5,741.0,0.0,3.0,Defender,right,176.0,67.0,83.0,54.0,1729.0,76.0,49.0,64.0,68.0,61.0,57.0,2.5
+Yasin Ayari,20,Sweden,Brighton & Hove Albion,4.5,513.0,1.0,0.0,Midfield,right,172.0,66.0,78.0,49.0,1700.0,64.0,51.0,66.0,69.0,52.0,58.0,2.0
+Filippo Terracciano,21,Italy,AC Milan,4.5,2316.0,0.0,2.0,Defender,right,186.0,71.0,82.0,56.0,1954.0,81.0,60.0,71.0,71.0,67.0,69.0,4.1
+Enso González,19,Paraguay,Wolverhampton Wanderers,4.0,1.0,0.0,0.0,Attack,left,169.0,63.0,83.0,54.0,1528.0,81.0,48.0,58.0,70.0,35.0,41.0,1.3
+Ibrahim Sulemana,21,Ghana,Atalanta BC,4.0,2231.0,2.0,0.0,Midfield,right,180.0,70.0,81.0,52.0,1928.0,75.0,61.0,64.0,68.0,68.0,75.0,3.3
+Momodou Lamin Sonko,19,Sweden,KAA Gent,4.0,664.0,3.0,1.0,Attack,right,176.0,63.0,84.0,46.0,1516.0,80.0,61.0,50.0,69.0,17.0,51.0,1.5
+Alan Matturro,19,Uruguay,Genoa CFC,4.0,284.0,0.0,0.0,Defender,left,189.0,65.0,82.0,51.0,1522.0,68.0,30.0,50.0,53.0,66.0,65.0,1.7
+Bénie Traoré,21,Cote d'Ivoire,FC Basel 1893,4.0,929.0,0.0,1.0,Attack,right,172.0,68.0,77.0,48.0,1701.0,86.0,65.0,54.0,75.0,32.0,63.0,2.7
+Ayman Kari,19,France,Paris Saint-Germain,4.0,993.0,1.0,1.0,Midfield,right,176.0,68.0,82.0,62.0,1805.0,70.0,53.0,66.0,73.0,59.0,65.0,2.8
+Mika Godts,19,Belgium,Ajax Amsterdam,4.0,641.0,0.0,3.0,Attack,right,176.0,66.0,84.0,53.0,1677.0,77.0,58.0,61.0,74.0,39.0,54.0,2.2
+Nazar Voloshyn,21,Ukraine,Dynamo Kyiv,4.0,3559.0,16.0,8.0,Attack,right,175.0,66.0,80.0,56.0,1559.0,68.0,60.0,61.0,66.0,28.0,50.0,2.1
+Tim Iroegbunam,21,England,Everton FC,4.0,258.0,0.0,0.0,Midfield,right,183.0,69.0,81.0,49.0,1819.0,66.0,58.0,64.0,68.0,66.0,71.0,3.2
+Tim Oermann,20,Germany,VfL Bochum,4.0,901.0,0.0,0.0,Defender,right,189.0,68.0,77.0,44.0,1567.0,67.0,34.0,54.0,58.0,68.0,68.0,2.4
+Dorgeles Nene,21,Mali,Red Bull Salzburg,4.0,1484.0,8.0,4.0,Attack,right,174.0,67.0,76.0,35.0,1763.0,85.0,70.0,61.0,72.0,37.0,54.0,2.3
+Tom Cannon,21,Ireland,Leicester City,4.0,300.0,1.0,1.0,Attack,right,180.0,69.0,77.0,45.0,1691.0,79.0,69.0,56.0,72.0,27.0,59.0,3.1
+Jacob Ondrejka,21,Sweden,Royal Antwerp FC,4.0,839.0,5.0,2.0,Attack,right,180.0,70.0,79.0,55.0,1845.0,79.0,64.0,68.0,72.0,46.0,60.0,3.5
+Gabriel Slonina,20,United States,Barnsley FC,4.0,2520.0,0.0,0.0,Goalkeeper,right,193.0,68.0,81.0,330.0,1105.0,69.0,64.0,63.0,69.0,45.0,65.0,2.5
+Emin Bayram,21,Türkiye,KVC Westerlo,4.0,2643.0,1.0,2.0,Defender,right,192.0,67.0,78.0,50.0,1605.0,63.0,31.0,55.0,63.0,68.0,69.0,2.1
+Cher Ndour,20,Italy,Besiktas JK,4.0,310.0,1.0,0.0,Midfield,both,190.0,68.0,82.0,54.0,1774.0,55.0,61.0,68.0,68.0,57.0,70.0,2.8
+Rav van den Berg,20,Netherlands,Middlesbrough FC,4.0,583.0,1.0,0.0,Defender,right,191.0,67.0,84.0,50.0,1536.0,66.0,32.0,50.0,59.0,67.0,68.0,2.4
+Shola Shoretire,20,England,PAOK Thessaloniki,4.0,61.0,0.0,0.0,Midfield,both,171.0,62.0,79.0,36.0,1609.0,73.0,54.0,57.0,67.0,37.0,54.0,1.0
+Calvin Ramsay,21,Scotland,Wigan Athletic,4.0,2427.0,1.0,9.0,Defender,right,177.0,65.0,79.0,47.0,1695.0,76.0,43.0,60.0,66.0,56.0,66.0,1.6
+Gaetano Oristanio,21,Italy,Venezia FC,4.0,3225.0,3.0,4.0,Midfield,left,174.0,71.0,84.0,41.0,1896.0,87.0,66.0,69.0,76.0,49.0,60.0,4.5
+Mattia Zanotti,21,Italy,FC Lugano,4.0,26.0,0.0,0.0,Defender,right,177.0,71.0,82.0,46.0,1942.0,78.0,59.0,69.0,70.0,68.0,70.0,3.9
+Armindo Sieb,21,Germany,1.FSV Mainz 05,4.0,26.0,0.0,0.0,Attack,both,175.0,69.0,79.0,56.0,1689.0,87.0,65.0,55.0,74.0,26.0,64.0,3.1
+Christopher Bonsu Baah,19,Ghana,KRC Genk,3.5,1308.0,1.0,1.0,Attack,left,172.0,69.0,81.0,38.0,1670.0,85.0,63.0,59.0,77.0,29.0,57.0,3.2
+Óscar Cortés,20,Colombia,Rangers FC,3.5,419.0,2.0,3.0,Attack,right,178.0,69.0,80.0,43.0,1780.0,78.0,66.0,65.0,71.0,48.0,53.0,3.0
+Tom Bischof,19,Germany,TSG 1899 Hoffenheim,3.5,531.0,0.0,2.0,Midfield,left,176.0,67.0,86.0,53.0,1651.0,61.0,55.0,65.0,72.0,43.0,50.0,2.6
+Cihan Çanak,19,Türkiye,Trabzonspor,3.5,1470.0,1.0,5.0,Attack,left,175.0,66.0,81.0,46.0,1690.0,80.0,58.0,64.0,75.0,39.0,50.0,2.0
+Joel Mvuka,21,Norway,FC Lorient,3.5,279.0,0.0,0.0,Attack,right,176.0,69.0,78.0,56.0,1697.0,89.0,57.0,59.0,74.0,41.0,46.0,3.1
+Jay Stansfield,21,England,Fulham FC,3.5,585.0,1.0,2.0,Attack,right,187.0,67.0,79.0,43.0,1689.0,79.0,69.0,59.0,68.0,26.0,64.0,2.5
+Alan Virginius,21,France,BSC Young Boys,3.5,1261.0,1.0,3.0,Attack,right,180.0,68.0,80.0,59.0,1586.0,90.0,59.0,59.0,71.0,27.0,40.0,2.9
+Samuele Vignato,20,Italy,AC Monza,3.5,487.0,1.0,1.0,Midfield,right,172.0,65.0,81.0,48.0,1606.0,72.0,59.0,60.0,74.0,34.0,42.0,1.9
+Myron van Brederode,21,Netherlands,AZ Alkmaar,3.5,2943.0,7.0,5.0,Attack,right,174.0,69.0,79.0,53.0,1642.0,68.0,58.0,60.0,79.0,32.0,54.0,3.0
+Adam Obert,21,Slovakia,Cagliari Calcio,3.5,1677.0,0.0,1.0,Defender,left,188.0,68.0,78.0,50.0,1719.0,68.0,41.0,60.0,64.0,69.0,67.0,2.5
+Youri Regeer,21,Netherlands,Twente Enschede FC,3.5,2017.0,2.0,2.0,Midfield,right,177.0,70.0,81.0,57.0,1865.0,75.0,57.0,68.0,71.0,66.0,67.0,3.3
+Nathan Ngoy,21,Belgium,Standard Liège,3.5,2100.0,1.0,0.0,Defender,right,183.0,66.0,77.0,54.0,1621.0,78.0,44.0,49.0,61.0,65.0,71.0,1.8
+Paul Nebel,21,Germany,1.FSV Mainz 05,3.5,319.0,0.0,2.0,Attack,both,169.0,71.0,80.0,45.0,1702.0,74.0,62.0,66.0,76.0,30.0,58.0,4.1
+Mahamadou Diawara,19,France,Olympique Lyon,3.0,355.0,0.0,0.0,Midfield,left,187.0,67.0,81.0,37.0,1752.0,69.0,55.0,65.0,67.0,61.0,69.0,2.4
+Ngal'ayel Mukau,19,DR Congo,LOSC Lille,3.0,1326.0,0.0,0.0,Midfield,left,188.0,66.0,80.0,52.0,1641.0,64.0,40.0,55.0,64.0,66.0,64.0,1.9
+Gustavo Puerta,21,Colombia,Bayer 04 Leverkusen,3.0,229.0,0.0,0.0,Midfield,right,173.0,65.0,79.0,54.0,1706.0,65.0,58.0,62.0,64.0,59.0,60.0,1.7
+Lovro Zvonarek,19,Croatia,SK Sturm Graz,3.0,161.0,1.0,0.0,Midfield,right,180.0,64.0,78.0,51.0,1600.0,69.0,57.0,62.0,68.0,34.0,52.0,1.4
+Matija Frigan,21,Croatia,KVC Westerlo,3.0,1006.0,4.0,1.0,Attack,left,185.0,69.0,79.0,43.0,1791.0,79.0,68.0,59.0,68.0,36.0,74.0,3.1
+Gino Infantino,21,Argentina,ACF Fiorentina,3.0,185.0,0.0,0.0,Midfield,left,178.0,67.0,79.0,44.0,1751.0,75.0,61.0,64.0,71.0,48.0,59.0,2.5
+Tygo Land,18,Netherlands,PSV Eindhoven,3.0,19.0,0.0,1.0,Midfield,right,178.0,62.0,84.0,57.0,1691.0,74.0,50.0,64.0,71.0,52.0,43.0,1.2
+Mayckel Lahdo,21,Sweden,AZ Alkmaar,3.0,1829.0,10.0,7.0,Attack,right,171.0,68.0,79.0,56.0,1619.0,82.0,64.0,59.0,73.0,27.0,54.0,2.6
+Tom Louchet,21,France,OGC Nice,3.0,399.0,1.0,2.0,Midfield,both,178.0,66.0,77.0,51.0,1794.0,70.0,60.0,64.0,69.0,60.0,61.0,1.9
+Joseph Nonge,19,Belgium,Juventus Next Gen,3.0,49.0,0.0,0.0,Midfield,left,184.0,64.0,81.0,46.0,1768.0,68.0,49.0,64.0,66.0,64.0,60.0,1.5
+Lucas Noubi,19,Belgium,Standard Liège,3.0,1391.0,0.0,0.0,Defender,right,184.0,66.0,81.0,52.0,1532.0,75.0,21.0,52.0,64.0,63.0,74.0,1.9
+Emirhan İlkhan,20,Türkiye,Torino FC,3.0,1864.0,2.0,2.0,Midfield,right,175.0,64.0,79.0,55.0,1686.0,66.0,58.0,63.0,70.0,50.0,48.0,1.4
+Jhon Solís,19,Colombia,Girona FC,3.0,690.0,0.0,1.0,Midfield,right,186.0,69.0,80.0,52.0,1819.0,64.0,61.0,63.0,65.0,66.0,74.0,2.9
+Giuliano Simeone,21,Argentina,Atlético de Madrid,3.0,719.0,1.0,2.0,Attack,right,173.0,72.0,82.0,55.0,1796.0,82.0,69.0,58.0,70.0,26.0,79.0,5.0
+Lucas Hey,21,Denmark,FC Nordsjaelland,3.0,2504.0,0.0,0.0,Defender,right,189.0,65.0,79.0,46.0,1610.0,62.0,41.0,55.0,60.0,65.0,65.0,1.6
+Andrew Moran,20,Ireland,Stoke City,3.0,505.0,2.0,3.0,Midfield,right,177.0,67.0,80.0,69.0,1739.0,76.0,58.0,66.0,71.0,39.0,55.0,2.4
+Matias Fernandez-Pardo,19,Belgium,KAA Gent,3.0,260.0,1.0,0.0,Attack,right,183.0,62.0,78.0,50.0,1560.0,75.0,58.0,59.0,67.0,28.0,51.0,1.0
+Dexter Lembikisa,20,Jamaica,Wolverhampton Wanderers U21,3.0,1176.0,1.0,0.0,Defender,right,180.0,64.0,73.0,45.0,1614.0,83.0,43.0,54.0,60.0,59.0,59.0,1.2
+Anton Gaaei,21,Denmark,Ajax Amsterdam,3.0,4030.0,2.0,9.0,Defender,right,183.0,67.0,78.0,50.0,1724.0,84.0,48.0,57.0,65.0,59.0,67.0,2.1
+Aljoscha Kemlein,20,Germany,1.FC Union Berlin,3.0,108.0,0.0,0.0,Midfield,right,185.0,66.0,78.0,53.0,1738.0,60.0,57.0,63.0,65.0,62.0,63.0,1.9
+Robert Wagner,21,Germany,FC St. Pauli,3.0,124.0,0.0,0.0,Midfield,right,181.0,69.0,82.0,57.0,1730.0,68.0,45.0,66.0,69.0,60.0,70.0,3.3
+Jude Bellingham,21,England,Real Madrid,180.0,13820.0,47.0,38.0,Midfield,right,186.0,88.0,92.0,48.0,2295.0,80.0,83.0,81.0,87.0,78.0,83.0,128.5
+Florian Wirtz,21,Germany,Bayer 04 Leverkusen,130.0,10929.0,41.0,50.0,Midfield,right,177.0,87.0,92.0,57.0,2089.0,80.0,76.0,86.0,88.0,50.0,63.0,118.5
+Jamal Musiala,21,Germany,Bayern Munich,130.0,9175.0,43.0,31.0,Midfield,right,184.0,86.0,93.0,42.0,2090.0,85.0,75.0,76.0,91.0,63.0,61.0,134.5
+Eduardo Camavinga,21,France,Real Madrid,100.0,13733.0,4.0,13.0,Midfield,left,182.0,83.0,90.0,50.0,2197.0,80.0,67.0,81.0,84.0,78.0,80.0,71.5
+Xavi Simons,21,Netherlands,RB Leipzig,80.0,7397.0,32.0,27.0,Midfield,right,179.0,82.0,89.0,43.0,2139.0,87.0,77.0,78.0,85.0,61.0,74.0,60.5
+Rasmus Højlund,21,Denmark,Manchester United,65.0,5388.0,27.0,6.0,Attack,left,191.0,78.0,89.0,50.0,1869.0,84.0,77.0,58.0,74.0,33.0,83.0,31.0
+Warren Zaïre-Emery,18,France,Paris Saint-Germain,60.0,3956.0,5.0,6.0,Midfield,right,178.0,80.0,90.0,55.0,2113.0,79.0,68.0,76.0,79.0,75.0,78.0,43.5
+Kobbie Mainoo,19,England,Manchester United,55.0,2492.0,5.0,1.0,Midfield,right,180.0,72.0,87.0,49.0,1923.0,74.0,60.0,68.0,77.0,68.0,69.0,5.0
+Leny Yoro,18,France,Manchester United,50.0,3610.0,3.0,0.0,Defender,right,190.0,77.0,86.0,53.0,1740.0,73.0,41.0,58.0,61.0,78.0,73.0,20.0
+Bradley Barcola,21,France,Paris Saint-Germain,50.0,3908.0,10.0,20.0,Attack,right,182.0,80.0,87.0,43.0,1925.0,86.0,74.0,75.0,80.0,34.0,64.0,42.0
+Evan Ferguson,19,Ireland,Brighton & Hove Albion,50.0,3143.0,16.0,5.0,Attack,right,188.0,74.0,86.0,54.0,1729.0,72.0,74.0,62.0,70.0,21.0,70.0,10.0
+Levi Colwill,21,England,Chelsea FC,50.0,4049.0,1.0,3.0,Defender,left,187.0,76.0,83.0,61.0,1841.0,72.0,40.0,68.0,68.0,76.0,76.0,14.0
+Arda Güler,19,Türkiye,Real Madrid,45.0,2030.0,14.0,8.0,Attack,left,175.0,77.0,88.0,58.0,1964.0,72.0,70.0,80.0,82.0,52.0,50.0,22.0
+Giorgio Scalvini,20,Italy,Atalanta BC,45.0,6569.0,5.0,5.0,Defender,right,194.0,77.0,87.0,45.0,1672.0,64.0,35.0,57.0,61.0,78.0,74.0,21.0
+Pape Matar Sarr,21,Senegal,Tottenham Hotspur,45.0,6290.0,7.0,7.0,Midfield,right,184.0,78.0,84.0,52.0,2030.0,70.0,65.0,75.0,78.0,74.0,75.0,21.5
+Johan Bakayoko,21,Belgium,PSV Eindhoven,45.0,5718.0,21.0,19.0,Attack,left,179.0,78.0,88.0,43.0,1837.0,87.0,69.0,69.0,81.0,31.0,64.0,31.0
+Destiny Udogie,21,Italy,Tottenham Hotspur,45.0,8283.0,10.0,10.0,Defender,left,188.0,81.0,86.0,57.0,2104.0,88.0,65.0,73.0,79.0,76.0,80.0,35.5
+Ousmane Diomande,20,Cote d'Ivoire,Sporting CP,40.0,4222.0,5.0,1.0,Defender,right,190.0,78.0,86.0,41.0,1696.0,74.0,26.0,53.0,73.0,77.0,83.0,28.5
+Mathys Tel,19,France,Bayern Munich,40.0,2056.0,16.0,6.0,Attack,right,183.0,75.0,88.0,54.0,1830.0,82.0,78.0,64.0,77.0,28.0,60.0,13.0
+Castello Lukeba,21,France,RB Leipzig,40.0,8590.0,5.0,0.0,Defender,left,184.0,79.0,86.0,56.0,1889.0,74.0,43.0,68.0,72.0,80.0,77.0,32.0
+Rico Lewis,19,England,Manchester City,38.0,3036.0,3.0,4.0,Defender,right,169.0,75.0,86.0,55.0,1880.0,76.0,46.0,73.0,79.0,70.0,59.0,11.5
+Elye Wahi,21,France,Olympique Marseille,35.0,7163.0,44.0,13.0,Attack,right,181.0,77.0,84.0,51.0,1919.0,84.0,79.0,67.0,79.0,31.0,67.0,21.0
+Malo Gusto,21,France,Chelsea FC,35.0,6402.0,0.0,15.0,Defender,right,178.0,78.0,86.0,49.0,1984.0,87.0,49.0,72.0,77.0,71.0,75.0,29.5
+Harvey Elliott,21,England,Liverpool FC,35.0,5876.0,10.0,13.0,Midfield,left,170.0,77.0,85.0,47.0,1940.0,75.0,67.0,76.0,81.0,53.0,57.0,23.0
+Tino Livramento,21,England,Newcastle United,35.0,4333.0,2.0,3.0,Defender,right,182.0,77.0,85.0,56.0,1948.0,81.0,50.0,68.0,78.0,74.0,72.0,22.0
+Désiré Doué,19,France,Paris Saint-Germain,30.0,3297.0,8.0,6.0,Attack,both,181.0,74.0,85.0,46.0,1855.0,78.0,68.0,69.0,80.0,48.0,63.0,9.0
+Jorrel Hato,18,Netherlands,Ajax Amsterdam,30.0,4546.0,1.0,3.0,Defender,left,182.0,73.0,88.0,40.0,1820.0,85.0,39.0,66.0,71.0,73.0,69.0,6.5
+Kenan Yıldız,19,Türkiye,Juventus FC,30.0,1086.0,4.0,1.0,Attack,both,187.0,66.0,83.0,56.0,1675.0,75.0,58.0,65.0,72.0,28.0,61.0,2.2
+Aleksandar Pavlovic,20,Germany,Bayern Munich,30.0,1435.0,2.0,2.0,Midfield,both,188.0,70.0,84.0,46.0,1777.0,62.0,55.0,69.0,69.0,67.0,61.0,3.6
+Adam Wharton,20,England,Crystal Palace,30.0,1560.0,0.0,3.0,Midfield,left,182.0,76.0,85.0,47.0,2009.0,68.0,61.0,77.0,76.0,71.0,70.0,15.0
+Bilal El Khannouss,20,Morocco,KRC Genk,30.0,4915.0,4.0,9.0,Midfield,right,180.0,74.0,86.0,53.0,1764.0,71.0,60.0,75.0,80.0,37.0,54.0,10.0
+Maximilian Beier,21,Germany,Borussia Dortmund,30.0,2784.0,18.0,4.0,Attack,right,185.0,76.0,84.0,41.0,1813.0,91.0,76.0,63.0,78.0,25.0,58.0,16.5
+Hugo Larsson,20,Sweden,Eintracht Frankfurt,28.0,2063.0,2.0,2.0,Midfield,right,187.0,73.0,85.0,48.0,1896.0,76.0,62.0,66.0,73.0,64.0,75.0,7.0
+Arthur Vermeeren,19,Belgium,Atlético de Madrid,25.0,4511.0,2.0,7.0,Midfield,right,180.0,76.0,87.0,45.0,1952.0,75.0,55.0,75.0,77.0,71.0,69.0,15.0
+Michael Kayode,20,Italy,ACF Fiorentina,25.0,2489.0,1.0,2.0,Defender,right,179.0,66.0,82.0,53.0,1593.0,69.0,34.0,50.0,65.0,67.0,60.0,2.1
+Lesley Ugochukwu,20,France,Southampton FC,25.0,2947.0,1.0,1.0,Midfield,right,190.0,72.0,82.0,57.0,1917.0,65.0,57.0,69.0,71.0,72.0,75.0,5.0
+Matías Soulé,21,Argentina,AS Roma,25.0,3802.0,12.0,3.0,Attack,left,182.0,76.0,87.0,63.0,1869.0,76.0,69.0,74.0,81.0,36.0,50.0,16.5
+Oscar Bobb,21,Norway,Manchester City,25.0,819.0,2.0,2.0,Attack,left,175.0,68.0,82.0,55.0,1656.0,80.0,61.0,63.0,74.0,33.0,42.0,2.9
+Rayan Cherki,21,France,Olympique Lyon,25.0,5158.0,8.0,19.0,Midfield,both,180.0,74.0,84.0,43.0,1749.0,68.0,67.0,72.0,84.0,21.0,61.0,9.0
+Carlos Baleba,20,Cameroon,Brighton & Hove Albion,22.0,2015.0,0.0,2.0,Midfield,left,179.0,70.0,82.0,52.0,1839.0,77.0,51.0,63.0,72.0,65.0,70.0,3.6
+Lewis Miley,18,England,Newcastle United,22.0,1743.0,1.0,4.0,Midfield,right,189.0,70.0,85.0,45.0,1815.0,63.0,61.0,69.0,72.0,60.0,65.0,3.6
+Jarell Quansah,21,England,Liverpool FC,22.0,2494.0,3.0,3.0,Defender,right,190.0,72.0,82.0,44.0,1685.0,73.0,33.0,56.0,65.0,72.0,75.0,4.8
+Yunus Musah,21,United States,AC Milan,22.0,6229.0,3.0,5.0,Midfield,right,178.0,75.0,83.0,51.0,2095.0,88.0,69.0,71.0,80.0,71.0,84.0,12.5
+Youssoufa Moukoko,19,Germany,Borussia Dortmund,22.0,3162.0,18.0,8.0,Attack,left,179.0,77.0,87.0,60.0,1857.0,80.0,75.0,59.0,80.0,34.0,65.0,22.5
+Alex Scott,21,England,AFC Bournemouth,20.0,1384.0,2.0,4.0,Midfield,right,178.0,72.0,84.0,54.0,1962.0,74.0,62.0,72.0,77.0,63.0,68.0,5.5
+Milos Kerkez,20,Hungary,AFC Bournemouth,20.0,5706.0,3.0,5.0,Defender,left,180.0,75.0,85.0,57.0,1925.0,82.0,53.0,66.0,73.0,69.0,74.0,11.5
+Brajan Gruda,20,Germany,Brighton & Hove Albion,20.0,1742.0,4.0,3.0,Attack,left,178.0,70.0,86.0,50.0,1793.0,78.0,68.0,65.0,77.0,30.0,58.0,4.1
+Jhon Durán,20,Colombia,Aston Villa,20.0,786.0,6.0,0.0,Attack,left,185.0,72.0,82.0,36.0,1756.0,79.0,72.0,58.0,71.0,32.0,77.0,5.0
+Facundo Buonanotte,19,Argentina,Leicester City,18.0,2493.0,5.0,2.0,Midfield,left,174.0,71.0,82.0,47.0,1678.0,75.0,65.0,68.0,73.0,25.0,50.0,4.0
+Ernest Nuamah,20,Ghana,Olympique Lyon,18.0,4287.0,18.0,7.0,Attack,left,178.0,74.0,84.0,52.0,1745.0,85.0,67.0,63.0,79.0,24.0,62.0,9.0
+Guillaume Restes,19,France,FC Toulouse,18.0,3870.0,0.0,0.0,Goalkeeper,left,188.0,75.0,87.0,374.0,1100.0,76.0,72.0,75.0,78.0,36.0,73.0,11.5
+Habib Diarra,20,Senegal,RC Strasbourg Alsace,18.0,4048.0,6.0,4.0,Midfield,right,178.0,72.0,84.0,42.0,1909.0,69.0,63.0,69.0,73.0,68.0,71.0,5.5
+Farès Chaïbi,21,Algeria,Eintracht Frankfurt,18.0,4496.0,7.0,12.0,Midfield,right,183.0,76.0,86.0,58.0,2027.0,73.0,69.0,76.0,74.0,68.0,71.0,16.5
+Lewis Hall,19,England,Newcastle United,18.0,1790.0,2.0,0.0,Defender,left,179.0,68.0,83.0,53.0,1860.0,71.0,59.0,69.0,71.0,65.0,57.0,2.7
+James Trafford,21,England,Burnley FC,18.0,2520.0,0.0,0.0,Goalkeeper,right,197.0,71.0,84.0,351.0,1034.0,70.0,69.0,69.0,73.0,27.0,70.0,4.0
+Arsen Zakharyan,21,Russia,Real Sociedad,18.0,8702.0,20.0,27.0,Midfield,right,183.0,74.0,85.0,60.0,1938.0,79.0,70.0,74.0,72.0,53.0,60.0,9.5
+Zeno Debast,20,Belgium,Sporting CP,18.0,6073.0,0.0,1.0,Defender,right,191.0,73.0,84.0,38.0,1859.0,66.0,53.0,70.0,69.0,73.0,73.0,6.0
+Giovanni Reyna,21,United States,Borussia Dortmund,18.0,5363.0,17.0,18.0,Midfield,right,185.0,78.0,84.0,56.0,1934.0,77.0,73.0,74.0,82.0,37.0,69.0,22.0
+Yankuba Minteh,20,The Gambia,Brighton & Hove Albion,16.0,2627.0,13.0,9.0,Attack,left,180.0,72.0,86.0,43.0,1732.0,93.0,61.0,59.0,76.0,41.0,54.0,5.5
+Jack Hinshelwood,19,England,Brighton & Hove Albion,16.0,1218.0,3.0,0.0,Midfield,right,182.0,66.0,82.0,41.0,1842.0,63.0,62.0,66.0,67.0,63.0,64.0,2.1
+Wilfried Gnonto,20,Italy,Leeds United,16.0,1936.0,5.0,5.0,Attack,right,170.0,74.0,85.0,53.0,1836.0,87.0,72.0,65.0,79.0,30.0,66.0,9.0
+Eli Junior Kroupi,18,France,FC Lorient,15.0,1084.0,5.0,3.0,Attack,right,179.0,67.0,81.0,53.0,1735.0,71.0,61.0,65.0,72.0,45.0,53.0,2.3
+Antonio Nusa,19,Norway,RB Leipzig,15.0,1947.0,5.0,5.0,Attack,right,180.0,72.0,86.0,59.0,1848.0,88.0,64.0,65.0,79.0,41.0,59.0,5.5
+Eliesse Ben Seghir,19,Morocco,AS Monaco,15.0,1609.0,6.0,5.0,Midfield,right,178.0,73.0,85.0,39.0,1761.0,77.0,73.0,65.0,76.0,28.0,54.0,7.0
+Valentín Carboni,19,Argentina,Olympique Marseille,15.0,1213.0,2.0,4.0,Midfield,left,185.0,64.0,84.0,52.0,1669.0,67.0,51.0,65.0,66.0,45.0,53.0,1.6
+Carlos Alcaraz,21,Argentina,Southampton FC,15.0,1714.0,5.0,5.0,Midfield,right,183.0,73.0,84.0,48.0,1982.0,82.0,71.0,71.0,79.0,50.0,68.0,6.5
+Malick Fofana,19,Belgium,Olympique Lyon,15.0,2714.0,6.0,8.0,Attack,right,169.0,71.0,85.0,50.0,1700.0,87.0,60.0,64.0,78.0,35.0,43.0,4.4
+Chadi Riad,21,Morocco,Crystal Palace,15.0,2315.0,0.0,0.0,Defender,left,187.0,69.0,81.0,49.0,1540.0,53.0,32.0,54.0,53.0,70.0,61.0,3.2
+Carney Chukwuemeka,20,England,Chelsea FC,15.0,928.0,2.0,2.0,Midfield,right,187.0,69.0,82.0,54.0,1773.0,66.0,62.0,66.0,73.0,50.0,61.0,3.3
+Aaron Ramsey,21,England,Burnley FC,15.0,23507.0,64.0,62.0,Midfield,right,178.0,70.0,82.0,56.0,1799.0,73.0,63.0,67.0,72.0,50.0,60.0,3.8
+Tommaso Baldanzi,21,Italy,AS Roma,15.0,3216.0,6.0,0.0,Midfield,left,170.0,77.0,87.0,50.0,1890.0,78.0,72.0,74.0,81.0,41.0,50.0,23.0
+Giannis Konstantelias,21,Greece,PAOK Thessaloniki,15.0,4347.0,14.0,11.0,Midfield,both,178.0,73.0,83.0,43.0,1803.0,75.0,65.0,72.0,77.0,37.0,54.0,6.5
+Conor Bradley,21,Northern Ireland,Liverpool FC,15.0,1505.0,1.0,6.0,Defender,right,181.0,74.0,84.0,49.0,1904.0,82.0,59.0,66.0,72.0,68.0,72.0,8.5
+Fabio Miretti,21,Italy,Juventus FC,15.0,3103.0,2.0,5.0,Midfield,right,180.0,75.0,88.0,52.0,2033.0,77.0,60.0,75.0,78.0,66.0,72.0,13.5
+Elliot Anderson,21,Scotland,Nottingham Forest,15.0,1763.0,0.0,3.0,Midfield,right,179.0,74.0,82.0,40.0,2016.0,73.0,66.0,71.0,78.0,67.0,76.0,9.0
+Victor Kristiansen,21,Denmark,Leicester City,15.0,7686.0,1.0,10.0,Defender,left,181.0,74.0,80.0,46.0,1912.0,74.0,55.0,64.0,72.0,71.0,75.0,6.0
+Giovanni Fabbian,21,Italy,Bologna FC 1909,14.0,1263.0,5.0,2.0,Midfield,right,186.0,72.0,83.0,38.0,1942.0,71.0,73.0,70.0,73.0,60.0,63.0,5.0
+Valentín Barco,20,Argentina,Brighton & Hove Albion,13.0,318.0,0.0,0.0,Defender,left,170.0,72.0,84.0,49.0,1887.0,76.0,47.0,73.0,77.0,66.0,58.0,5.0
+Samuel Iling-Junior,20,England,Aston Villa,13.0,1545.0,2.0,4.0,Attack,left,182.0,73.0,87.0,45.0,1797.0,83.0,61.0,69.0,78.0,37.0,56.0,7.0
+Ibrahim Osman,19,Ghana,Feyenoord Rotterdam,12.0,2025.0,5.0,5.0,Attack,right,179.0,66.0,84.0,49.0,1608.0,84.0,58.0,57.0,72.0,27.0,54.0,2.2
+Abakar Sylla,21,Cote d'Ivoire,RC Strasbourg Alsace,12.0,3569.0,3.0,0.0,Defender,left,188.0,72.0,82.0,55.0,1699.0,71.0,30.0,56.0,68.0,70.0,77.0,4.8
+Patrick Dorgu,19,Denmark,US Lecce,12.0,1639.0,2.0,1.0,Defender,left,185.0,65.0,83.0,43.0,1673.0,80.0,50.0,54.0,67.0,57.0,53.0,1.7
+Semih Kılıçsoy,19,Türkiye,Besiktas JK,12.0,1806.0,12.0,3.0,Attack,right,178.0,68.0,84.0,36.0,1676.0,78.0,69.0,54.0,70.0,31.0,70.0,3.0
+Santiago Castro,19,Argentina,Bologna FC 1909,12.0,237.0,1.0,1.0,Attack,right,179.0,71.0,81.0,59.0,1809.0,82.0,71.0,56.0,71.0,37.0,68.0,4.0
+El Chadaille Bitshiabu,19,France,RB Leipzig,12.0,656.0,0.0,0.0,Defender,left,196.0,68.0,83.0,55.0,1504.0,37.0,36.0,55.0,51.0,67.0,77.0,2.6
+David Datro Fofana,21,Cote d'Ivoire,Chelsea FC,12.0,2499.0,8.0,3.0,Attack,right,180.0,72.0,83.0,54.0,1745.0,86.0,66.0,58.0,76.0,22.0,72.0,5.0
+Ricardo Pepi,21,United States,PSV Eindhoven,12.0,3895.0,22.0,6.0,Attack,right,185.0,73.0,83.0,54.0,1792.0,71.0,74.0,57.0,69.0,41.0,71.0,6.5
+James McAtee,21,England,Manchester City,12.0,1945.0,5.0,4.0,Midfield,left,180.0,70.0,80.0,45.0,1721.0,72.0,63.0,66.0,73.0,41.0,60.0,3.5
+Emanuel Emegha,21,Netherlands,RC Strasbourg Alsace,12.0,3525.0,11.0,2.0,Attack,right,195.0,72.0,82.0,49.0,1724.0,81.0,71.0,54.0,69.0,30.0,74.0,5.0
+Aster Vranckx,21,Belgium,VfL Wolfsburg,12.0,5348.0,7.0,5.0,Midfield,right,183.0,74.0,81.0,55.0,1993.0,61.0,66.0,71.0,77.0,69.0,76.0,8.5
+George Ilenikhena,18,France,AS Monaco,10.0,1115.0,9.0,1.0,Attack,left,185.0,70.0,86.0,38.0,1671.0,81.0,71.0,56.0,69.0,26.0,61.0,4.0
+Gianluca Prestianni,18,Argentina,SL Benfica,10.0,3.0,0.0,0.0,Attack,right,166.0,68.0,82.0,52.0,1675.0,87.0,60.0,57.0,76.0,35.0,46.0,2.8
+Jeanuël Belocian,19,France,Bayer 04 Leverkusen,10.0,2451.0,0.0,1.0,Defender,left,182.0,70.0,82.0,63.0,1786.0,69.0,41.0,64.0,65.0,70.0,69.0,3.5
+Lamine Camara,20,Senegal,AS Monaco,10.0,2266.0,1.0,4.0,Midfield,right,173.0,71.0,83.0,61.0,1861.0,79.0,62.0,71.0,73.0,54.0,57.0,4.4
+Dean Huijsen,19,Spain,AFC Bournemouth,10.0,614.0,2.0,1.0,Defender,both,197.0,68.0,85.0,55.0,1696.0,64.0,46.0,60.0,62.0,68.0,66.0,2.9
+Simone Pafundi,18,Italy,FC Lausanne-Sport,10.0,137.0,0.0,0.0,Midfield,left,166.0,68.0,86.0,43.0,1837.0,77.0,65.0,66.0,74.0,46.0,53.0,3.0
+Matteo Prati,20,Italy,Cagliari Calcio,10.0,1973.0,1.0,1.0,Midfield,right,185.0,73.0,85.0,55.0,1977.0,65.0,65.0,73.0,72.0,69.0,70.0,7.0
+Ismaël Doukouré,21,France,RC Strasbourg Alsace,10.0,3977.0,1.0,1.0,Defender,right,183.0,72.0,81.0,60.0,1736.0,67.0,42.0,60.0,64.0,72.0,71.0,4.8
+Shea Charles,20,Northern Ireland,Southampton FC,10.0,27.0,0.0,0.0,Midfield,right,189.0,67.0,79.0,40.0,1703.0,61.0,47.0,65.0,61.0,65.0,69.0,2.3
+Wilson Odobert,19,France,Tottenham Hotspur,10.0,4050.0,8.0,5.0,Attack,right,182.0,71.0,84.0,45.0,1669.0,86.0,64.0,62.0,75.0,30.0,47.0,4.4
+Ben Doak,18,Scotland,Liverpool FC,10.0,307.0,0.0,0.0,Attack,right,173.0,64.0,85.0,46.0,1521.0,82.0,52.0,51.0,71.0,28.0,52.0,1.8
+Mohamed-Ali Cho,20,France,OGC Nice,10.0,4272.0,7.0,7.0,Attack,left,182.0,74.0,83.0,35.0,1683.0,80.0,69.0,64.0,76.0,26.0,56.0,9.0
+Andreas Schjelderup,20,Norway,SL Benfica,10.0,4476.0,19.0,8.0,Attack,right,176.0,72.0,84.0,59.0,1779.0,78.0,66.0,65.0,76.0,35.0,54.0,5.5
+Ahmetcan Kaplan,21,Türkiye,Ajax Amsterdam,10.0,1828.0,0.0,2.0,Defender,left,189.0,68.0,81.0,61.0,1518.0,64.0,30.0,48.0,53.0,69.0,70.0,2.7
+Cesare Casadei,21,Italy,Chelsea FC,10.0,308.0,1.0,2.0,Midfield,right,185.0,68.0,82.0,49.0,1904.0,70.0,67.0,67.0,68.0,62.0,70.0,2.9
+Mario Stroeykens,19,Belgium,RSC Anderlecht,10.0,3056.0,8.0,6.0,Midfield,right,177.0,71.0,83.0,47.0,1808.0,74.0,69.0,67.0,72.0,42.0,64.0,4.4
+Devyne Rensch,21,Netherlands,Ajax Amsterdam,10.0,8308.0,9.0,11.0,Defender,both,181.0,74.0,82.0,47.0,1870.0,75.0,56.0,66.0,71.0,73.0,68.0,9.0
+Dilane Bakwa,21,France,RC Strasbourg Alsace,10.0,2275.0,3.0,6.0,Attack,left,180.0,75.0,82.0,45.0,1786.0,86.0,68.0,68.0,78.0,30.0,62.0,11.0
+Luca Netz,21,Germany,Borussia Mönchengladbach,10.0,5149.0,3.0,14.0,Defender,left,184.0,75.0,80.0,52.0,1874.0,79.0,48.0,69.0,72.0,71.0,65.0,8.0
+Joe Scally,21,United States,Borussia Mönchengladbach,10.0,7051.0,3.0,6.0,Defender,right,184.0,74.0,80.0,49.0,1830.0,81.0,49.0,63.0,71.0,71.0,72.0,6.0
+Christian Mawissa,19,France,AS Monaco,9.0,1399.0,2.0,0.0,Defender,left,180.0,71.0,85.0,51.0,1598.0,66.0,31.0,53.0,60.0,71.0,72.0,4.1
+Alejo Veliz,20,Argentina,RCD Espanyol Barcelona,9.0,76.0,1.0,0.0,Attack,right,186.0,75.0,85.0,37.0,1746.0,71.0,74.0,54.0,70.0,25.0,73.0,12.0
+Roony Bardghji,18,Sweden,FC Copenhagen,9.0,2085.0,12.0,0.0,Attack,left,173.0,70.0,85.0,63.0,1728.0,75.0,68.0,63.0,74.0,30.0,53.0,3.6
+Andy Diouf,21,France,RC Lens,9.0,1458.0,1.0,0.0,Midfield,left,187.0,74.0,82.0,57.0,2016.0,76.0,68.0,71.0,75.0,67.0,75.0,9.0
+Máximo Perrone,21,Argentina,Manchester City,9.0,1712.0,0.0,0.0,Midfield,left,177.0,71.0,83.0,56.0,1843.0,68.0,54.0,66.0,74.0,68.0,69.0,4.5
+Hákon Arnar Haraldsson,21,Iceland,LOSC Lille,9.0,1564.0,3.0,0.0,Attack,right,180.0,73.0,83.0,51.0,1934.0,76.0,64.0,70.0,75.0,57.0,68.0,6.5
+Lucas Gourna-Douath,21,France,Red Bull Salzburg,9.0,3122.0,1.0,0.0,Midfield,right,185.0,73.0,83.0,46.0,1870.0,76.0,52.0,65.0,71.0,70.0,76.0,6.0
+Arne Engels,20,Belgium,FC Augsburg,9.0,2930.0,3.0,9.0,Midfield,right,185.0,72.0,83.0,56.0,1965.0,68.0,64.0,73.0,74.0,63.0,71.0,5.0
+Julien Duranville,18,Belgium,Borussia Dortmund,8.5,279.0,1.0,0.0,Attack,right,173.0,66.0,87.0,51.0,1601.0,84.0,60.0,58.0,75.0,23.0,48.0,2.7
+Diego Gómez,21,Paraguay,Inter Miami CF,8.0,25.0,0.0,0.0,Midfield,right,164.0,68.0,78.0,35.0,1831.0,75.0,63.0,65.0,69.0,59.0,72.0,2.6
+Kassoum Ouattara,19,France,AS Monaco,8.0,634.0,1.0,0.0,Defender,left,176.0,69.0,83.0,43.0,1700.0,77.0,41.0,60.0,68.0,63.0,68.0,3.1
+Paul Wanner,18,Germany,1.FC Heidenheim 1846,8.0,92.0,0.0,0.0,Midfield,left,185.0,66.0,86.0,56.0,1643.0,68.0,52.0,64.0,72.0,44.0,45.0,2.3
+Ethan Nwaneri,17,England,Arsenal FC U21,8.0,14.0,0.0,0.0,Midfield,left,176.0,61.0,86.0,54.0,1597.0,68.0,59.0,59.0,63.0,39.0,50.0,1.0
+Tom Rothe,19,Germany,1.FC Union Berlin,8.0,177.0,1.0,1.0,Defender,left,193.0,70.0,83.0,47.0,1745.0,67.0,45.0,65.0,66.0,66.0,75.0,3.5
+Soungoutou Magassa,20,France,AS Monaco,8.0,1423.0,0.0,0.0,Defender,right,188.0,72.0,82.0,50.0,1750.0,58.0,48.0,64.0,62.0,71.0,71.0,4.7
+Samuel Edozie,21,England,Southampton FC,8.0,855.0,0.0,0.0,Attack,right,181.0,67.0,80.0,50.0,1583.0,81.0,56.0,58.0,71.0,28.0,51.0,2.5
+Konstantinos Koulierakis,20,Greece,PAOK Thessaloniki,8.0,3953.0,3.0,1.0,Defender,left,188.0,72.0,81.0,50.0,1730.0,69.0,43.0,56.0,63.0,71.0,71.0,4.7
+Liam Delap,21,England,Ipswich Town,8.0,120.0,0.0,0.0,Attack,right,186.0,71.0,82.0,48.0,1735.0,76.0,70.0,58.0,70.0,29.0,74.0,4.1
+Loum Tchaouna,20,France,SS Lazio,8.0,2312.0,6.0,4.0,Attack,left,180.0,67.0,79.0,63.0,1784.0,79.0,69.0,62.0,71.0,37.0,61.0,2.4
+Jean-Mattéo Bahoya,19,France,Eintracht Frankfurt,7.5,434.0,0.0,0.0,Attack,right,180.0,66.0,80.0,56.0,1681.0,71.0,65.0,60.0,71.0,40.0,54.0,2.0
+Ismaël Gharbi,20,Spain,Paris Saint-Germain,7.5,63.0,0.0,0.0,Midfield,right,173.0,68.0,78.0,52.0,1683.0,73.0,57.0,63.0,74.0,40.0,46.0,2.6
+Kevin Paredes,21,United States,VfL Wolfsburg,7.5,1993.0,4.0,3.0,Midfield,left,175.0,72.0,82.0,51.0,1754.0,80.0,58.0,65.0,76.0,55.0,47.0,5.0
+Junior Mwanga,21,France,RC Strasbourg Alsace,7.0,1456.0,1.0,1.0,Midfield,both,184.0,72.0,81.0,47.0,1785.0,68.0,50.0,62.0,68.0,71.0,72.0,4.8
+Saël Kumbedi,19,France,Olympique Lyon,7.0,2233.0,0.0,4.0,Defender,right,175.0,71.0,82.0,37.0,1753.0,82.0,42.0,62.0,72.0,65.0,62.0,3.8
+Darío Osorio,20,Chile,FC Midtjylland,7.0,659.0,5.0,0.0,Attack,left,184.0,66.0,78.0,49.0,1671.0,77.0,63.0,63.0,68.0,31.0,59.0,2.0
+Adamo Nagalo,21,Burkina Faso,FC Nordsjaelland,7.0,5814.0,4.0,2.0,Defender,right,185.0,71.0,82.0,55.0,1625.0,70.0,29.0,55.0,62.0,70.0,77.0,3.8
+Omari Hutchinson,20,Jamaica,Ipswich Town,7.0,49.0,0.0,0.0,Midfield,left,174.0,68.0,83.0,39.0,1749.0,76.0,63.0,64.0,71.0,46.0,55.0,2.9
+Guéla Doué,21,Cote d'Ivoire,RC Strasbourg Alsace,7.0,1542.0,0.0,4.0,Defender,right,187.0,70.0,81.0,59.0,1739.0,71.0,39.0,59.0,69.0,69.0,71.0,3.3
+Isaak Touré,21,France,FC Lorient,7.0,3707.0,2.0,1.0,Defender,left,206.0,72.0,83.0,45.0,1581.0,66.0,30.0,51.0,56.0,69.0,83.0,4.8
+Kristian Hlynsson,20,Iceland,Ajax Amsterdam,7.0,2099.0,7.0,3.0,Midfield,right,179.0,69.0,83.0,49.0,1702.0,67.0,63.0,63.0,72.0,41.0,48.0,3.3
+Matías Arezo,21,Uruguay,Grêmio Foot-Ball Porto Alegrense,7.0,515.0,0.0,0.0,Attack,right,177.0,71.0,81.0,45.0,1841.0,68.0,74.0,61.0,71.0,42.0,64.0,4.1
+Ryan Flamingo,21,Netherlands,PSV Eindhoven,7.0,5745.0,5.0,2.0,Defender,right,183.0,70.0,80.0,51.0,1863.0,65.0,61.0,62.0,64.0,69.0,75.0,3.3
+Umut Tohumcu,20,Germany,TSG 1899 Hoffenheim,7.0,1359.0,0.0,2.0,Midfield,both,175.0,69.0,84.0,42.0,1691.0,66.0,62.0,67.0,71.0,42.0,50.0,3.2
+Mika Biereth,21,Denmark,SK Sturm Graz,7.0,1380.0,8.0,5.0,Attack,right,187.0,65.0,77.0,52.0,1608.0,79.0,64.0,49.0,62.0,30.0,71.0,1.7
+Alan Minda,21,Ecuador,Cercle Brugge,6.0,1513.0,7.0,6.0,Attack,right,171.0,67.0,77.0,53.0,1715.0,84.0,60.0,60.0,69.0,50.0,53.0,2.2
+Oumar Diakité,20,Cote d'Ivoire,Stade Reims,6.0,1587.0,5.0,1.0,Attack,right,182.0,72.0,82.0,57.0,1715.0,79.0,71.0,57.0,70.0,21.0,69.0,5.0
+Isaac Babadi,19,Netherlands,PSV Eindhoven,6.0,508.0,2.0,0.0,Midfield,right,179.0,66.0,83.0,48.0,1612.0,76.0,51.0,59.0,73.0,43.0,45.0,2.2
+Max Finkgräfe,20,Germany,1.FC Köln,6.0,1757.0,1.0,0.0,Defender,left,183.0,68.0,79.0,47.0,1721.0,72.0,42.0,59.0,71.0,64.0,63.0,2.5
+Zeno Van Den Bosch,21,Belgium,Royal Antwerp FC,6.0,1750.0,0.0,1.0,Defender,right,191.0,71.0,81.0,47.0,1569.0,60.0,27.0,64.0,51.0,72.0,70.0,3.8
+Jacopo Fazzini,21,Italy,FC Empoli,6.0,2082.0,1.0,2.0,Midfield,right,178.0,67.0,81.0,51.0,1831.0,72.0,51.0,67.0,70.0,59.0,65.0,2.4
+Antoni Milambo,19,Netherlands,Feyenoord Rotterdam,6.0,307.0,1.0,1.0,Midfield,right,179.0,64.0,81.0,43.0,1657.0,68.0,54.0,63.0,69.0,44.0,55.0,1.5
+Diego Coppola,20,Italy,Hellas Verona,6.0,3327.0,2.0,0.0,Defender,right,193.0,71.0,80.0,44.0,1586.0,60.0,40.0,55.0,51.0,72.0,69.0,3.8
+Matthis Abline,21,France,FC Nantes,6.0,2082.0,9.0,3.0,Attack,right,182.0,69.0,76.0,60.0,1671.0,77.0,71.0,55.0,71.0,24.0,55.0,2.8
+Warren Bondo,20,France,AC Monza,6.0,1561.0,1.0,1.0,Midfield,right,177.0,63.0,79.0,49.0,1765.0,77.0,55.0,58.0,72.0,58.0,64.0,1.2
+Johann Lepenant,21,France,FC Nantes,6.0,2184.0,1.0,2.0,Midfield,right,176.0,73.0,79.0,46.0,1860.0,70.0,56.0,67.0,71.0,69.0,69.0,4.3
+Elias Jelert,21,Denmark,Galatasaray,5.5,2905.0,0.0,1.0,Defender,right,178.0,71.0,81.0,48.0,1917.0,85.0,57.0,64.0,73.0,63.0,73.0,3.9
+Matte Smets,20,Belgium,KRC Genk,5.0,3769.0,0.0,0.0,Defender,right,184.0,71.0,83.0,45.0,1693.0,67.0,33.0,63.0,65.0,72.0,70.0,4.2
+Nathan Zézé,19,France,FC Nantes,5.0,1082.0,0.0,0.0,Defender,left,190.0,67.0,83.0,53.0,1479.0,66.0,31.0,44.0,48.0,70.0,63.0,2.4
+Ibrahim Maza,18,Germany,Hertha BSC,5.0,70.0,1.0,0.0,Attack,right,180.0,64.0,81.0,55.0,1656.0,70.0,60.0,60.0,71.0,38.0,54.0,1.5
+Senny Mayulu,18,France,Paris Saint-Germain,5.0,323.0,0.0,1.0,Midfield,both,183.0,64.0,83.0,37.0,1698.0,73.0,60.0,62.0,70.0,48.0,53.0,1.5
+Diego Luna,20,United States,Real Salt Lake City,5.0,1406.0,0.0,0.0,Defender,right,186.0,64.0,81.0,54.0,1700.0,77.0,58.0,57.0,72.0,38.0,68.0,1.5
+Nelson Weiper,19,Germany,1.FSV Mainz 05,5.0,215.0,2.0,0.0,Attack,right,192.0,66.0,86.0,47.0,1556.0,66.0,65.0,46.0,65.0,25.0,67.0,2.4
+Alfie Gilchrist,20,England,Sheffield United,5.0,431.0,1.0,0.0,Defender,right,183.0,63.0,80.0,37.0,1501.0,61.0,34.0,50.0,50.0,64.0,66.0,1.2
+Khalil Fayad,20,Morocco,Montpellier HSC,5.0,1725.0,3.0,2.0,Midfield,right,172.0,67.0,80.0,53.0,1693.0,65.0,57.0,66.0,73.0,54.0,39.0,2.4
+Luka Romero,19,Argentina,Deportivo Alavés,5.0,890.0,4.0,0.0,Attack,left,169.0,72.0,84.0,57.0,1868.0,79.0,65.0,66.0,75.0,53.0,57.0,5.5
+Williot Swedberg,20,Sweden,Celta de Vigo,5.0,991.0,5.0,1.0,Midfield,right,187.0,70.0,82.0,48.0,1850.0,71.0,68.0,66.0,71.0,59.0,60.0,3.8
+Jorne Spileers,19,Belgium,Club Brugge KV,5.0,3236.0,1.0,1.0,Defender,right,188.0,70.0,84.0,52.0,1617.0,73.0,31.0,58.0,57.0,70.0,70.0,3.5
+Ruben van Bommel,20,Netherlands,AZ Alkmaar,5.0,1958.0,9.0,1.0,Attack,right,192.0,68.0,83.0,44.0,1618.0,85.0,65.0,59.0,70.0,25.0,61.0,2.8
+Noah Sadiki,19,DR Congo,Union Saint-Gilloise,5.0,1930.0,0.0,2.0,Midfield,right,183.0,65.0,79.0,56.0,1651.0,73.0,38.0,58.0,67.0,62.0,66.0,1.6
+Mathias Delorge,20,Belgium,KAA Gent,5.0,2668.0,1.0,3.0,Midfield,left,189.0,71.0,82.0,59.0,1812.0,63.0,59.0,71.0,68.0,61.0,68.0,3.9
+Leo Sauer,18,Slovakia,NAC Breda,5.0,288.0,2.0,4.0,Attack,right,184.0,66.0,83.0,49.0,1644.0,81.0,58.0,61.0,70.0,39.0,50.0,2.1
+Badredine Bouanani,19,Algeria,OGC Nice,5.0,1457.0,1.0,4.0,Attack,left,177.0,69.0,79.0,55.0,1684.0,71.0,64.0,68.0,71.0,31.0,50.0,2.9
+Kamory Doumbia,21,Mali,Stade Reims,5.0,2370.0,10.0,8.0,Midfield,right,170.0,73.0,80.0,52.0,1894.0,70.0,67.0,70.0,75.0,57.0,59.0,6.0
+Orri Óskarsson,19,Iceland,FC Copenhagen,5.0,1411.0,8.0,7.0,Attack,right,186.0,65.0,80.0,62.0,1679.0,70.0,64.0,57.0,65.0,30.0,68.0,1.7
+Félix Lemaréchal,21,France,RC Strasbourg Alsace,5.0,1851.0,0.0,3.0,Midfield,right,180.0,69.0,80.0,56.0,1796.0,64.0,54.0,69.0,68.0,61.0,68.0,3.0
+Serdar Saatçı,21,Türkiye,SC Braga,5.0,3113.0,1.0,3.0,Defender,right,190.0,73.0,80.0,51.0,1584.0,69.0,30.0,49.0,61.0,73.0,75.0,5.5
+Wouter Goes,20,Netherlands,AZ Alkmaar,5.0,2005.0,1.0,1.0,Defender,right,187.0,67.0,82.0,44.0,1566.0,67.0,31.0,51.0,60.0,68.0,64.0,2.3
+Bashir Humphreys,21,England,Burnley FC,4.8,392.0,0.0,0.0,Defender,left,186.0,67.0,80.0,59.0,1576.0,65.0,31.0,51.0,55.0,67.0,67.0,2.3
+Yasin Özcan,18,Türkiye,Kasimpasa,4.5,4231.0,4.0,2.0,Defender,left,185.0,63.0,77.0,45.0,1509.0,65.0,36.0,45.0,55.0,64.0,67.0,1.0
+Antonio Raimondo,20,Italy,Venezia FC,4.5,14.0,0.0,0.0,Attack,left,185.0,65.0,80.0,37.0,1630.0,67.0,63.0,61.0,68.0,28.0,59.0,1.7
+Paxten Aaronson,20,United States,FC Utrecht,4.5,1609.0,4.0,3.0,Midfield,right,175.0,68.0,79.0,51.0,1667.0,77.0,58.0,63.0,71.0,40.0,48.0,2.6
+Cristian Volpato,20,Italy,US Sassuolo,4.5,1221.0,2.0,2.0,Midfield,left,187.0,69.0,85.0,48.0,1718.0,67.0,64.0,67.0,71.0,39.0,62.0,3.6
+Kyriani Sabbe,19,Belgium,Club Brugge KV,4.5,741.0,0.0,3.0,Defender,right,176.0,67.0,83.0,54.0,1729.0,76.0,49.0,64.0,68.0,61.0,57.0,2.5
+Yasin Ayari,20,Sweden,Brighton & Hove Albion,4.5,513.0,1.0,0.0,Midfield,right,172.0,66.0,78.0,49.0,1700.0,64.0,51.0,66.0,69.0,52.0,58.0,2.0
+Filippo Terracciano,21,Italy,AC Milan,4.5,2316.0,0.0,2.0,Defender,right,186.0,71.0,82.0,56.0,1954.0,81.0,60.0,71.0,71.0,67.0,69.0,4.1
+Enso González,19,Paraguay,Wolverhampton Wanderers,4.0,1.0,0.0,0.0,Attack,left,169.0,63.0,83.0,54.0,1528.0,81.0,48.0,58.0,70.0,35.0,41.0,1.3
+Ibrahim Sulemana,21,Ghana,Atalanta BC,4.0,2231.0,2.0,0.0,Midfield,right,180.0,70.0,81.0,52.0,1928.0,75.0,61.0,64.0,68.0,68.0,75.0,3.3
+Momodou Lamin Sonko,19,Sweden,KAA Gent,4.0,664.0,3.0,1.0,Attack,right,176.0,63.0,84.0,46.0,1516.0,80.0,61.0,50.0,69.0,17.0,51.0,1.5
+Alan Matturro,19,Uruguay,Genoa CFC,4.0,284.0,0.0,0.0,Defender,left,189.0,65.0,82.0,51.0,1522.0,68.0,30.0,50.0,53.0,66.0,65.0,1.7
+Bénie Traoré,21,Cote d'Ivoire,FC Basel 1893,4.0,929.0,0.0,1.0,Attack,right,172.0,68.0,77.0,48.0,1701.0,86.0,65.0,54.0,75.0,32.0,63.0,2.7
+Ayman Kari,19,France,Paris Saint-Germain,4.0,993.0,1.0,1.0,Midfield,right,176.0,68.0,82.0,62.0,1805.0,70.0,53.0,66.0,73.0,59.0,65.0,2.8
+Mika Godts,19,Belgium,Ajax Amsterdam,4.0,641.0,0.0,3.0,Attack,right,176.0,66.0,84.0,53.0,1677.0,77.0,58.0,61.0,74.0,39.0,54.0,2.2
+Nazar Voloshyn,21,Ukraine,Dynamo Kyiv,4.0,3559.0,16.0,8.0,Attack,right,175.0,66.0,80.0,56.0,1559.0,68.0,60.0,61.0,66.0,28.0,50.0,2.1
+Tim Iroegbunam,21,England,Everton FC,4.0,258.0,0.0,0.0,Midfield,right,183.0,69.0,81.0,49.0,1819.0,66.0,58.0,64.0,68.0,66.0,71.0,3.2
+Tim Oermann,20,Germany,VfL Bochum,4.0,901.0,0.0,0.0,Defender,right,189.0,68.0,77.0,44.0,1567.0,67.0,34.0,54.0,58.0,68.0,68.0,2.4
+Dorgeles Nene,21,Mali,Red Bull Salzburg,4.0,1484.0,8.0,4.0,Attack,right,174.0,67.0,76.0,35.0,1763.0,85.0,70.0,61.0,72.0,37.0,54.0,2.3
+Tom Cannon,21,Ireland,Leicester City,4.0,300.0,1.0,1.0,Attack,right,180.0,69.0,77.0,45.0,1691.0,79.0,69.0,56.0,72.0,27.0,59.0,3.1
+Jacob Ondrejka,21,Sweden,Royal Antwerp FC,4.0,839.0,5.0,2.0,Attack,right,180.0,70.0,79.0,55.0,1845.0,79.0,64.0,68.0,72.0,46.0,60.0,3.5
+Gabriel Slonina,20,United States,Barnsley FC,4.0,2520.0,0.0,0.0,Goalkeeper,right,193.0,68.0,81.0,330.0,1105.0,69.0,64.0,63.0,69.0,45.0,65.0,2.5
+Emin Bayram,21,Türkiye,KVC Westerlo,4.0,2643.0,1.0,2.0,Defender,right,192.0,67.0,78.0,50.0,1605.0,63.0,31.0,55.0,63.0,68.0,69.0,2.1
+Cher Ndour,20,Italy,Besiktas JK,4.0,310.0,1.0,0.0,Midfield,both,190.0,68.0,82.0,54.0,1774.0,55.0,61.0,68.0,68.0,57.0,70.0,2.8
+Rav van den Berg,20,Netherlands,Middlesbrough FC,4.0,583.0,1.0,0.0,Defender,right,191.0,67.0,84.0,50.0,1536.0,66.0,32.0,50.0,59.0,67.0,68.0,2.4
+Shola Shoretire,20,England,PAOK Thessaloniki,4.0,61.0,0.0,0.0,Midfield,both,171.0,62.0,79.0,36.0,1609.0,73.0,54.0,57.0,67.0,37.0,54.0,1.0
+Calvin Ramsay,21,Scotland,Wigan Athletic,4.0,2427.0,1.0,9.0,Defender,right,177.0,65.0,79.0,47.0,1695.0,76.0,43.0,60.0,66.0,56.0,66.0,1.6
+Gaetano Oristanio,21,Italy,Venezia FC,4.0,3225.0,3.0,4.0,Midfield,left,174.0,71.0,84.0,41.0,1896.0,87.0,66.0,69.0,76.0,49.0,60.0,4.5
+Mattia Zanotti,21,Italy,FC Lugano,4.0,26.0,0.0,0.0,Defender,right,177.0,71.0,82.0,46.0,1942.0,78.0,59.0,69.0,70.0,68.0,70.0,3.9
+Armindo Sieb,21,Germany,1.FSV Mainz 05,4.0,26.0,0.0,0.0,Attack,both,175.0,69.0,79.0,56.0,1689.0,87.0,65.0,55.0,74.0,26.0,64.0,3.1
+Christopher Bonsu Baah,19,Ghana,KRC Genk,3.5,1308.0,1.0,1.0,Attack,left,172.0,69.0,81.0,38.0,1670.0,85.0,63.0,59.0,77.0,29.0,57.0,3.2
+Óscar Cortés,20,Colombia,Rangers FC,3.5,419.0,2.0,3.0,Attack,right,178.0,69.0,80.0,43.0,1780.0,78.0,66.0,65.0,71.0,48.0,53.0,3.0
+Tom Bischof,19,Germany,TSG 1899 Hoffenheim,3.5,531.0,0.0,2.0,Midfield,left,176.0,67.0,86.0,53.0,1651.0,61.0,55.0,65.0,72.0,43.0,50.0,2.6
+Cihan Çanak,19,Türkiye,Trabzonspor,3.5,1470.0,1.0,5.0,Attack,left,175.0,66.0,81.0,46.0,1690.0,80.0,58.0,64.0,75.0,39.0,50.0,2.0
+Joel Mvuka,21,Norway,FC Lorient,3.5,279.0,0.0,0.0,Attack,right,176.0,69.0,78.0,56.0,1697.0,89.0,57.0,59.0,74.0,41.0,46.0,3.1
+Jay Stansfield,21,England,Fulham FC,3.5,585.0,1.0,2.0,Attack,right,187.0,67.0,79.0,43.0,1689.0,79.0,69.0,59.0,68.0,26.0,64.0,2.5
+Alan Virginius,21,France,BSC Young Boys,3.5,1261.0,1.0,3.0,Attack,right,180.0,68.0,80.0,59.0,1586.0,90.0,59.0,59.0,71.0,27.0,40.0,2.9
+Samuele Vignato,20,Italy,AC Monza,3.5,487.0,1.0,1.0,Midfield,right,172.0,65.0,81.0,48.0,1606.0,72.0,59.0,60.0,74.0,34.0,42.0,1.9
+Myron van Brederode,21,Netherlands,AZ Alkmaar,3.5,2943.0,7.0,5.0,Attack,right,174.0,69.0,79.0,53.0,1642.0,68.0,58.0,60.0,79.0,32.0,54.0,3.0
+Adam Obert,21,Slovakia,Cagliari Calcio,3.5,1677.0,0.0,1.0,Defender,left,188.0,68.0,78.0,50.0,1719.0,68.0,41.0,60.0,64.0,69.0,67.0,2.5
+Youri Regeer,21,Netherlands,Twente Enschede FC,3.5,2017.0,2.0,2.0,Midfield,right,177.0,70.0,81.0,57.0,1865.0,75.0,57.0,68.0,71.0,66.0,67.0,3.3
+Nathan Ngoy,21,Belgium,Standard Liège,3.5,2100.0,1.0,0.0,Defender,right,183.0,66.0,77.0,54.0,1621.0,78.0,44.0,49.0,61.0,65.0,71.0,1.8
+Paul Nebel,21,Germany,1.FSV Mainz 05,3.5,319.0,0.0,2.0,Attack,both,169.0,71.0,80.0,45.0,1702.0,74.0,62.0,66.0,76.0,30.0,58.0,4.1
+Mahamadou Diawara,19,France,Olympique Lyon,3.0,355.0,0.0,0.0,Midfield,left,187.0,67.0,81.0,37.0,1752.0,69.0,55.0,65.0,67.0,61.0,69.0,2.4
+Ngal'ayel Mukau,19,DR Congo,LOSC Lille,3.0,1326.0,0.0,0.0,Midfield,left,188.0,66.0,80.0,52.0,1641.0,64.0,40.0,55.0,64.0,66.0,64.0,1.9
+Gustavo Puerta,21,Colombia,Bayer 04 Leverkusen,3.0,229.0,0.0,0.0,Midfield,right,173.0,65.0,79.0,54.0,1706.0,65.0,58.0,62.0,64.0,59.0,60.0,1.7
+Lovro Zvonarek,19,Croatia,SK Sturm Graz,3.0,161.0,1.0,0.0,Midfield,right,180.0,64.0,78.0,51.0,1600.0,69.0,57.0,62.0,68.0,34.0,52.0,1.4
+Matija Frigan,21,Croatia,KVC Westerlo,3.0,1006.0,4.0,1.0,Attack,left,185.0,69.0,79.0,43.0,1791.0,79.0,68.0,59.0,68.0,36.0,74.0,3.1
+Gino Infantino,21,Argentina,ACF Fiorentina,3.0,185.0,0.0,0.0,Midfield,left,178.0,67.0,79.0,44.0,1751.0,75.0,61.0,64.0,71.0,48.0,59.0,2.5
+Tygo Land,18,Netherlands,PSV Eindhoven,3.0,19.0,0.0,1.0,Midfield,right,178.0,62.0,84.0,57.0,1691.0,74.0,50.0,64.0,71.0,52.0,43.0,1.2
+Mayckel Lahdo,21,Sweden,AZ Alkmaar,3.0,1829.0,10.0,7.0,Attack,right,171.0,68.0,79.0,56.0,1619.0,82.0,64.0,59.0,73.0,27.0,54.0,2.6
+Tom Louchet,21,France,OGC Nice,3.0,399.0,1.0,2.0,Midfield,both,178.0,66.0,77.0,51.0,1794.0,70.0,60.0,64.0,69.0,60.0,61.0,1.9
+Joseph Nonge,19,Belgium,Juventus Next Gen,3.0,49.0,0.0,0.0,Midfield,left,184.0,64.0,81.0,46.0,1768.0,68.0,49.0,64.0,66.0,64.0,60.0,1.5
+Lucas Noubi,19,Belgium,Standard Liège,3.0,1391.0,0.0,0.0,Defender,right,184.0,66.0,81.0,52.0,1532.0,75.0,21.0,52.0,64.0,63.0,74.0,1.9
+Emirhan İlkhan,20,Türkiye,Torino FC,3.0,1864.0,2.0,2.0,Midfield,right,175.0,64.0,79.0,55.0,1686.0,66.0,58.0,63.0,70.0,50.0,48.0,1.4
+Jhon Solís,19,Colombia,Girona FC,3.0,690.0,0.0,1.0,Midfield,right,186.0,69.0,80.0,52.0,1819.0,64.0,61.0,63.0,65.0,66.0,74.0,2.9
+Giuliano Simeone,21,Argentina,Atlético de Madrid,3.0,719.0,1.0,2.0,Attack,right,173.0,72.0,82.0,55.0,1796.0,82.0,69.0,58.0,70.0,26.0,79.0,5.0
+Lucas Hey,21,Denmark,FC Nordsjaelland,3.0,2504.0,0.0,0.0,Defender,right,189.0,65.0,79.0,46.0,1610.0,62.0,41.0,55.0,60.0,65.0,65.0,1.6
+Andrew Moran,20,Ireland,Stoke City,3.0,505.0,2.0,3.0,Midfield,right,177.0,67.0,80.0,69.0,1739.0,76.0,58.0,66.0,71.0,39.0,55.0,2.4
+Matias Fernandez-Pardo,19,Belgium,KAA Gent,3.0,260.0,1.0,0.0,Attack,right,183.0,62.0,78.0,50.0,1560.0,75.0,58.0,59.0,67.0,28.0,51.0,1.0
+Dexter Lembikisa,20,Jamaica,Wolverhampton Wanderers U21,3.0,1176.0,1.0,0.0,Defender,right,180.0,64.0,73.0,45.0,1614.0,83.0,43.0,54.0,60.0,59.0,59.0,1.2
+Anton Gaaei,21,Denmark,Ajax Amsterdam,3.0,4030.0,2.0,9.0,Defender,right,183.0,67.0,78.0,50.0,1724.0,84.0,48.0,57.0,65.0,59.0,67.0,2.1
+Aljoscha Kemlein,20,Germany,1.FC Union Berlin,3.0,108.0,0.0,0.0,Midfield,right,185.0,66.0,78.0,53.0,1738.0,60.0,57.0,63.0,65.0,62.0,63.0,1.9
+Robert Wagner,21,Germany,FC St. Pauli,3.0,124.0,0.0,0.0,Midfield,right,181.0,69.0,82.0,57.0,1730.0,68.0,45.0,66.0,69.0,60.0,70.0,3.3
+Jude Bellingham,21,England,Real Madrid,180.0,13820.0,47.0,38.0,Midfield,right,186.0,88.0,92.0,48.0,2295.0,80.0,83.0,81.0,87.0,78.0,83.0,128.5
+Florian Wirtz,21,Germany,Bayer 04 Leverkusen,130.0,10929.0,41.0,50.0,Midfield,right,177.0,87.0,92.0,57.0,2089.0,80.0,76.0,86.0,88.0,50.0,63.0,118.5
+Jamal Musiala,21,Germany,Bayern Munich,130.0,9175.0,43.0,31.0,Midfield,right,184.0,86.0,93.0,42.0,2090.0,85.0,75.0,76.0,91.0,63.0,61.0,134.5
+Eduardo Camavinga,21,France,Real Madrid,100.0,13733.0,4.0,13.0,Midfield,left,182.0,83.0,90.0,50.0,2197.0,80.0,67.0,81.0,84.0,78.0,80.0,71.5
+Xavi Simons,21,Netherlands,RB Leipzig,80.0,7397.0,32.0,27.0,Midfield,right,179.0,82.0,89.0,43.0,2139.0,87.0,77.0,78.0,85.0,61.0,74.0,60.5
+Rasmus Højlund,21,Denmark,Manchester United,65.0,5388.0,27.0,6.0,Attack,left,191.0,78.0,89.0,50.0,1869.0,84.0,77.0,58.0,74.0,33.0,83.0,31.0
+Warren Zaïre-Emery,18,France,Paris Saint-Germain,60.0,3956.0,5.0,6.0,Midfield,right,178.0,80.0,90.0,55.0,2113.0,79.0,68.0,76.0,79.0,75.0,78.0,43.5
+Kobbie Mainoo,19,England,Manchester United,55.0,2492.0,5.0,1.0,Midfield,right,180.0,72.0,87.0,49.0,1923.0,74.0,60.0,68.0,77.0,68.0,69.0,5.0
+Leny Yoro,18,France,Manchester United,50.0,3610.0,3.0,0.0,Defender,right,190.0,77.0,86.0,53.0,1740.0,73.0,41.0,58.0,61.0,78.0,73.0,20.0
+Bradley Barcola,21,France,Paris Saint-Germain,50.0,3908.0,10.0,20.0,Attack,right,182.0,80.0,87.0,43.0,1925.0,86.0,74.0,75.0,80.0,34.0,64.0,42.0
+Evan Ferguson,19,Ireland,Brighton & Hove Albion,50.0,3143.0,16.0,5.0,Attack,right,188.0,74.0,86.0,54.0,1729.0,72.0,74.0,62.0,70.0,21.0,70.0,10.0
+Levi Colwill,21,England,Chelsea FC,50.0,4049.0,1.0,3.0,Defender,left,187.0,76.0,83.0,61.0,1841.0,72.0,40.0,68.0,68.0,76.0,76.0,14.0
+Arda Güler,19,Türkiye,Real Madrid,45.0,2030.0,14.0,8.0,Attack,left,175.0,77.0,88.0,58.0,1964.0,72.0,70.0,80.0,82.0,52.0,50.0,22.0
+Giorgio Scalvini,20,Italy,Atalanta BC,45.0,6569.0,5.0,5.0,Defender,right,194.0,77.0,87.0,45.0,1672.0,64.0,35.0,57.0,61.0,78.0,74.0,21.0
+Pape Matar Sarr,21,Senegal,Tottenham Hotspur,45.0,6290.0,7.0,7.0,Midfield,right,184.0,78.0,84.0,52.0,2030.0,70.0,65.0,75.0,78.0,74.0,75.0,21.5
+Johan Bakayoko,21,Belgium,PSV Eindhoven,45.0,5718.0,21.0,19.0,Attack,left,179.0,78.0,88.0,43.0,1837.0,87.0,69.0,69.0,81.0,31.0,64.0,31.0
+Destiny Udogie,21,Italy,Tottenham Hotspur,45.0,8283.0,10.0,10.0,Defender,left,188.0,81.0,86.0,57.0,2104.0,88.0,65.0,73.0,79.0,76.0,80.0,35.5
+Ousmane Diomande,20,Cote d'Ivoire,Sporting CP,40.0,4222.0,5.0,1.0,Defender,right,190.0,78.0,86.0,41.0,1696.0,74.0,26.0,53.0,73.0,77.0,83.0,28.5
+Mathys Tel,19,France,Bayern Munich,40.0,2056.0,16.0,6.0,Attack,right,183.0,75.0,88.0,54.0,1830.0,82.0,78.0,64.0,77.0,28.0,60.0,13.0
+Castello Lukeba,21,France,RB Leipzig,40.0,8590.0,5.0,0.0,Defender,left,184.0,79.0,86.0,56.0,1889.0,74.0,43.0,68.0,72.0,80.0,77.0,32.0
+Rico Lewis,19,England,Manchester City,38.0,3036.0,3.0,4.0,Defender,right,169.0,75.0,86.0,55.0,1880.0,76.0,46.0,73.0,79.0,70.0,59.0,11.5
+Elye Wahi,21,France,Olympique Marseille,35.0,7163.0,44.0,13.0,Attack,right,181.0,77.0,84.0,51.0,1919.0,84.0,79.0,67.0,79.0,31.0,67.0,21.0
+Malo Gusto,21,France,Chelsea FC,35.0,6402.0,0.0,15.0,Defender,right,178.0,78.0,86.0,49.0,1984.0,87.0,49.0,72.0,77.0,71.0,75.0,29.5
+Harvey Elliott,21,England,Liverpool FC,35.0,5876.0,10.0,13.0,Midfield,left,170.0,77.0,85.0,47.0,1940.0,75.0,67.0,76.0,81.0,53.0,57.0,23.0
+Tino Livramento,21,England,Newcastle United,35.0,4333.0,2.0,3.0,Defender,right,182.0,77.0,85.0,56.0,1948.0,81.0,50.0,68.0,78.0,74.0,72.0,22.0
+Désiré Doué,19,France,Paris Saint-Germain,30.0,3297.0,8.0,6.0,Attack,both,181.0,74.0,85.0,46.0,1855.0,78.0,68.0,69.0,80.0,48.0,63.0,9.0
+Jorrel Hato,18,Netherlands,Ajax Amsterdam,30.0,4546.0,1.0,3.0,Defender,left,182.0,73.0,88.0,40.0,1820.0,85.0,39.0,66.0,71.0,73.0,69.0,6.5
+Kenan Yıldız,19,Türkiye,Juventus FC,30.0,1086.0,4.0,1.0,Attack,both,187.0,66.0,83.0,56.0,1675.0,75.0,58.0,65.0,72.0,28.0,61.0,2.2
+Aleksandar Pavlovic,20,Germany,Bayern Munich,30.0,1435.0,2.0,2.0,Midfield,both,188.0,70.0,84.0,46.0,1777.0,62.0,55.0,69.0,69.0,67.0,61.0,3.6
+Adam Wharton,20,England,Crystal Palace,30.0,1560.0,0.0,3.0,Midfield,left,182.0,76.0,85.0,47.0,2009.0,68.0,61.0,77.0,76.0,71.0,70.0,15.0
+Bilal El Khannouss,20,Morocco,KRC Genk,30.0,4915.0,4.0,9.0,Midfield,right,180.0,74.0,86.0,53.0,1764.0,71.0,60.0,75.0,80.0,37.0,54.0,10.0
+Maximilian Beier,21,Germany,Borussia Dortmund,30.0,2784.0,18.0,4.0,Attack,right,185.0,76.0,84.0,41.0,1813.0,91.0,76.0,63.0,78.0,25.0,58.0,16.5
+Hugo Larsson,20,Sweden,Eintracht Frankfurt,28.0,2063.0,2.0,2.0,Midfield,right,187.0,73.0,85.0,48.0,1896.0,76.0,62.0,66.0,73.0,64.0,75.0,7.0
+Arthur Vermeeren,19,Belgium,Atlético de Madrid,25.0,4511.0,2.0,7.0,Midfield,right,180.0,76.0,87.0,45.0,1952.0,75.0,55.0,75.0,77.0,71.0,69.0,15.0
+Michael Kayode,20,Italy,ACF Fiorentina,25.0,2489.0,1.0,2.0,Defender,right,179.0,66.0,82.0,53.0,1593.0,69.0,34.0,50.0,65.0,67.0,60.0,2.1
+Lesley Ugochukwu,20,France,Southampton FC,25.0,2947.0,1.0,1.0,Midfield,right,190.0,72.0,82.0,57.0,1917.0,65.0,57.0,69.0,71.0,72.0,75.0,5.0
+Matías Soulé,21,Argentina,AS Roma,25.0,3802.0,12.0,3.0,Attack,left,182.0,76.0,87.0,63.0,1869.0,76.0,69.0,74.0,81.0,36.0,50.0,16.5
+Oscar Bobb,21,Norway,Manchester City,25.0,819.0,2.0,2.0,Attack,left,175.0,68.0,82.0,55.0,1656.0,80.0,61.0,63.0,74.0,33.0,42.0,2.9
+Rayan Cherki,21,France,Olympique Lyon,25.0,5158.0,8.0,19.0,Midfield,both,180.0,74.0,84.0,43.0,1749.0,68.0,67.0,72.0,84.0,21.0,61.0,9.0
+Carlos Baleba,20,Cameroon,Brighton & Hove Albion,22.0,2015.0,0.0,2.0,Midfield,left,179.0,70.0,82.0,52.0,1839.0,77.0,51.0,63.0,72.0,65.0,70.0,3.6
+Lewis Miley,18,England,Newcastle United,22.0,1743.0,1.0,4.0,Midfield,right,189.0,70.0,85.0,45.0,1815.0,63.0,61.0,69.0,72.0,60.0,65.0,3.6
+Jarell Quansah,21,England,Liverpool FC,22.0,2494.0,3.0,3.0,Defender,right,190.0,72.0,82.0,44.0,1685.0,73.0,33.0,56.0,65.0,72.0,75.0,4.8
+Yunus Musah,21,United States,AC Milan,22.0,6229.0,3.0,5.0,Midfield,right,178.0,75.0,83.0,51.0,2095.0,88.0,69.0,71.0,80.0,71.0,84.0,12.5
+Youssoufa Moukoko,19,Germany,Borussia Dortmund,22.0,3162.0,18.0,8.0,Attack,left,179.0,77.0,87.0,60.0,1857.0,80.0,75.0,59.0,80.0,34.0,65.0,22.5
+Alex Scott,21,England,AFC Bournemouth,20.0,1384.0,2.0,4.0,Midfield,right,178.0,72.0,84.0,54.0,1962.0,74.0,62.0,72.0,77.0,63.0,68.0,5.5
+Milos Kerkez,20,Hungary,AFC Bournemouth,20.0,5706.0,3.0,5.0,Defender,left,180.0,75.0,85.0,57.0,1925.0,82.0,53.0,66.0,73.0,69.0,74.0,11.5
+Brajan Gruda,20,Germany,Brighton & Hove Albion,20.0,1742.0,4.0,3.0,Attack,left,178.0,70.0,86.0,50.0,1793.0,78.0,68.0,65.0,77.0,30.0,58.0,4.1
+Jhon Durán,20,Colombia,Aston Villa,20.0,786.0,6.0,0.0,Attack,left,185.0,72.0,82.0,36.0,1756.0,79.0,72.0,58.0,71.0,32.0,77.0,5.0
+Facundo Buonanotte,19,Argentina,Leicester City,18.0,2493.0,5.0,2.0,Midfield,left,174.0,71.0,82.0,47.0,1678.0,75.0,65.0,68.0,73.0,25.0,50.0,4.0
+Ernest Nuamah,20,Ghana,Olympique Lyon,18.0,4287.0,18.0,7.0,Attack,left,178.0,74.0,84.0,52.0,1745.0,85.0,67.0,63.0,79.0,24.0,62.0,9.0
+Guillaume Restes,19,France,FC Toulouse,18.0,3870.0,0.0,0.0,Goalkeeper,left,188.0,75.0,87.0,374.0,1100.0,76.0,72.0,75.0,78.0,36.0,73.0,11.5
+Habib Diarra,20,Senegal,RC Strasbourg Alsace,18.0,4048.0,6.0,4.0,Midfield,right,178.0,72.0,84.0,42.0,1909.0,69.0,63.0,69.0,73.0,68.0,71.0,5.5
+Farès Chaïbi,21,Algeria,Eintracht Frankfurt,18.0,4496.0,7.0,12.0,Midfield,right,183.0,76.0,86.0,58.0,2027.0,73.0,69.0,76.0,74.0,68.0,71.0,16.5
+Lewis Hall,19,England,Newcastle United,18.0,1790.0,2.0,0.0,Defender,left,179.0,68.0,83.0,53.0,1860.0,71.0,59.0,69.0,71.0,65.0,57.0,2.7
+James Trafford,21,England,Burnley FC,18.0,2520.0,0.0,0.0,Goalkeeper,right,197.0,71.0,84.0,351.0,1034.0,70.0,69.0,69.0,73.0,27.0,70.0,4.0
+Arsen Zakharyan,21,Russia,Real Sociedad,18.0,8702.0,20.0,27.0,Midfield,right,183.0,74.0,85.0,60.0,1938.0,79.0,70.0,74.0,72.0,53.0,60.0,9.5
+Zeno Debast,20,Belgium,Sporting CP,18.0,6073.0,0.0,1.0,Defender,right,191.0,73.0,84.0,38.0,1859.0,66.0,53.0,70.0,69.0,73.0,73.0,6.0
+Giovanni Reyna,21,United States,Borussia Dortmund,18.0,5363.0,17.0,18.0,Midfield,right,185.0,78.0,84.0,56.0,1934.0,77.0,73.0,74.0,82.0,37.0,69.0,22.0
+Yankuba Minteh,20,The Gambia,Brighton & Hove Albion,16.0,2627.0,13.0,9.0,Attack,left,180.0,72.0,86.0,43.0,1732.0,93.0,61.0,59.0,76.0,41.0,54.0,5.5
+Jack Hinshelwood,19,England,Brighton & Hove Albion,16.0,1218.0,3.0,0.0,Midfield,right,182.0,66.0,82.0,41.0,1842.0,63.0,62.0,66.0,67.0,63.0,64.0,2.1
+Wilfried Gnonto,20,Italy,Leeds United,16.0,1936.0,5.0,5.0,Attack,right,170.0,74.0,85.0,53.0,1836.0,87.0,72.0,65.0,79.0,30.0,66.0,9.0
+Eli Junior Kroupi,18,France,FC Lorient,15.0,1084.0,5.0,3.0,Attack,right,179.0,67.0,81.0,53.0,1735.0,71.0,61.0,65.0,72.0,45.0,53.0,2.3
+Antonio Nusa,19,Norway,RB Leipzig,15.0,1947.0,5.0,5.0,Attack,right,180.0,72.0,86.0,59.0,1848.0,88.0,64.0,65.0,79.0,41.0,59.0,5.5
+Eliesse Ben Seghir,19,Morocco,AS Monaco,15.0,1609.0,6.0,5.0,Midfield,right,178.0,73.0,85.0,39.0,1761.0,77.0,73.0,65.0,76.0,28.0,54.0,7.0
+Valentín Carboni,19,Argentina,Olympique Marseille,15.0,1213.0,2.0,4.0,Midfield,left,185.0,64.0,84.0,52.0,1669.0,67.0,51.0,65.0,66.0,45.0,53.0,1.6
+Carlos Alcaraz,21,Argentina,Southampton FC,15.0,1714.0,5.0,5.0,Midfield,right,183.0,73.0,84.0,48.0,1982.0,82.0,71.0,71.0,79.0,50.0,68.0,6.5
+Malick Fofana,19,Belgium,Olympique Lyon,15.0,2714.0,6.0,8.0,Attack,right,169.0,71.0,85.0,50.0,1700.0,87.0,60.0,64.0,78.0,35.0,43.0,4.4
+Chadi Riad,21,Morocco,Crystal Palace,15.0,2315.0,0.0,0.0,Defender,left,187.0,69.0,81.0,49.0,1540.0,53.0,32.0,54.0,53.0,70.0,61.0,3.2
+Carney Chukwuemeka,20,England,Chelsea FC,15.0,928.0,2.0,2.0,Midfield,right,187.0,69.0,82.0,54.0,1773.0,66.0,62.0,66.0,73.0,50.0,61.0,3.3
+Aaron Ramsey,21,England,Burnley FC,15.0,23507.0,64.0,62.0,Midfield,right,178.0,70.0,82.0,56.0,1799.0,73.0,63.0,67.0,72.0,50.0,60.0,3.8
+Tommaso Baldanzi,21,Italy,AS Roma,15.0,3216.0,6.0,0.0,Midfield,left,170.0,77.0,87.0,50.0,1890.0,78.0,72.0,74.0,81.0,41.0,50.0,23.0
+Giannis Konstantelias,21,Greece,PAOK Thessaloniki,15.0,4347.0,14.0,11.0,Midfield,both,178.0,73.0,83.0,43.0,1803.0,75.0,65.0,72.0,77.0,37.0,54.0,6.5
+Conor Bradley,21,Northern Ireland,Liverpool FC,15.0,1505.0,1.0,6.0,Defender,right,181.0,74.0,84.0,49.0,1904.0,82.0,59.0,66.0,72.0,68.0,72.0,8.5
+Fabio Miretti,21,Italy,Juventus FC,15.0,3103.0,2.0,5.0,Midfield,right,180.0,75.0,88.0,52.0,2033.0,77.0,60.0,75.0,78.0,66.0,72.0,13.5
+Elliot Anderson,21,Scotland,Nottingham Forest,15.0,1763.0,0.0,3.0,Midfield,right,179.0,74.0,82.0,40.0,2016.0,73.0,66.0,71.0,78.0,67.0,76.0,9.0
+Victor Kristiansen,21,Denmark,Leicester City,15.0,7686.0,1.0,10.0,Defender,left,181.0,74.0,80.0,46.0,1912.0,74.0,55.0,64.0,72.0,71.0,75.0,6.0
+Giovanni Fabbian,21,Italy,Bologna FC 1909,14.0,1263.0,5.0,2.0,Midfield,right,186.0,72.0,83.0,38.0,1942.0,71.0,73.0,70.0,73.0,60.0,63.0,5.0
+Valentín Barco,20,Argentina,Brighton & Hove Albion,13.0,318.0,0.0,0.0,Defender,left,170.0,72.0,84.0,49.0,1887.0,76.0,47.0,73.0,77.0,66.0,58.0,5.0
+Samuel Iling-Junior,20,England,Aston Villa,13.0,1545.0,2.0,4.0,Attack,left,182.0,73.0,87.0,45.0,1797.0,83.0,61.0,69.0,78.0,37.0,56.0,7.0
+Ibrahim Osman,19,Ghana,Feyenoord Rotterdam,12.0,2025.0,5.0,5.0,Attack,right,179.0,66.0,84.0,49.0,1608.0,84.0,58.0,57.0,72.0,27.0,54.0,2.2
+Abakar Sylla,21,Cote d'Ivoire,RC Strasbourg Alsace,12.0,3569.0,3.0,0.0,Defender,left,188.0,72.0,82.0,55.0,1699.0,71.0,30.0,56.0,68.0,70.0,77.0,4.8
+Patrick Dorgu,19,Denmark,US Lecce,12.0,1639.0,2.0,1.0,Defender,left,185.0,65.0,83.0,43.0,1673.0,80.0,50.0,54.0,67.0,57.0,53.0,1.7
+Semih Kılıçsoy,19,Türkiye,Besiktas JK,12.0,1806.0,12.0,3.0,Attack,right,178.0,68.0,84.0,36.0,1676.0,78.0,69.0,54.0,70.0,31.0,70.0,3.0
+Santiago Castro,19,Argentina,Bologna FC 1909,12.0,237.0,1.0,1.0,Attack,right,179.0,71.0,81.0,59.0,1809.0,82.0,71.0,56.0,71.0,37.0,68.0,4.0
+El Chadaille Bitshiabu,19,France,RB Leipzig,12.0,656.0,0.0,0.0,Defender,left,196.0,68.0,83.0,55.0,1504.0,37.0,36.0,55.0,51.0,67.0,77.0,2.6
+David Datro Fofana,21,Cote d'Ivoire,Chelsea FC,12.0,2499.0,8.0,3.0,Attack,right,180.0,72.0,83.0,54.0,1745.0,86.0,66.0,58.0,76.0,22.0,72.0,5.0
+Ricardo Pepi,21,United States,PSV Eindhoven,12.0,3895.0,22.0,6.0,Attack,right,185.0,73.0,83.0,54.0,1792.0,71.0,74.0,57.0,69.0,41.0,71.0,6.5
+James McAtee,21,England,Manchester City,12.0,1945.0,5.0,4.0,Midfield,left,180.0,70.0,80.0,45.0,1721.0,72.0,63.0,66.0,73.0,41.0,60.0,3.5
+Emanuel Emegha,21,Netherlands,RC Strasbourg Alsace,12.0,3525.0,11.0,2.0,Attack,right,195.0,72.0,82.0,49.0,1724.0,81.0,71.0,54.0,69.0,30.0,74.0,5.0
+Aster Vranckx,21,Belgium,VfL Wolfsburg,12.0,5348.0,7.0,5.0,Midfield,right,183.0,74.0,81.0,55.0,1993.0,61.0,66.0,71.0,77.0,69.0,76.0,8.5
+George Ilenikhena,18,France,AS Monaco,10.0,1115.0,9.0,1.0,Attack,left,185.0,70.0,86.0,38.0,1671.0,81.0,71.0,56.0,69.0,26.0,61.0,4.0
+Gianluca Prestianni,18,Argentina,SL Benfica,10.0,3.0,0.0,0.0,Attack,right,166.0,68.0,82.0,52.0,1675.0,87.0,60.0,57.0,76.0,35.0,46.0,2.8
+Jeanuël Belocian,19,France,Bayer 04 Leverkusen,10.0,2451.0,0.0,1.0,Defender,left,182.0,70.0,82.0,63.0,1786.0,69.0,41.0,64.0,65.0,70.0,69.0,3.5
+Lamine Camara,20,Senegal,AS Monaco,10.0,2266.0,1.0,4.0,Midfield,right,173.0,71.0,83.0,61.0,1861.0,79.0,62.0,71.0,73.0,54.0,57.0,4.4
+Dean Huijsen,19,Spain,AFC Bournemouth,10.0,614.0,2.0,1.0,Defender,both,197.0,68.0,85.0,55.0,1696.0,64.0,46.0,60.0,62.0,68.0,66.0,2.9
+Simone Pafundi,18,Italy,FC Lausanne-Sport,10.0,137.0,0.0,0.0,Midfield,left,166.0,68.0,86.0,43.0,1837.0,77.0,65.0,66.0,74.0,46.0,53.0,3.0
+Matteo Prati,20,Italy,Cagliari Calcio,10.0,1973.0,1.0,1.0,Midfield,right,185.0,73.0,85.0,55.0,1977.0,65.0,65.0,73.0,72.0,69.0,70.0,7.0
+Ismaël Doukouré,21,France,RC Strasbourg Alsace,10.0,3977.0,1.0,1.0,Defender,right,183.0,72.0,81.0,60.0,1736.0,67.0,42.0,60.0,64.0,72.0,71.0,4.8
+Shea Charles,20,Northern Ireland,Southampton FC,10.0,27.0,0.0,0.0,Midfield,right,189.0,67.0,79.0,40.0,1703.0,61.0,47.0,65.0,61.0,65.0,69.0,2.3
+Wilson Odobert,19,France,Tottenham Hotspur,10.0,4050.0,8.0,5.0,Attack,right,182.0,71.0,84.0,45.0,1669.0,86.0,64.0,62.0,75.0,30.0,47.0,4.4
+Ben Doak,18,Scotland,Liverpool FC,10.0,307.0,0.0,0.0,Attack,right,173.0,64.0,85.0,46.0,1521.0,82.0,52.0,51.0,71.0,28.0,52.0,1.8
+Mohamed-Ali Cho,20,France,OGC Nice,10.0,4272.0,7.0,7.0,Attack,left,182.0,74.0,83.0,35.0,1683.0,80.0,69.0,64.0,76.0,26.0,56.0,9.0
+Andreas Schjelderup,20,Norway,SL Benfica,10.0,4476.0,19.0,8.0,Attack,right,176.0,72.0,84.0,59.0,1779.0,78.0,66.0,65.0,76.0,35.0,54.0,5.5
+Ahmetcan Kaplan,21,Türkiye,Ajax Amsterdam,10.0,1828.0,0.0,2.0,Defender,left,189.0,68.0,81.0,61.0,1518.0,64.0,30.0,48.0,53.0,69.0,70.0,2.7
+Cesare Casadei,21,Italy,Chelsea FC,10.0,308.0,1.0,2.0,Midfield,right,185.0,68.0,82.0,49.0,1904.0,70.0,67.0,67.0,68.0,62.0,70.0,2.9
+Mario Stroeykens,19,Belgium,RSC Anderlecht,10.0,3056.0,8.0,6.0,Midfield,right,177.0,71.0,83.0,47.0,1808.0,74.0,69.0,67.0,72.0,42.0,64.0,4.4
+Devyne Rensch,21,Netherlands,Ajax Amsterdam,10.0,8308.0,9.0,11.0,Defender,both,181.0,74.0,82.0,47.0,1870.0,75.0,56.0,66.0,71.0,73.0,68.0,9.0
+Dilane Bakwa,21,France,RC Strasbourg Alsace,10.0,2275.0,3.0,6.0,Attack,left,180.0,75.0,82.0,45.0,1786.0,86.0,68.0,68.0,78.0,30.0,62.0,11.0
+Luca Netz,21,Germany,Borussia Mönchengladbach,10.0,5149.0,3.0,14.0,Defender,left,184.0,75.0,80.0,52.0,1874.0,79.0,48.0,69.0,72.0,71.0,65.0,8.0
+Joe Scally,21,United States,Borussia Mönchengladbach,10.0,7051.0,3.0,6.0,Defender,right,184.0,74.0,80.0,49.0,1830.0,81.0,49.0,63.0,71.0,71.0,72.0,6.0
+Christian Mawissa,19,France,AS Monaco,9.0,1399.0,2.0,0.0,Defender,left,180.0,71.0,85.0,51.0,1598.0,66.0,31.0,53.0,60.0,71.0,72.0,4.1
+Alejo Veliz,20,Argentina,RCD Espanyol Barcelona,9.0,76.0,1.0,0.0,Attack,right,186.0,75.0,85.0,37.0,1746.0,71.0,74.0,54.0,70.0,25.0,73.0,12.0
+Roony Bardghji,18,Sweden,FC Copenhagen,9.0,2085.0,12.0,0.0,Attack,left,173.0,70.0,85.0,63.0,1728.0,75.0,68.0,63.0,74.0,30.0,53.0,3.6
+Andy Diouf,21,France,RC Lens,9.0,1458.0,1.0,0.0,Midfield,left,187.0,74.0,82.0,57.0,2016.0,76.0,68.0,71.0,75.0,67.0,75.0,9.0
+Máximo Perrone,21,Argentina,Manchester City,9.0,1712.0,0.0,0.0,Midfield,left,177.0,71.0,83.0,56.0,1843.0,68.0,54.0,66.0,74.0,68.0,69.0,4.5
+Hákon Arnar Haraldsson,21,Iceland,LOSC Lille,9.0,1564.0,3.0,0.0,Attack,right,180.0,73.0,83.0,51.0,1934.0,76.0,64.0,70.0,75.0,57.0,68.0,6.5
+Lucas Gourna-Douath,21,France,Red Bull Salzburg,9.0,3122.0,1.0,0.0,Midfield,right,185.0,73.0,83.0,46.0,1870.0,76.0,52.0,65.0,71.0,70.0,76.0,6.0
+Arne Engels,20,Belgium,FC Augsburg,9.0,2930.0,3.0,9.0,Midfield,right,185.0,72.0,83.0,56.0,1965.0,68.0,64.0,73.0,74.0,63.0,71.0,5.0
+Julien Duranville,18,Belgium,Borussia Dortmund,8.5,279.0,1.0,0.0,Attack,right,173.0,66.0,87.0,51.0,1601.0,84.0,60.0,58.0,75.0,23.0,48.0,2.7
+Diego Gómez,21,Paraguay,Inter Miami CF,8.0,25.0,0.0,0.0,Midfield,right,164.0,68.0,78.0,35.0,1831.0,75.0,63.0,65.0,69.0,59.0,72.0,2.6
+Kassoum Ouattara,19,France,AS Monaco,8.0,634.0,1.0,0.0,Defender,left,176.0,69.0,83.0,43.0,1700.0,77.0,41.0,60.0,68.0,63.0,68.0,3.1
+Paul Wanner,18,Germany,1.FC Heidenheim 1846,8.0,92.0,0.0,0.0,Midfield,left,185.0,66.0,86.0,56.0,1643.0,68.0,52.0,64.0,72.0,44.0,45.0,2.3
+Ethan Nwaneri,17,England,Arsenal FC U21,8.0,14.0,0.0,0.0,Midfield,left,176.0,61.0,86.0,54.0,1597.0,68.0,59.0,59.0,63.0,39.0,50.0,1.0
+Tom Rothe,19,Germany,1.FC Union Berlin,8.0,177.0,1.0,1.0,Defender,left,193.0,70.0,83.0,47.0,1745.0,67.0,45.0,65.0,66.0,66.0,75.0,3.5
+Soungoutou Magassa,20,France,AS Monaco,8.0,1423.0,0.0,0.0,Defender,right,188.0,72.0,82.0,50.0,1750.0,58.0,48.0,64.0,62.0,71.0,71.0,4.7
+Samuel Edozie,21,England,Southampton FC,8.0,855.0,0.0,0.0,Attack,right,181.0,67.0,80.0,50.0,1583.0,81.0,56.0,58.0,71.0,28.0,51.0,2.5
+Konstantinos Koulierakis,20,Greece,PAOK Thessaloniki,8.0,3953.0,3.0,1.0,Defender,left,188.0,72.0,81.0,50.0,1730.0,69.0,43.0,56.0,63.0,71.0,71.0,4.7
+Liam Delap,21,England,Ipswich Town,8.0,120.0,0.0,0.0,Attack,right,186.0,71.0,82.0,48.0,1735.0,76.0,70.0,58.0,70.0,29.0,74.0,4.1
+Loum Tchaouna,20,France,SS Lazio,8.0,2312.0,6.0,4.0,Attack,left,180.0,67.0,79.0,63.0,1784.0,79.0,69.0,62.0,71.0,37.0,61.0,2.4
+Jean-Mattéo Bahoya,19,France,Eintracht Frankfurt,7.5,434.0,0.0,0.0,Attack,right,180.0,66.0,80.0,56.0,1681.0,71.0,65.0,60.0,71.0,40.0,54.0,2.0
+Ismaël Gharbi,20,Spain,Paris Saint-Germain,7.5,63.0,0.0,0.0,Midfield,right,173.0,68.0,78.0,52.0,1683.0,73.0,57.0,63.0,74.0,40.0,46.0,2.6
+Kevin Paredes,21,United States,VfL Wolfsburg,7.5,1993.0,4.0,3.0,Midfield,left,175.0,72.0,82.0,51.0,1754.0,80.0,58.0,65.0,76.0,55.0,47.0,5.0
+Junior Mwanga,21,France,RC Strasbourg Alsace,7.0,1456.0,1.0,1.0,Midfield,both,184.0,72.0,81.0,47.0,1785.0,68.0,50.0,62.0,68.0,71.0,72.0,4.8
+Saël Kumbedi,19,France,Olympique Lyon,7.0,2233.0,0.0,4.0,Defender,right,175.0,71.0,82.0,37.0,1753.0,82.0,42.0,62.0,72.0,65.0,62.0,3.8
+Darío Osorio,20,Chile,FC Midtjylland,7.0,659.0,5.0,0.0,Attack,left,184.0,66.0,78.0,49.0,1671.0,77.0,63.0,63.0,68.0,31.0,59.0,2.0
+Adamo Nagalo,21,Burkina Faso,FC Nordsjaelland,7.0,5814.0,4.0,2.0,Defender,right,185.0,71.0,82.0,55.0,1625.0,70.0,29.0,55.0,62.0,70.0,77.0,3.8
+Omari Hutchinson,20,Jamaica,Ipswich Town,7.0,49.0,0.0,0.0,Midfield,left,174.0,68.0,83.0,39.0,1749.0,76.0,63.0,64.0,71.0,46.0,55.0,2.9
+Guéla Doué,21,Cote d'Ivoire,RC Strasbourg Alsace,7.0,1542.0,0.0,4.0,Defender,right,187.0,70.0,81.0,59.0,1739.0,71.0,39.0,59.0,69.0,69.0,71.0,3.3
+Isaak Touré,21,France,FC Lorient,7.0,3707.0,2.0,1.0,Defender,left,206.0,72.0,83.0,45.0,1581.0,66.0,30.0,51.0,56.0,69.0,83.0,4.8
+Kristian Hlynsson,20,Iceland,Ajax Amsterdam,7.0,2099.0,7.0,3.0,Midfield,right,179.0,69.0,83.0,49.0,1702.0,67.0,63.0,63.0,72.0,41.0,48.0,3.3
+Matías Arezo,21,Uruguay,Grêmio Foot-Ball Porto Alegrense,7.0,515.0,0.0,0.0,Attack,right,177.0,71.0,81.0,45.0,1841.0,68.0,74.0,61.0,71.0,42.0,64.0,4.1
+Ryan Flamingo,21,Netherlands,PSV Eindhoven,7.0,5745.0,5.0,2.0,Defender,right,183.0,70.0,80.0,51.0,1863.0,65.0,61.0,62.0,64.0,69.0,75.0,3.3
+Umut Tohumcu,20,Germany,TSG 1899 Hoffenheim,7.0,1359.0,0.0,2.0,Midfield,both,175.0,69.0,84.0,42.0,1691.0,66.0,62.0,67.0,71.0,42.0,50.0,3.2
+Mika Biereth,21,Denmark,SK Sturm Graz,7.0,1380.0,8.0,5.0,Attack,right,187.0,65.0,77.0,52.0,1608.0,79.0,64.0,49.0,62.0,30.0,71.0,1.7
+Alan Minda,21,Ecuador,Cercle Brugge,6.0,1513.0,7.0,6.0,Attack,right,171.0,67.0,77.0,53.0,1715.0,84.0,60.0,60.0,69.0,50.0,53.0,2.2
+Oumar Diakité,20,Cote d'Ivoire,Stade Reims,6.0,1587.0,5.0,1.0,Attack,right,182.0,72.0,82.0,57.0,1715.0,79.0,71.0,57.0,70.0,21.0,69.0,5.0
+Isaac Babadi,19,Netherlands,PSV Eindhoven,6.0,508.0,2.0,0.0,Midfield,right,179.0,66.0,83.0,48.0,1612.0,76.0,51.0,59.0,73.0,43.0,45.0,2.2
+Max Finkgräfe,20,Germany,1.FC Köln,6.0,1757.0,1.0,0.0,Defender,left,183.0,68.0,79.0,47.0,1721.0,72.0,42.0,59.0,71.0,64.0,63.0,2.5
+Zeno Van Den Bosch,21,Belgium,Royal Antwerp FC,6.0,1750.0,0.0,1.0,Defender,right,191.0,71.0,81.0,47.0,1569.0,60.0,27.0,64.0,51.0,72.0,70.0,3.8
+Jacopo Fazzini,21,Italy,FC Empoli,6.0,2082.0,1.0,2.0,Midfield,right,178.0,67.0,81.0,51.0,1831.0,72.0,51.0,67.0,70.0,59.0,65.0,2.4
+Antoni Milambo,19,Netherlands,Feyenoord Rotterdam,6.0,307.0,1.0,1.0,Midfield,right,179.0,64.0,81.0,43.0,1657.0,68.0,54.0,63.0,69.0,44.0,55.0,1.5
+Diego Coppola,20,Italy,Hellas Verona,6.0,3327.0,2.0,0.0,Defender,right,193.0,71.0,80.0,44.0,1586.0,60.0,40.0,55.0,51.0,72.0,69.0,3.8
+Matthis Abline,21,France,FC Nantes,6.0,2082.0,9.0,3.0,Attack,right,182.0,69.0,76.0,60.0,1671.0,77.0,71.0,55.0,71.0,24.0,55.0,2.8
+Warren Bondo,20,France,AC Monza,6.0,1561.0,1.0,1.0,Midfield,right,177.0,63.0,79.0,49.0,1765.0,77.0,55.0,58.0,72.0,58.0,64.0,1.2
+Johann Lepenant,21,France,FC Nantes,6.0,2184.0,1.0,2.0,Midfield,right,176.0,73.0,79.0,46.0,1860.0,70.0,56.0,67.0,71.0,69.0,69.0,4.3
+Elias Jelert,21,Denmark,Galatasaray,5.5,2905.0,0.0,1.0,Defender,right,178.0,71.0,81.0,48.0,1917.0,85.0,57.0,64.0,73.0,63.0,73.0,3.9
+Matte Smets,20,Belgium,KRC Genk,5.0,3769.0,0.0,0.0,Defender,right,184.0,71.0,83.0,45.0,1693.0,67.0,33.0,63.0,65.0,72.0,70.0,4.2
+Nathan Zézé,19,France,FC Nantes,5.0,1082.0,0.0,0.0,Defender,left,190.0,67.0,83.0,53.0,1479.0,66.0,31.0,44.0,48.0,70.0,63.0,2.4
+Ibrahim Maza,18,Germany,Hertha BSC,5.0,70.0,1.0,0.0,Attack,right,180.0,64.0,81.0,55.0,1656.0,70.0,60.0,60.0,71.0,38.0,54.0,1.5
+Senny Mayulu,18,France,Paris Saint-Germain,5.0,323.0,0.0,1.0,Midfield,both,183.0,64.0,83.0,37.0,1698.0,73.0,60.0,62.0,70.0,48.0,53.0,1.5
+Diego Luna,20,United States,Real Salt Lake City,5.0,1406.0,0.0,0.0,Defender,right,186.0,64.0,81.0,54.0,1700.0,77.0,58.0,57.0,72.0,38.0,68.0,1.5
+Nelson Weiper,19,Germany,1.FSV Mainz 05,5.0,215.0,2.0,0.0,Attack,right,192.0,66.0,86.0,47.0,1556.0,66.0,65.0,46.0,65.0,25.0,67.0,2.4
+Alfie Gilchrist,20,England,Sheffield United,5.0,431.0,1.0,0.0,Defender,right,183.0,63.0,80.0,37.0,1501.0,61.0,34.0,50.0,50.0,64.0,66.0,1.2
+Khalil Fayad,20,Morocco,Montpellier HSC,5.0,1725.0,3.0,2.0,Midfield,right,172.0,67.0,80.0,53.0,1693.0,65.0,57.0,66.0,73.0,54.0,39.0,2.4
+Luka Romero,19,Argentina,Deportivo Alavés,5.0,890.0,4.0,0.0,Attack,left,169.0,72.0,84.0,57.0,1868.0,79.0,65.0,66.0,75.0,53.0,57.0,5.5
+Williot Swedberg,20,Sweden,Celta de Vigo,5.0,991.0,5.0,1.0,Midfield,right,187.0,70.0,82.0,48.0,1850.0,71.0,68.0,66.0,71.0,59.0,60.0,3.8
+Jorne Spileers,19,Belgium,Club Brugge KV,5.0,3236.0,1.0,1.0,Defender,right,188.0,70.0,84.0,52.0,1617.0,73.0,31.0,58.0,57.0,70.0,70.0,3.5
+Ruben van Bommel,20,Netherlands,AZ Alkmaar,5.0,1958.0,9.0,1.0,Attack,right,192.0,68.0,83.0,44.0,1618.0,85.0,65.0,59.0,70.0,25.0,61.0,2.8
+Noah Sadiki,19,DR Congo,Union Saint-Gilloise,5.0,1930.0,0.0,2.0,Midfield,right,183.0,65.0,79.0,56.0,1651.0,73.0,38.0,58.0,67.0,62.0,66.0,1.6
+Mathias Delorge,20,Belgium,KAA Gent,5.0,2668.0,1.0,3.0,Midfield,left,189.0,71.0,82.0,59.0,1812.0,63.0,59.0,71.0,68.0,61.0,68.0,3.9
+Leo Sauer,18,Slovakia,NAC Breda,5.0,288.0,2.0,4.0,Attack,right,184.0,66.0,83.0,49.0,1644.0,81.0,58.0,61.0,70.0,39.0,50.0,2.1
+Badredine Bouanani,19,Algeria,OGC Nice,5.0,1457.0,1.0,4.0,Attack,left,177.0,69.0,79.0,55.0,1684.0,71.0,64.0,68.0,71.0,31.0,50.0,2.9
+Kamory Doumbia,21,Mali,Stade Reims,5.0,2370.0,10.0,8.0,Midfield,right,170.0,73.0,80.0,52.0,1894.0,70.0,67.0,70.0,75.0,57.0,59.0,6.0
+Orri Óskarsson,19,Iceland,FC Copenhagen,5.0,1411.0,8.0,7.0,Attack,right,186.0,65.0,80.0,62.0,1679.0,70.0,64.0,57.0,65.0,30.0,68.0,1.7
+Félix Lemaréchal,21,France,RC Strasbourg Alsace,5.0,1851.0,0.0,3.0,Midfield,right,180.0,69.0,80.0,56.0,1796.0,64.0,54.0,69.0,68.0,61.0,68.0,3.0
+Serdar Saatçı,21,Türkiye,SC Braga,5.0,3113.0,1.0,3.0,Defender,right,190.0,73.0,80.0,51.0,1584.0,69.0,30.0,49.0,61.0,73.0,75.0,5.5
+Wouter Goes,20,Netherlands,AZ Alkmaar,5.0,2005.0,1.0,1.0,Defender,right,187.0,67.0,82.0,44.0,1566.0,67.0,31.0,51.0,60.0,68.0,64.0,2.3
+Bashir Humphreys,21,England,Burnley FC,4.8,392.0,0.0,0.0,Defender,left,186.0,67.0,80.0,59.0,1576.0,65.0,31.0,51.0,55.0,67.0,67.0,2.3
+Yasin Özcan,18,Türkiye,Kasimpasa,4.5,4231.0,4.0,2.0,Defender,left,185.0,63.0,77.0,45.0,1509.0,65.0,36.0,45.0,55.0,64.0,67.0,1.0
+Antonio Raimondo,20,Italy,Venezia FC,4.5,14.0,0.0,0.0,Attack,left,185.0,65.0,80.0,37.0,1630.0,67.0,63.0,61.0,68.0,28.0,59.0,1.7
+Paxten Aaronson,20,United States,FC Utrecht,4.5,1609.0,4.0,3.0,Midfield,right,175.0,68.0,79.0,51.0,1667.0,77.0,58.0,63.0,71.0,40.0,48.0,2.6
+Cristian Volpato,20,Italy,US Sassuolo,4.5,1221.0,2.0,2.0,Midfield,left,187.0,69.0,85.0,48.0,1718.0,67.0,64.0,67.0,71.0,39.0,62.0,3.6
+Kyriani Sabbe,19,Belgium,Club Brugge KV,4.5,741.0,0.0,3.0,Defender,right,176.0,67.0,83.0,54.0,1729.0,76.0,49.0,64.0,68.0,61.0,57.0,2.5
+Yasin Ayari,20,Sweden,Brighton & Hove Albion,4.5,513.0,1.0,0.0,Midfield,right,172.0,66.0,78.0,49.0,1700.0,64.0,51.0,66.0,69.0,52.0,58.0,2.0
+Filippo Terracciano,21,Italy,AC Milan,4.5,2316.0,0.0,2.0,Defender,right,186.0,71.0,82.0,56.0,1954.0,81.0,60.0,71.0,71.0,67.0,69.0,4.1
+Enso González,19,Paraguay,Wolverhampton Wanderers,4.0,1.0,0.0,0.0,Attack,left,169.0,63.0,83.0,54.0,1528.0,81.0,48.0,58.0,70.0,35.0,41.0,1.3
+Ibrahim Sulemana,21,Ghana,Atalanta BC,4.0,2231.0,2.0,0.0,Midfield,right,180.0,70.0,81.0,52.0,1928.0,75.0,61.0,64.0,68.0,68.0,75.0,3.3
+Momodou Lamin Sonko,19,Sweden,KAA Gent,4.0,664.0,3.0,1.0,Attack,right,176.0,63.0,84.0,46.0,1516.0,80.0,61.0,50.0,69.0,17.0,51.0,1.5
+Alan Matturro,19,Uruguay,Genoa CFC,4.0,284.0,0.0,0.0,Defender,left,189.0,65.0,82.0,51.0,1522.0,68.0,30.0,50.0,53.0,66.0,65.0,1.7
+Bénie Traoré,21,Cote d'Ivoire,FC Basel 1893,4.0,929.0,0.0,1.0,Attack,right,172.0,68.0,77.0,48.0,1701.0,86.0,65.0,54.0,75.0,32.0,63.0,2.7
+Ayman Kari,19,France,Paris Saint-Germain,4.0,993.0,1.0,1.0,Midfield,right,176.0,68.0,82.0,62.0,1805.0,70.0,53.0,66.0,73.0,59.0,65.0,2.8
+Mika Godts,19,Belgium,Ajax Amsterdam,4.0,641.0,0.0,3.0,Attack,right,176.0,66.0,84.0,53.0,1677.0,77.0,58.0,61.0,74.0,39.0,54.0,2.2
+Nazar Voloshyn,21,Ukraine,Dynamo Kyiv,4.0,3559.0,16.0,8.0,Attack,right,175.0,66.0,80.0,56.0,1559.0,68.0,60.0,61.0,66.0,28.0,50.0,2.1
+Tim Iroegbunam,21,England,Everton FC,4.0,258.0,0.0,0.0,Midfield,right,183.0,69.0,81.0,49.0,1819.0,66.0,58.0,64.0,68.0,66.0,71.0,3.2
+Tim Oermann,20,Germany,VfL Bochum,4.0,901.0,0.0,0.0,Defender,right,189.0,68.0,77.0,44.0,1567.0,67.0,34.0,54.0,58.0,68.0,68.0,2.4
+Dorgeles Nene,21,Mali,Red Bull Salzburg,4.0,1484.0,8.0,4.0,Attack,right,174.0,67.0,76.0,35.0,1763.0,85.0,70.0,61.0,72.0,37.0,54.0,2.3
+Tom Cannon,21,Ireland,Leicester City,4.0,300.0,1.0,1.0,Attack,right,180.0,69.0,77.0,45.0,1691.0,79.0,69.0,56.0,72.0,27.0,59.0,3.1
+Jacob Ondrejka,21,Sweden,Royal Antwerp FC,4.0,839.0,5.0,2.0,Attack,right,180.0,70.0,79.0,55.0,1845.0,79.0,64.0,68.0,72.0,46.0,60.0,3.5
+Gabriel Slonina,20,United States,Barnsley FC,4.0,2520.0,0.0,0.0,Goalkeeper,right,193.0,68.0,81.0,330.0,1105.0,69.0,64.0,63.0,69.0,45.0,65.0,2.5
+Emin Bayram,21,Türkiye,KVC Westerlo,4.0,2643.0,1.0,2.0,Defender,right,192.0,67.0,78.0,50.0,1605.0,63.0,31.0,55.0,63.0,68.0,69.0,2.1
+Cher Ndour,20,Italy,Besiktas JK,4.0,310.0,1.0,0.0,Midfield,both,190.0,68.0,82.0,54.0,1774.0,55.0,61.0,68.0,68.0,57.0,70.0,2.8
+Rav van den Berg,20,Netherlands,Middlesbrough FC,4.0,583.0,1.0,0.0,Defender,right,191.0,67.0,84.0,50.0,1536.0,66.0,32.0,50.0,59.0,67.0,68.0,2.4
+Shola Shoretire,20,England,PAOK Thessaloniki,4.0,61.0,0.0,0.0,Midfield,both,171.0,62.0,79.0,36.0,1609.0,73.0,54.0,57.0,67.0,37.0,54.0,1.0
+Calvin Ramsay,21,Scotland,Wigan Athletic,4.0,2427.0,1.0,9.0,Defender,right,177.0,65.0,79.0,47.0,1695.0,76.0,43.0,60.0,66.0,56.0,66.0,1.6
+Gaetano Oristanio,21,Italy,Venezia FC,4.0,3225.0,3.0,4.0,Midfield,left,174.0,71.0,84.0,41.0,1896.0,87.0,66.0,69.0,76.0,49.0,60.0,4.5
+Mattia Zanotti,21,Italy,FC Lugano,4.0,26.0,0.0,0.0,Defender,right,177.0,71.0,82.0,46.0,1942.0,78.0,59.0,69.0,70.0,68.0,70.0,3.9
+Armindo Sieb,21,Germany,1.FSV Mainz 05,4.0,26.0,0.0,0.0,Attack,both,175.0,69.0,79.0,56.0,1689.0,87.0,65.0,55.0,74.0,26.0,64.0,3.1
+Christopher Bonsu Baah,19,Ghana,KRC Genk,3.5,1308.0,1.0,1.0,Attack,left,172.0,69.0,81.0,38.0,1670.0,85.0,63.0,59.0,77.0,29.0,57.0,3.2
+Óscar Cortés,20,Colombia,Rangers FC,3.5,419.0,2.0,3.0,Attack,right,178.0,69.0,80.0,43.0,1780.0,78.0,66.0,65.0,71.0,48.0,53.0,3.0
+Tom Bischof,19,Germany,TSG 1899 Hoffenheim,3.5,531.0,0.0,2.0,Midfield,left,176.0,67.0,86.0,53.0,1651.0,61.0,55.0,65.0,72.0,43.0,50.0,2.6
+Cihan Çanak,19,Türkiye,Trabzonspor,3.5,1470.0,1.0,5.0,Attack,left,175.0,66.0,81.0,46.0,1690.0,80.0,58.0,64.0,75.0,39.0,50.0,2.0
+Joel Mvuka,21,Norway,FC Lorient,3.5,279.0,0.0,0.0,Attack,right,176.0,69.0,78.0,56.0,1697.0,89.0,57.0,59.0,74.0,41.0,46.0,3.1
+Jay Stansfield,21,England,Fulham FC,3.5,585.0,1.0,2.0,Attack,right,187.0,67.0,79.0,43.0,1689.0,79.0,69.0,59.0,68.0,26.0,64.0,2.5
+Alan Virginius,21,France,BSC Young Boys,3.5,1261.0,1.0,3.0,Attack,right,180.0,68.0,80.0,59.0,1586.0,90.0,59.0,59.0,71.0,27.0,40.0,2.9
+Samuele Vignato,20,Italy,AC Monza,3.5,487.0,1.0,1.0,Midfield,right,172.0,65.0,81.0,48.0,1606.0,72.0,59.0,60.0,74.0,34.0,42.0,1.9
+Myron van Brederode,21,Netherlands,AZ Alkmaar,3.5,2943.0,7.0,5.0,Attack,right,174.0,69.0,79.0,53.0,1642.0,68.0,58.0,60.0,79.0,32.0,54.0,3.0
+Adam Obert,21,Slovakia,Cagliari Calcio,3.5,1677.0,0.0,1.0,Defender,left,188.0,68.0,78.0,50.0,1719.0,68.0,41.0,60.0,64.0,69.0,67.0,2.5
+Youri Regeer,21,Netherlands,Twente Enschede FC,3.5,2017.0,2.0,2.0,Midfield,right,177.0,70.0,81.0,57.0,1865.0,75.0,57.0,68.0,71.0,66.0,67.0,3.3
+Nathan Ngoy,21,Belgium,Standard Liège,3.5,2100.0,1.0,0.0,Defender,right,183.0,66.0,77.0,54.0,1621.0,78.0,44.0,49.0,61.0,65.0,71.0,1.8
+Paul Nebel,21,Germany,1.FSV Mainz 05,3.5,319.0,0.0,2.0,Attack,both,169.0,71.0,80.0,45.0,1702.0,74.0,62.0,66.0,76.0,30.0,58.0,4.1
+Mahamadou Diawara,19,France,Olympique Lyon,3.0,355.0,0.0,0.0,Midfield,left,187.0,67.0,81.0,37.0,1752.0,69.0,55.0,65.0,67.0,61.0,69.0,2.4
+Ngal'ayel Mukau,19,DR Congo,LOSC Lille,3.0,1326.0,0.0,0.0,Midfield,left,188.0,66.0,80.0,52.0,1641.0,64.0,40.0,55.0,64.0,66.0,64.0,1.9
+Gustavo Puerta,21,Colombia,Bayer 04 Leverkusen,3.0,229.0,0.0,0.0,Midfield,right,173.0,65.0,79.0,54.0,1706.0,65.0,58.0,62.0,64.0,59.0,60.0,1.7
+Lovro Zvonarek,19,Croatia,SK Sturm Graz,3.0,161.0,1.0,0.0,Midfield,right,180.0,64.0,78.0,51.0,1600.0,69.0,57.0,62.0,68.0,34.0,52.0,1.4
+Matija Frigan,21,Croatia,KVC Westerlo,3.0,1006.0,4.0,1.0,Attack,left,185.0,69.0,79.0,43.0,1791.0,79.0,68.0,59.0,68.0,36.0,74.0,3.1
+Gino Infantino,21,Argentina,ACF Fiorentina,3.0,185.0,0.0,0.0,Midfield,left,178.0,67.0,79.0,44.0,1751.0,75.0,61.0,64.0,71.0,48.0,59.0,2.5
+Tygo Land,18,Netherlands,PSV Eindhoven,3.0,19.0,0.0,1.0,Midfield,right,178.0,62.0,84.0,57.0,1691.0,74.0,50.0,64.0,71.0,52.0,43.0,1.2
+Mayckel Lahdo,21,Sweden,AZ Alkmaar,3.0,1829.0,10.0,7.0,Attack,right,171.0,68.0,79.0,56.0,1619.0,82.0,64.0,59.0,73.0,27.0,54.0,2.6
+Tom Louchet,21,France,OGC Nice,3.0,399.0,1.0,2.0,Midfield,both,178.0,66.0,77.0,51.0,1794.0,70.0,60.0,64.0,69.0,60.0,61.0,1.9
+Joseph Nonge,19,Belgium,Juventus Next Gen,3.0,49.0,0.0,0.0,Midfield,left,184.0,64.0,81.0,46.0,1768.0,68.0,49.0,64.0,66.0,64.0,60.0,1.5
+Lucas Noubi,19,Belgium,Standard Liège,3.0,1391.0,0.0,0.0,Defender,right,184.0,66.0,81.0,52.0,1532.0,75.0,21.0,52.0,64.0,63.0,74.0,1.9
+Emirhan İlkhan,20,Türkiye,Torino FC,3.0,1864.0,2.0,2.0,Midfield,right,175.0,64.0,79.0,55.0,1686.0,66.0,58.0,63.0,70.0,50.0,48.0,1.4
+Jhon Solís,19,Colombia,Girona FC,3.0,690.0,0.0,1.0,Midfield,right,186.0,69.0,80.0,52.0,1819.0,64.0,61.0,63.0,65.0,66.0,74.0,2.9
+Giuliano Simeone,21,Argentina,Atlético de Madrid,3.0,719.0,1.0,2.0,Attack,right,173.0,72.0,82.0,55.0,1796.0,82.0,69.0,58.0,70.0,26.0,79.0,5.0
+Lucas Hey,21,Denmark,FC Nordsjaelland,3.0,2504.0,0.0,0.0,Defender,right,189.0,65.0,79.0,46.0,1610.0,62.0,41.0,55.0,60.0,65.0,65.0,1.6
+Andrew Moran,20,Ireland,Stoke City,3.0,505.0,2.0,3.0,Midfield,right,177.0,67.0,80.0,69.0,1739.0,76.0,58.0,66.0,71.0,39.0,55.0,2.4
+Matias Fernandez-Pardo,19,Belgium,KAA Gent,3.0,260.0,1.0,0.0,Attack,right,183.0,62.0,78.0,50.0,1560.0,75.0,58.0,59.0,67.0,28.0,51.0,1.0
+Dexter Lembikisa,20,Jamaica,Wolverhampton Wanderers U21,3.0,1176.0,1.0,0.0,Defender,right,180.0,64.0,73.0,45.0,1614.0,83.0,43.0,54.0,60.0,59.0,59.0,1.2
+Anton Gaaei,21,Denmark,Ajax Amsterdam,3.0,4030.0,2.0,9.0,Defender,right,183.0,67.0,78.0,50.0,1724.0,84.0,48.0,57.0,65.0,59.0,67.0,2.1
+Aljoscha Kemlein,20,Germany,1.FC Union Berlin,3.0,108.0,0.0,0.0,Midfield,right,185.0,66.0,78.0,53.0,1738.0,60.0,57.0,63.0,65.0,62.0,63.0,1.9
+Robert Wagner,21,Germany,FC St. Pauli,3.0,124.0,0.0,0.0,Midfield,right,181.0,69.0,82.0,57.0,1730.0,68.0,45.0,66.0,69.0,60.0,70.0,3.3
